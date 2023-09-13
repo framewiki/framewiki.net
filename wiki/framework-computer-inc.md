@@ -1,5 +1,5 @@
 # Framework Computer Inc
-Framework is a US-based consumer electronics company creating customizable and repairable laptops. Framework is a proponent of the Right to Repair movement, designing their products to be easily opened and repaired. They also sell replacement parts on their website, including kits that allow users to upgrade an older Framework Laptop to a newer generation.
+Framework Computer Inc is a US-based consumer electronics company creating customizable and repairable laptops. Framework is a proponent of the Right to Repair movement, designing their products to be easily opened and repaired. They also sell replacement parts on their website, including kits that allow users to upgrade an older Framework Laptop to a newer generation.
 
 In November 2021, Time magazine listed the Framework Laptop on their [list of the 100 Best Inventions of 2021](https://time.com/collection/best-inventions-2021/6112625/framework-laptop/). In March 2022, Fast Company listed the Framework Laptop on their [list of the Most Innovative Companies of 2022.](https://www.fastcompany.com/90722815/framework-innovative-laptop-easy-repair-electronics)
 
