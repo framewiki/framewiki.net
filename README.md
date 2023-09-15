@@ -6,3 +6,6 @@ This wiki and the resources within it are **COMPLETELY UNOFFICIAL** and not in a
 
 ## Contributing
 For information on contributing to Framewiki, see [Framewiki: Contributing](/framewiki:contributing)
+
+## Community
+This wiki is maintaned by members of the Framework Community. Join the Official Framework community on [Discord](https://discord.gg/framework), [Reddit](https://reddit.com/r/framework), or [the forums](https://community.frame.work).
