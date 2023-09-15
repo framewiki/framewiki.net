@@ -1,4 +1,3 @@
 # Framewiki: Best Practices
 
-
 ## Citations
