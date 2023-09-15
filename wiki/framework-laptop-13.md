@@ -9,7 +9,7 @@ Framework Laptop 13 is available in pre-built and DIY configurations. Though the
 
 The first batches of DIY edition laptops had consumers install their own RAM, SSD, Wifi and Expansion cards. After receiving feedback that the WiFi module was difficult to install, Framework began installing it at the factory. [[3]](https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide).
 
-Beginning with 13th Gen Intel Core and AMD 7040 Series, DIY edition Framework Laptop 13s began shipping without the input cover and bezel installed in order to add more customization options and optimize the number of SKUs required. [[citation needed]](/framewiki:citation-needed)
+Beginning with 13th Gen Intel Core and AMD 7040 Series, DIY edition Framework Laptop 13s ship without the input cover and bezel installed in order to add more customization options and optimize the number of SKUs required. [[citation needed]](/framewiki:citation-needed)
 
 ## Generations
 ### 11th Gen Intel Core
