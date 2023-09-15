@@ -11,8 +11,21 @@ The first batches of DIY edition laptops had consumers install their own RAM, SS
 
 Beginning with 13th Gen Intel Core and AMD 7040 Series, DIY edition Framework Laptop 13s began shipping without the input cover and bezel installed in order to add more customization options and optimize the number of SKUs required. [[citation needed]](/framewiki:citation-needed)
 
-## Specs and Changes by Generation
+## Generations
 ### 11th Gen Intel Core
+Batch 1 of 11th Gen Intel Core began shipping in August 2021. In October 2021, Framework switched the audio codec from Realtek ALC295 to the Tempo 92HD95B due to chip shortages. [[4]](https://frame.work/blog/solving-for-silicon-shortages)
+
 ### 12th Gen Intel Core
+Batch 1 of 12th Gen Intel Core began shipping in July 2022. It featured an improved CNC alluminum top cover. It also included electrical changes that meant the Real Time Clock battery was no longer required for the laptop to function. 
+
+YouTuber Linus Sebastian, of Linus Tech Tips, incorrectly claimed that 12th Gen also shipped with 4kg hinges. [[5]](https://youtube.com/watch?v=SYc922ntnKM) In fact, it shipped with the same 3.3kg hinges as 11th gen, but 4kg hinges were made available as an optional component.
+
 ### 13th Gen Intel Core
+Batch 1 of 13th Gen Intel Core began shipping in May 2023. It was announced at the same time as AMD 7040 series. It features a new matte display, compared to previous generations' glossy displays, and improved 3.5kg hinges. 13th gen does not come with the RTC battery pre-populated, but an ML1220 battery holder can be populated by the consumer for standalone mainboard use. It also includes louder 80 dB speakers and a WiFi card bracket which holds the antenna connectors in place while the user handles the card.
+
+Devices configured with a Core i7 CPU also include a higher-capacity 61 watt hour battery.
+
 ### AMD 7040 Series
+Batch one of AMD 7040 series began mass production in Sep 2023. It was announced at the same time as 13th Gen Intel Core. It features the same matte display, improved hinges and WiFi card bracket as 13th Gen Intel Core. AMD 7040 series changed from an ML1220 battery holder to a two-pin RTC battery connector, which is still unpopulated by default. 
+
+Devices configured with a Ryzen 7 CPU also include the higher-capacity 61 watt hour battery.
