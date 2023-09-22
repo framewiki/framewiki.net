@@ -7,6 +7,6 @@ On the Framework Laptop 16, there are 8 input module connectors. Five of them --
 
 ## Third-Party Input Modules
 
-Framework published electrical and mechanical information on their GitHub to allow third-party developers to design and manufacture their own Input Modules. [[3]]((https://github.com/FrameworkComputer/InputModules)) As of September 2023, a few people are working on building their own Input Modules, but none are currently available for sale. Some examples are below:
+Framework published electrical and mechanical information on their GitHub to allow third-party developers to design and manufacture their own Input Modules. [[3]](https://github.com/FrameworkComputer/InputModules) As of September 2023, a few people are working on building their own Input Modules, but none are currently available for sale. Some examples are below:
 
 - RGB LED Matrix Input Module by Joe Schroedl. Available on [GitHub](https://github.com/corndog2000/RGB-LED-Matrix-Input-Module)
