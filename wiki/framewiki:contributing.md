@@ -1,9 +1,9 @@
 # Framewiki: Contributing
 
-## The Basics of Contribuitng
+## Editing Framewiki
 To edit Framewiki, you'll need to have a GitHub account. Framewiki is written in Markdown and deployed via GitHub Pages. Automations to make editing more wiki-like will be added in the near future.
 
-Be sure to review and follow [Framewiki: Best Practices](/framewiki:best-practices) when editing.
+Be sure to review and follow [Framewiki: Guidelines](/framewiki:guidelines) when editing.
 
 ### Editing articles
 To update an existing page, click the Edit button at the top right of any page to begin editing. If you don't already have one, GitHub will prompt you to create a fork. Once you've made your changes and committed them, open a Pull Request into `framewiki/framewiki.net:main`, which is the production branch that Framewiki is automatically built and deployed from.
