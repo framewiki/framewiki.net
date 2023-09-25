@@ -14,6 +14,8 @@ The first batches of DIY edition laptops had consumers install their own RAM, SS
 
 Beginning with 13th Gen Intel Core and AMD 7040 Series, DIY edition Framework Laptop 13s ship without the input cover and bezel installed in order to add more customization options and optimize the number of SKUs required. [[citation needed]](/framewiki:citation-needed)
 
+DIY Edition laptops are fully assembled at the factory for quality assurance testing before being partially disasembled and packaged. [[6]](https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634). For this reason, if a customer buys all the parts --- including a power adapter and Windows license --- from Framework's marketplace, DIY Edition laptops are slightly more expensive when compared to a similarly configured pre-built.
+
 ## Generations
 ### 11th Gen Intel Core
 Batch 1 of 11th Gen Intel Core began shipping in August 2021. 
