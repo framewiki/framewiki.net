@@ -1,2 +1,7 @@
+# Technical Files - Should be owned by @framewiki/admins
 _config.yml @framewiki/admins
 .github/ @framewiki/admins
+
+# Fully-Protected - Should be owned by @framewiki/admins @framewiki/maintainers
+
+# Semi-Protected - Should be owned by @framewiki/admins @framewiki/maintainers @framewiki/editors

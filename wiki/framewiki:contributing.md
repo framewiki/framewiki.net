@@ -14,29 +14,4 @@ If you are adding a wiki page, click the Add new button at the top right of any 
 If the new page should be shown in the menu, ensure you add it via `_includes/sidebar.html`.
 
 ### Deploying changes
-Once you've made your changes and committed them, open a Pull Request into `framewiki/framewiki.net:main`, which is the production branch that Framewiki is automatically built and deployed from. The first time you contribute, an editor, maintainer or admin will need to approve your changes. After that, they will deploy automatically unless they include changes to protected parts of the wiki. For more info, see User Access Levels below.
-
-## User Access Levels
-Framewiki user access levels are configured via GitHub teams and codeowners.
-
-### @framewiki/admins
-Admins have unlimited access to Framewiki. They can:
-- Moderate comments/discussions
-- Make structural and technical changes to Framewiki
-- Push changes directly (without creating a pull request)
-- Edit and approve changes to fully- or semi-protected pages
-
-### @framewiki/maintainers
-Maintainers are the highest level of non-admin editors. They can: 
-- Moderate comments
-- Edit and approve changes to fully- or semi-protected pages
-
-### @framewiki/editors
-Editors are known, trusted Framewiki editors. They can:
-- Edit and approve changes to semi-protected pages
-
-### Contributors
-Anyone who has had changes accepted to Framewiki at least once is considered a contributor. Their pull requests with changes are automatically merged, unless they modify semi- or fully-protected pages or structural/technical files.
-
-### First-Time Contributors
-The first time someone attempts to contribute, their changes will need to be approved by an editor, maintainer, or admin.
+Once you've made your changes and committed them, open a Pull Request into `framewiki/framewiki.net:main`, which is the production branch that Framewiki is automatically built and deployed from. The first time you contribute, an editor, maintainer or admin will need to approve your changes. After that, they will deploy automatically unless they include changes to [protected](/framewiki:protection) parts of the wiki. 
