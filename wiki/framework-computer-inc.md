@@ -6,4 +6,4 @@ In November 2021, Time magazine listed the Framework Laptop on their list of the
 ## History
 Framework was founded by Nirav Patel in January 2020. The company received $9 million in seed-round funding in the first half of 2021. They opened pre-orders for their first product, [Framework Laptop 13](/framework-laptop-13) (11th Gen Intel Core), in May 2021. Those pre-orders began shipping in July of that year.
 
-In September 2021, YouTuber Linus Sebastian invested $225,000 in the company in order to support their mission. [[citation needed]](/framewiki:citation-needed) Spark Capital led Framework's Series A round, which raised an additional $18 million in January 2022.
+In September 2021, YouTuber Linus Sebastian invested $225,000 in the company in order to support their mission. [[3]]([/framewiki:citation-needed](https://www.youtube.com/watch?v=LSxbc1IN9Gg)) Spark Capital led Framework's Series A round, which raised an additional $18 million in January 2022.
