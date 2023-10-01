@@ -1,1 +1,0 @@
-# Framework Laptop 13 (AMD 7040 Series)

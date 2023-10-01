@@ -1,1 +1,0 @@
-# Framework Laptop 13 (11th Gen Intel Core)
