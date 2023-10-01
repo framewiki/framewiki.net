@@ -8,3 +8,6 @@ To add a citation, insert the following Markdown syntax. It should be inserted a
 ```md
 [[1]](https://frame.work)
 ```
+
+## Talk
+The official Framework forums' [community guidelines](https://community.frame.work/t/community-guidelines/5) apply in talk spaces on Framewiki.
