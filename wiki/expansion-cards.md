@@ -10,3 +10,4 @@ Framework published electrical and mechanical templates on their GitHub to enabl
 - ESP32-S3 card by [Spacehuhn](https://www.youtube.com/watch?v=IML9c_MsyQU). Available on [GitHub](https://github.com/SpacehuhnTech/framework) or [for purchase](https://spacehuhn.store/products/framework-esp32-s3-expansion-card)
 - Snack Drawer V2 by [XenoCow](https://community.frame.work/u/XenoCow). Available [for purchase](https://layers3d.square.site/) as files or completed part. [[3]](https://community.frame.work/t/the-snack-drawer-v2-back-in-snacktion/18442).
 - Snack Drawer Lite by [XenoCow](https://community.frame.work/u/XenoCow). Available [for download](https://drive.protonmail.com/urls/W2XVGGM1R8#evo86FpGID76). [[4]](https://community.frame.work/t/lite-snack-drawer-simple-free-ready-for-snacks/8451).
+- OpenCom LTE card by [Liberated Embedded Systems](https://liberatedsystems.co.uk). Available [for purchase](https://store.liberatedsystems.co.uk/product/opencom-lte/).
