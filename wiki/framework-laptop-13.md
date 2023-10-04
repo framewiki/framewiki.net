@@ -17,12 +17,12 @@ Beginning with 13th Gen Intel Core and AMD 7040 Series, DIY edition Framework La
 DIY Edition laptops are fully assembled at the factory for quality assurance testing before being partially disasembled and packaged. [[6]](https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634). For this reason, if a customer buys all the parts --- including a power adapter and Windows license --- from Framework's marketplace, DIY Edition laptops are slightly more expensive when compared to a similarly configured pre-built.
 
 ## Generations
-### 11th Gen Intel Core
+### [11th Gen Intel Core](/framework-laptop-13/11th-gen)
 Batch 1 of 11th Gen Intel Core began shipping in August 2021. 
 
 In October 2021, Framework switched the audio codec from Realtek ALC295 to the Tempo 92HD95B due to chip shortages. [[4]](https://frame.work/blog/solving-for-silicon-shortages)
 
-### 12th Gen Intel Core
+### [12th Gen Intel Core](/framework-laptop-13/12th-gen)
 Batch 1 of 12th Gen Intel Core began shipping in July 2022. Compared to 11th Gen Intel Core, it included the following changes:
 
 - Improved CNC alluminum top cover
@@ -30,7 +30,7 @@ Batch 1 of 12th Gen Intel Core began shipping in July 2022. Compared to 11th Gen
 
 Linus Tech Tips incorrectly claimed that 12th Gen also shipped with new 4 kg hinges. [[5]](https://youtube.com/watch?v=SYc922ntnKM) In fact, it shipped with the same 3.3 kg hinges as 11th gen, but 4 kg hinges were added to the marketplace.
 
-### 13th Gen Intel Core
+### [13th Gen Intel Core](/framework-laptop-13/13th-gen)
 Batch 1 of 13th Gen Intel Core began shipping in May 2023 after it was announced at the same time as AMD 7040 series. Compared to 12th Gen Intel Core, it included the following changes:
 - Matte display
 - Improved 3.5 kg hinges.
@@ -40,7 +40,7 @@ Batch 1 of 13th Gen Intel Core began shipping in May 2023 after it was announced
 
 Laptops configured with a Core i7 CPU also include a higher-capacity 61 watt hour battery.
 
-### AMD 7040 Series
+### [AMD 7040 Series](/framework-laptop-13/7040-series)
 Batch 1 of AMD 7040 series began mass production in September 2023 after it was announced at the same time as 13th Gen Intel Core. Compared to 12th Gen Intel Core, it included the following changes:
 
 - Matte display
