@@ -1,6 +1,8 @@
 ---
 permalink: /framework-laptop-13/11th-gen
 ---
+{% include wip.html %}
+
 # Framework Laptop 13 (11th Gen Intel Core)
 Batch 1 of [Framework Laptop 13](/framework-laptop-13) (11th Gen Intel Core) began shipping in August 2021.
 
