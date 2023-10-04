@@ -1,4 +1,6 @@
 # Framewiki: Protection
+{% include meta.html %}
+
 Articles on Framewiki may be protected by an administrator to prevent vandalism. Pull requests that modify protected pages will not be merged automatically until someone with the appropriate access level approves the changes.
 
 The admins are currently working on making it so that users with the appropriate access levels don't need review. At this time, it is a GitHub branch protection restriction that we are working around. 

@@ -1,4 +1,5 @@
 # Framewiki: Guidelines
+{% include meta.html %}
 
 ## Citations
 To ensure all content on Framewiki is verifiable, claims should be backed up with citations to a trusted source whenever possible. Community speculation should never be cited as a source, and such citations should be replaced with a [[citation needed]](/framewiki:citation-needed) tag.
