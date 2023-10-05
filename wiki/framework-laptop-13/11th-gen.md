@@ -22,6 +22,7 @@ Under normal circumstances, performing a mainboard reset and charging the laptop
 
 Alternatively, users can request an RTC replacement board that goes into the RTC battery holder in place of the battery and connects to the board via one soldered wire, negating the issue. [^3] [^4] They also published instructions for a board-level rework that allows the RTC battery to charge from the main system battery. [^5]
 
+# References
 [^1]: <https://knowledgebase.frame.work/en_us/my-laptop-is-not-powering-on-ryQLXvQkt>
 [^2]: <https://community.frame.work/t/tradeoffs-of-refurbed-11th-gen-vs-new-12th-gen/24027/52?u=morpheus636>
 [^3]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922/170?u=morpheus636>
