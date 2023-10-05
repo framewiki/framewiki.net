@@ -6,11 +6,17 @@ meta: true
 ### Citations
 To ensure all content on Framewiki is verifiable, claims should be backed up with citations to a trusted source whenever possible. Community speculation should never be cited as a source, and such citations should be replaced with a [[citation needed]](/framewiki:citation-needed) tag.
 
-To add a citation, insert the following Markdown syntax. It should be inserted after the period at the end of thr sentence it applies to. The number inside the brackets should be the order in which the source was added; it is normal for this to be different from the order it appears on the page. 
-
+To add a citation, use a numerical footnote using this syntax:
 ```md
-[[1]](https://frame.work)
+The quick brown fox hopped over the lazy dog. [^1]
 ```
+Then, add the footnote's content at the bottom of the page's "References" section using this syntax:
+```md
+# References
+[^1]: <https://example.com>
+```
+
+Footnotes should be numbered in the order in which they were published to Framewiki; it is normal for this to be different from the order it appears on the page. 
 
 ### Talk
 The official Framework forums' [community guidelines](https://community.frame.work/t/community-guidelines/5) apply in talk spaces on Framewiki.
