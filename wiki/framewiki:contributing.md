@@ -16,7 +16,7 @@ Then, add the footnote's content at the bottom of the page's "References" sectio
 [^1]: <https://example.com>
 ```
 
-Footnotes should be numbered in the order in which they were published to Framewiki; it is normal for this to be different from the order it appears on the page. 
+Footnotes in the markdown itself should be numbered in the order in which they were added, even if that is different from the order in which they appear on the page --- Jekyll will re-number them on the published site.
 
 ### Talk
 The official Framework forums' [community guidelines](https://community.frame.work/t/community-guidelines/5) apply in talk spaces on Framewiki.
