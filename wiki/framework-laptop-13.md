@@ -8,19 +8,19 @@ The initial version featured 11th Gen Intel Core CPUs, but it has since been upd
 Framework Laptop 13 has four [expansion card](/expansion-cards) slots. The keyboard and bezel can also be easily swapped to add more customization.
 
 ## DIY Edition
-Framework Laptop 13 is available in pre-built and DIY configurations. Though the initial intent was for consumers to assemble the entire laptop themselves, DIY edition laptops come mostly pre-assembled for legal and practical reasons. Shipping components individually would require more packing material and a physically larger package, which would increase shipping costs. It would also change the package's import designation, which would add additional tariffs and duties. [[1]](https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition) Shipping lithium ion batteries that are not installed in a device adds additional restrictions as well. [[2]](https://fedex.com/content/dam/fedex/us-united-states/services/Shipping-Lithium-Batteries-via-FedEx-Ground.pdf)
+Framework Laptop 13 is available in pre-built and DIY configurations. Though the initial intent was for consumers to assemble the entire laptop themselves, DIY edition laptops come mostly pre-assembled for legal and practical reasons. Shipping components individually would require more packing material and a physically larger package, which would increase shipping costs. It would also change the package's import designation, which would add additional tariffs and duties. [^1] Shipping lithium ion batteries that are not installed in a device adds additional restrictions as well. [^2]
 
-The first batches of DIY edition laptops had consumers install their own RAM, SSD, Wifi and Expansion cards. After receiving feedback that the WiFi module was difficult to install, Framework began installing it at the factory. [[3]](https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide).
+The first batches of DIY edition laptops had consumers install their own RAM, SSD, Wifi and Expansion cards. After receiving feedback that the WiFi module was difficult to install, Framework began installing it at the factory. [^3]
 
 Beginning with 13th Gen Intel Core and AMD 7040 Series, DIY edition Framework Laptop 13s ship without the input cover and bezel installed in order to add more customization options and optimize the number of SKUs required. [[citation needed]](/framewiki:citation-needed)
 
-DIY Edition laptops are fully assembled at the factory for quality assurance testing before being partially disasembled and packaged. [[6]](https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634). For this reason, if a customer buys all the parts --- including a power adapter and Windows license --- from Framework's marketplace, DIY Edition laptops are slightly more expensive when compared to a similarly configured pre-built.
+DIY Edition laptops are fully assembled at the factory for quality assurance testing before being partially disasembled and packaged. [^6]. For this reason, if a customer buys all the parts --- including a power adapter and Windows license --- from Framework's marketplace, DIY Edition laptops are slightly more expensive when compared to a similarly configured pre-built.
 
 ## Generations
 ### [11th Gen Intel Core](/framework-laptop-13/11th-gen)
 Batch 1 of 11th Gen Intel Core began shipping in August 2021. 
 
-In October 2021, Framework switched the audio codec from Realtek ALC295 to the Tempo 92HD95B due to chip shortages. [[4]](https://frame.work/blog/solving-for-silicon-shortages)
+In October 2021, Framework switched the audio codec from Realtek ALC295 to the Tempo 92HD95B due to chip shortages. [^4]
 
 ### [12th Gen Intel Core](/framework-laptop-13/12th-gen)
 Batch 1 of 12th Gen Intel Core began shipping in July 2022. Compared to 11th Gen Intel Core, it included the following changes:
@@ -28,7 +28,7 @@ Batch 1 of 12th Gen Intel Core began shipping in July 2022. Compared to 11th Gen
 - Improved CNC alluminum top cover
 - RTC battery no longer required
 
-Linus Tech Tips incorrectly claimed that 12th Gen also shipped with new 4 kg hinges. [[5]](https://youtube.com/watch?v=SYc922ntnKM) In fact, it shipped with the same 3.3 kg hinges as 11th gen, but 4 kg hinges were added to the marketplace.
+Linus Tech Tips incorrectly claimed that 12th Gen also shipped with new 4 kg hinges. [^5] In fact, it shipped with the same 3.3 kg hinges as 11th gen, but 4 kg hinges were added to the marketplace.
 
 ### [13th Gen Intel Core](/framework-laptop-13/13th-gen)
 Batch 1 of 13th Gen Intel Core began shipping in May 2023 after it was announced at the same time as AMD 7040 series. Compared to 12th Gen Intel Core, it included the following changes:
@@ -51,3 +51,10 @@ Batch 1 of AMD 7040 series began mass production in September 2023 after it was 
 - WiFi card bracket to hold keep antennas connected while handling the card
 
 Devices configured with a Ryzen 7 CPU also include the higher-capacity 61 watt hour battery.
+
+[^1]: https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition
+[^2]: https://fedex.com/content/dam/fedex/us-united-states/services/Shipping-Lithium-Batteries-via-FedEx-Ground.pdf
+[^3]: https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide
+[^4]: https://frame.work/blog/solving-for-silicon-shortages
+[^5]: https://youtube.com/watch?v=SYc922ntnKM
+[^6]: https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634
