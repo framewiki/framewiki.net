@@ -1,6 +1,12 @@
 <div class="note">
   <img src="/assets/wip.png"/> 
-  <p style="display: inline;">
-    This page is under construction and requires additional information. See <a href="/framewiki:contributing">Framewiki: Contributing</a> or post a comment to help improve Framewiki.
-  </p>
+  {% if page.wip %}
+    <p style="display: inline;">
+      This page is under construction and requires additional information. See <a href="/framewiki:contributing">Framewiki: Contributing</a> or post a comment to help improve Framewiki.
+    </p>
+  {% else %}
+    <p>
+      This section is under construction and requires additional information. See <a href="/framewiki:contributing">Framewiki: Contributing</a> or post a comment to help improve Framewiki.
+    </p>
+  {% endif %}
 </div>
