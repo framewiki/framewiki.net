@@ -13,6 +13,7 @@ Users can replace the default Expansion Bay Shell with a dedicated GPU for more 
 ## Technical Details
 The Expansion Bay interface uses a custom connector that includes power and signaling for 8-lane PCIe, DisplayPort input and control for the internal display. [^3]
 
+# References
 [^2]: https://frame.work/products/laptop16-diy-amd-7040?tab=specs
 [^3]: https://github.com/FrameworkComputer/ExpansionBay/blob/main/Electrical/README.md
 [^4]: https://frame.work/products/laptop16-diy-amd-7040?tab=modules

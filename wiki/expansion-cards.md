@@ -12,6 +12,7 @@ Framework published electrical and mechanical templates on their GitHub to enabl
 - Snack Drawer Lite by [XenoCow](https://community.frame.work/u/XenoCow). Available [for download](https://drive.protonmail.com/urls/W2XVGGM1R8#evo86FpGID76). [^4]
 - OpenCom LTE card by [Liberated Embedded Systems](https://liberatedsystems.co.uk). Available [for purchase](https://store.liberatedsystems.co.uk/product/opencom-lte/).
 
+# References
 [^1]: https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636
 [^2]: https://github.com/FrameworkComputer/ExpansionCards
 [^3]: https://community.frame.work/t/the-snack-drawer-v2-back-in-snacktion/18442

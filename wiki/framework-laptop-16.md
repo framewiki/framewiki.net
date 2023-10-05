@@ -25,6 +25,7 @@ Framework Laptop 16 features two DDR5 SO-DIMM sockets. Framework offers their ow
 
 Standard DDR5 JEDEC (non-XMP) timings are supported. ECC support has not been confirmed. [^4]
 
+# References
 [^1]: https://frame.work/blog/introducing-the-framework-laptop-16
 [^2]: https://frame.work/blog/framework-laptop-16-pre-orders-are-now-open
 [^3]: https://frame.work/blog/framework-laptop-16-deep-dive---memory-and-storage
