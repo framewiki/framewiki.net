@@ -1,6 +1,7 @@
+---
+meta: true
+---
 # Framewiki: Contributing
-{% include meta.html %}
-
 ## Editing Framewiki
 To edit Framewiki, you'll need to have a GitHub account. Framewiki is written in Markdown and deployed via GitHub Pages.
 

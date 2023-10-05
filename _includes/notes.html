@@ -1,0 +1,15 @@
+{% if page.semiprotected %}
+  {% include semiprotected.html %}
+{% endif %}
+
+{% if page.protected %}
+  {% include protected.html %}
+{% endif %}
+
+{% if page.wip %}
+  {% include wip.html %}
+{% endif %}
+
+{% if page.meta %}
+  {% include meta.html %}
+{% endif %}
