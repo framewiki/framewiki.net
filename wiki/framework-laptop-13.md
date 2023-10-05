@@ -53,9 +53,9 @@ Batch 1 of AMD 7040 series began mass production in September 2023 after it was 
 Devices configured with a Ryzen 7 CPU also include the higher-capacity 61 watt hour battery.
 
 # References
-[^1]: https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition
-[^2]: https://fedex.com/content/dam/fedex/us-united-states/services/Shipping-Lithium-Batteries-via-FedEx-Ground.pdf
-[^3]: https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide
-[^4]: https://frame.work/blog/solving-for-silicon-shortages
-[^5]: https://youtube.com/watch?v=SYc922ntnKM
-[^6]: https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634
+[^1]: <https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition>
+[^2]: <https://fedex.com/content/dam/fedex/us-united-states/services/Shipping-Lithium-Batteries-via-FedEx-Ground.pdf>
+[^3]: <https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide>
+[^4]: <https://frame.work/blog/solving-for-silicon-shortages>
+[^5]: <https://youtube.com/watch?v=SYc922ntnKM>
+[^6]: <https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634>

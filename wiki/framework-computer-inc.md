@@ -9,6 +9,6 @@ Framework was founded by Nirav Patel in January 2020. The company received $9 mi
 In September 2021, YouTuber Linus Sebastian invested $225,000 in the company in order to support their mission. [^3] Spark Capital led Framework's Series A round, which raised an additional $18 million in January 2022.
 
 # References
-[^1]: https://time.com/collection/best-inventions-2021/6112625/framework-laptop/
-[^2]: https://www.fastcompany.com/90722815/framework-innovative-laptop-easy-repair-electronics
-[^3]: https://www.youtube.com/watch?v=LSxbc1IN9Gg
+[^1]: <https://time.com/collection/best-inventions-2021/6112625/framework-laptop/>
+[^2]: <https://www.fastcompany.com/90722815/framework-innovative-laptop-easy-repair-electronics>
+[^3]: <https://www.youtube.com/watch?v=LSxbc1IN9Gg>

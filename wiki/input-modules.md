@@ -12,6 +12,6 @@ Framework published electrical and mechanical information on their GitHub to all
 - RGB LED Matrix Input Module by Joe Schroedl. Available on [GitHub](https://github.com/corndog2000/RGB-LED-Matrix-Input-Module)
 
 # References
-[^1]: https://frame.work/blog/introducing-the-framework-laptop-16
-[^2]: https://github.com/FrameworkComputer/qmk_firmware
-[^3]: https://github.com/FrameworkComputer/InputModules
+[^1]: <https://frame.work/blog/introducing-the-framework-laptop-16>
+[^2]: <https://github.com/FrameworkComputer/qmk_firmware>
+[^3]: <https://github.com/FrameworkComputer/InputModules>
