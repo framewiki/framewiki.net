@@ -19,6 +19,8 @@ The following is a list of the available note names:
 Note content and design can be edited by modifying the html file in `_includes` by the same name. If it is necessary to display a note inline with content, import it using Jekyll liquid.
 
 ## Article Protection
+Article protection is managed via GitHub's `CODEOWNERS` feature and branch protection rulesets. Note that rulesets are different from branch protection rules.
+
 ### Fully-Protected
 To fully-protect an article, add the following to `.GITHUB/CODEOWNERS` under the appropriate section.
 ```
