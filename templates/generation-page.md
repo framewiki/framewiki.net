@@ -1,5 +1,5 @@
 ---
-permalink: /framework-laptop-13/7040-series
+permalink: /framework-laptop-13/slug
 published: false
 ---
 # Title
