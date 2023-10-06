@@ -24,7 +24,6 @@ Framework Laptop 13 (13th gen Intel Core) features two Intel Thunderbolt 4 contr
 
 The also comes with the Intel Wi-Fi 6E AX210 Wi-Fi card or the Intel Wi-Fi 6E AX210 Wi-Fi card with vProBluetooth 5.3 [^1]
 
-
 ## Hardware Compatibility
 ### RAM
 Framework Laptop 13 (13th Gen Intel Core) supports JEDEC DDR4 SO-DIMMS up to 32 GB. XMP speeds are not supported. [^9]
