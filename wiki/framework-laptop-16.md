@@ -14,6 +14,7 @@ It is not guaranteed to be precise and will most probably fluctuate and change.
 | 1 ~ 3   | 2023 Q4 |  |
 | 3 ~ 5   | 2023 late Q4 |  |
 | 6 ~ 12  | 2024 Q1 | |
+| 13      | 2024 Q2 | |
 
 ## Customization
 Framework Laptop 16 has six [expansion card](/expansion-cards) slots. Like [Framework Laptop 13](/framework-laptop-13), Framework offers multiple bezel color options. It also features the [expansion bay](/expansion-bay) and [input module](/input-modules) systems for additonal customization.
