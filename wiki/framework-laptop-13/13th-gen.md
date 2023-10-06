@@ -23,7 +23,7 @@ Framework Laptop 13 (13th Gen Intel Core) was announced at the same time as [Fra
 Framework Laptop 13 (13th gen Intel Core) features two Intel Thunderbolt 4 controllers integrated into the CPU [^10]. All four [expansion card](/expansion-cards) ports support USB-PD charging and Thunderbolt 4; the two ports on each side share bandwidth.
 
 #### Wireless
-The also comes with the Intel Wi-Fi 6E AX210 Wi-Fi card or the Intel Wi-Fi 6E AX210 Wi-Fi card with vProBluetooth 5.3 [^1]
+13th Gen also comes with the Intel Wi-Fi 6E AX210 Wi-Fi card or the Intel Wi-Fi 6E AX210 Wi-Fi card with vProBluetooth 5.3 [^1]
 
 ## Hardware Compatibility
 ### RAM
