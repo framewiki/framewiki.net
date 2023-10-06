@@ -24,7 +24,7 @@ Framework Laptop 13 (AMD 7040 Series) was announced at the same time as [Framewo
 ### RAM
 ### SSD
 ## Reviews
-Framework sent AMD 7040 Series review units to media outlets [^3] including JustJosh [^4], Daniel Cooper from Engadget[^5] and Andrew Freedman from Tom's Hardware[^6]
+Framework sent AMD 7040 Series review units to media outlets [^3] including JustJosh [^4], Daniel Cooper from Engadget [^5] and Andrew Freedman from Tom's Hardware. [^6]
 ## Known Issues
 
 # References
