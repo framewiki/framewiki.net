@@ -29,7 +29,10 @@ The also comes with the Intel Wi-Fi 6E AX210 Wi-Fi card or the Intel Wi-Fi 6E AX
 Framework Laptop 13 (13th Gen Intel Core) supports JEDEC DDR4 SO-DIMMS up to 32 GB. XMP speeds are not supported. [^9]
 
 ### SSD
+Framework Laptop 13 (13th Gen Intel Core) supports M.2 2280-size NVMe SSDs. M.2 SATA drives are not supported. [^31]
+
 ## Reviews
+
 ## Known Issues
 
 # References
@@ -43,3 +46,4 @@ Framework Laptop 13 (13th Gen Intel Core) supports JEDEC DDR4 SO-DIMMS up to 32 
 [^22]: <https://ark.intel.com/content/www/us/en/ark/products/232155/intel-core-i71360p-processor-18m-cache-up-to-5-00-ghz.html>
 [^25]: <https://www.techpowerup.com/cpu-specs/core-i7-1370p.c3055>
 [^30]: <https://ark.intel.com/content/www/us/en/ark/products/232146/intel-core-i71370p-processor-24m-cache-up-to-5-20-ghz.html>
+[^31]: <https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_>
