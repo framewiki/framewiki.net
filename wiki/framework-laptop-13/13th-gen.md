@@ -10,7 +10,7 @@ Framework Laptop 13 (13th Gen Intel Core) was announced at the same time as [Fra
 
 | Processor            | Intel Core i5-1340P | Intel Core i7 -1360P | Intel Core i7-1370P |
 | -------------------- | ------------------- | -------------------- | ------------------- |
-| Cores                | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^2] | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores")[^16] [^17] | 14 (6x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^16] [^25] |
+| Cores                | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^2] | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores")[^16] [^17] | 14 (6x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^25] |
 | Threads              | 16 | 16 | 20 |                            
 | L3 Cache             | 12 MB L3 (shared). | 18 MB (shared) | 24 MB (shared) |
 | Base Clock: P Cores  | 1.90 GHz | 2.20 GHz | 1.90 GHz |
