@@ -8,6 +8,8 @@ To contribute to Framewiki, you'll need to have a GitHub account. Framewiki is w
 ## Talk/Comment Guidelines
 The official Framework forums' [community guidelines](https://community.frame.work/t/community-guidelines/5) apply in talk spaces on Framewiki.
 
+Comments about Framewiki guidelines or technical aspects should be posted to the talk section on this page. Comments on non-meta pages should be specific to the layout or content on that particular page. 
+
 ## How To Edit Framewiki
 
 ### Updating articles
