@@ -11,7 +11,7 @@ Framework Laptop 13 (13th Gen Intel Core) was announced at the same time as [Fra
 
 | Processor            | Intel Core i5-1340P | Intel Core i7 -1360P | Intel Core i7-1370P |
 | -------------------- | ------------------- | -------------------- | ------------------- |
-| Cores                | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^2] | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores")[^16] [^17] | 14 (6x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^24] [^25] |
+| Cores                | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^2] | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores")[^16] [^17] | 14 (6x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^16] [^25] |
 | Threads              | 16 | 16 | 20 |                            
 | L3 Cache             | 12 MB L3 (shared). | 18 MB (shared) | 24 MB (shared) |
 | Base Clock: P Cores  | 1.90 GHz | 2.20 GHz | 1.90 GHz |
@@ -42,9 +42,8 @@ Framework Laptop 13 (13th Gen Intel Core) supports JEDEC DDR4 SO-DIMMS up to 32 
 [^9]: <https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru>
 [^10]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-rpl.png>
 [^14]: <https://ark.intel.com/content/www/us/en/ark/products/232126/intel-core-i51340p-processor-12m-cache-up-to-4-60-ghz.html>
-[^16]: <https://www.notebookcheck.net/Intel-Raptor-Lake-P-Review-Debut-for-the-Core-i7-1360P.688425.0.html#:~:text=Overview%20Intel%20Raptor%20Lake%2DP>
+[^16]: <https://www.notebookcheck.net/Intel-Raptor-Lake-P-Review-Debut-for-the-Core-i7-1360P.688425.0.html>
 [^17]: <https://www.techpowerup.com/cpu-specs/core-i7-1360p.c3059>
 [^22]: <https://ark.intel.com/content/www/us/en/ark/products/232155/intel-core-i71360p-processor-18m-cache-up-to-5-00-ghz.html>
-[^24]: <https://www.notebookcheck.net/Intel-Raptor-Lake-P-Review-Debut-for-the-Core-i7-1360P.688425.0.html#:~:text=Overview%20Intel%20Raptor%20Lake%2DP>
 [^25]: <https://www.techpowerup.com/cpu-specs/core-i7-1370p.c3055>
 [^30]: <https://ark.intel.com/content/www/us/en/ark/products/232146/intel-core-i71370p-processor-24m-cache-up-to-5-20-ghz.html>
