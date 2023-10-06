@@ -7,12 +7,22 @@ wip: true
 Batch 1 of [Framework Laptop 13](/framework-laptop-13) (11th Gen Intel Core) began shipping in August 2021.
 
 ## Specs
+### CPU
 
+| Processor           | Intel Core i5-1135G7 | Intel Core i7-1165G7 | Intel Core i7-1185G7 |
+| ------------------- | -------------------- | -------------------- | -------------------- |
+| Cores               |                      |                      |                      |
+| Threads             |                      |                      |                      |                          
+| L3 Cache            |                      |                      |                      |
+| Base Clock          |                      |                      |                      |
+| Boost Clock         |                      |                      |                      |
+| Integrated Graphic  |                      |                      |                      |
+
+### Connectivity
 ## Hardware Compatibility
-
+### RAM
+### SSD
 ## Reviews
-
-
 ## Known Issues
 ### RTC Battery Drain
 On 11th gen Framework laptops, if the laptop is left for an extended period without being connected to external power, the RTC battery could completely discharge, preventing the laptop from booting without first charging it. Sometimes, due to an 11th gen Intel silicon bug in the subsystem that the RTC/CMOS battery powers, the laptop will not boot even when connected to power until the user performs a mainboard reset.[^1]

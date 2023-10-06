@@ -7,7 +7,6 @@ Framework Laptop 13 (13th Gen Intel Core) was announced at the same time as [Fra
 
 ## Specs
 ### CPU
-#### Intel Core i5-1340P
 
 | Processor            | Intel Core i5-1340P | Intel Core i7 -1360P | Intel Core i7-1370P |
 | -------------------- | ------------------- | -------------------- | ------------------- |
@@ -31,9 +30,7 @@ The also comes with the Intel Wi-Fi 6E AX210 Wi-Fi card or the Intel Wi-Fi 6E AX
 Framework Laptop 13 (13th Gen Intel Core) supports JEDEC DDR4 SO-DIMMS up to 32 GB. XMP speeds are not supported. [^9]
 
 ### SSD
-
 ## Reviews
-
 ## Known Issues
 
 # References
