@@ -16,10 +16,8 @@ Beginning with 13th Gen Intel Core and AMD 7040 Series, DIY edition Framework La
 
 DIY Edition laptops are fully assembled at the factory for quality assurance testing before being partially disasembled and packaged. [^6]. For this reason, if a customer buys all the parts --- including a power adapter and Windows license --- from Framework's marketplace, DIY Edition laptops are slightly more expensive when compared to a similarly configured pre-built.
 
-## Generations
+## Changes By Generation
 ### [11th Gen Intel Core](/framework-laptop-13/11th-gen)
-Batch 1 of 11th Gen Intel Core began shipping in August 2021. 
-
 In October 2021, Framework switched the audio codec from Realtek ALC295 to the Tempo 92HD95B due to chip shortages. [^4]
 
 ### [12th Gen Intel Core](/framework-laptop-13/12th-gen)
