@@ -34,3 +34,24 @@ Anyone who has had changes accepted to Framewiki at least once is considered a c
 
 ### First-Time Contributors
 The first time someone attempts to contribute, their changes will need to be approved by an editor, maintainer, or admin.
+
+## Implementation
+Protection is managed via GitHub's `CODEOWNERS` feature and branch protection [rulesets](https://github.com/framewiki/framewiki.net/settings/rules).
+
+### How to Protect an Article
+
+#### Fully-Protected
+To fully-protect an article, add the following to `.GITHUB/CODEOWNERS` under the appropriate section.
+```
+path/to/file @framewiki/admins @framewiki/maintainers @framewiki/editors
+```
+
+Then, ensure you add the `protected` note to the article.
+
+#### Semi-Protected
+To semi-protect an article, add the following to `.GITHUB/CODEOWNERS` under the appropriate section.
+```
+path/to/file @framewiki/admins @framewiki/maintainers
+```
+
+Then, ensure you add the `semiprotected` note to the article.
