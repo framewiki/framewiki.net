@@ -3,7 +3,7 @@ permalink: /framework-laptop-13/7040-series
 wip: true
 ---
 # Framework Laptop 13 (AMD 7040 Series)
-Framework Laptop 13 (AMD 7040 Series) was announced at the same time as [Framework Laptop 13 (13th Gen Intel Core)](/framework-laptop-13/13th-gen), during the Framework Next Level event March 23, 2023. [^1] Batch 1 preorders began shipping October 6 2023. [^2]
+Framework Laptop 13 (AMD 7040 Series) was announced on March 23, 2023, at the same time as [Framework Laptop 13 (13th Gen Intel Core)](/framework-laptop-13/13th-gen) during the Framework Next Level event. [^1] Batch 1 preorders began shipping October 6, 2023. [^2]
 
 ## Specs
 ### CPU

@@ -4,18 +4,6 @@ Framework Laptop 16 is [Framework](/framework-computer-inc)'s second product, an
 At launch, Framework Laptop 16 is available with AMD Ryzen 7 7840HS and Ryzen 9 7940HS CPUs.
 Customers could also optionally add an AMD Radeon RX7700S GPU, which connects via the [expansion bay](/expansion-bay).
 
-## Batches
-
-The following information is based on Order page and e-mails received by users who receives updates on their order. See [Community discussion: Shipping dates FW 16](https://community.frame.work/t/shipping-dates-fw-16/35491).
-It is not guaranteed to be precise and will most probably fluctuate and change.
-
-| Batch | Initial declared shipping | Current estimated shipping |
-| --- | --- | --- |
-| 1 ~ 3   | 2023 Q4 |  |
-| 3 ~ 5   | 2023 late Q4 |  |
-| 6 ~ 12  | 2024 Q1 | |
-| 13      | 2024 Q2 | |
-
 ## Customization
 Framework Laptop 16 has six [expansion card](/expansion-cards) slots. Like [Framework Laptop 13](/framework-laptop-13), Framework offers multiple bezel color options. It also features the [expansion bay](/expansion-bay) and [input module](/input-modules) systems for additonal customization.
 

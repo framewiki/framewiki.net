@@ -4,7 +4,9 @@ wip: true
 ---
 # Framework Laptop 13 (11th Gen Intel Core)
 
-Batch 1 of [Framework Laptop 13](/framework-laptop-13) (11th Gen Intel Core) began shipping in August 2021.
+Framework Laptop 13 (11th Gen Intel Core) is [Framework](/framework-computer-inc)'s first product, announced February 25, 2021. [^6] Preorders opened on May 13, 2021 [^7], with Batch 1 shipping in August of that same year. [^8] It went in-stock on December 3, 2021. [^9]
+
+It was disconinued after the launch of [Framework Laptop 13 (12th Gen Intel Core)](/framework-laptop-13/12th-gen)
 
 ## Specs
 ### CPU
@@ -38,3 +40,7 @@ Alternatively, users can request an RTC replacement board that goes into the RTC
 [^3]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922/170?u=morpheus636>
 [^4]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922/173?u=morpheus636>
 [^5]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922?u=morpheus636>
+[^6]: <https://frame.work/blog/introducing-the-framework-laptop>
+[^7]: <https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are>
+[^8]: <https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews>
+[^9]: <https://frame.work/blog/finally-in-stock-with-expedited-and-carbon-offset>
