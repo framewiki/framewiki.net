@@ -30,7 +30,7 @@ Editors are known, trusted Framewiki editors. They can:
 - Approve changes to semi-protected pages
 
 ### Contributors
-Anyone who has had changes accepted to Framewiki at least once is considered a contributor. Their pull requests with changes are automatically merged, unless they modify semi- or fully-protected pages or structural/technical files.
+Anyone who has had changes accepted to Framewiki at least once is considered a contributor. Their pull requests with changes are automatically merged by the system, unless they modify semi- or fully-protected pages or structural/technical files.
 
 ### First-Time Contributors
 The first time someone attempts to contribute, their changes will need to be approved by an editor, maintainer, or admin.
