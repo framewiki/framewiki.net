@@ -29,7 +29,7 @@ Then, add the footnote's content at the bottom of the page's "References" sectio
 Footnotes in the markdown itself should be numbered in the order in which they were added, even if that is different from the order in which they appear on the page --- Jekyll will re-number them on the published site.
 
 ### How to publish your changes
-Once you've made your changes and committed them, open a Pull Request into `framewiki/framewiki.net:main`, which is the production branch that Framewiki is automatically built and deployed from. The first time you contribute, an editor, maintainer or admin will need to approve your changes. After that, they will be deployed automatically by the system unless they include changes to [protected](/framewiki:protection) parts of the wiki. 
+Once you've made your changes and committed them, open a Pull Request into `framewiki/framewiki.net:main`, which is the production branch that Framewiki is automatically built and deployed from. The first time you contribute, an editor, maintainer or admin will need to approve your changes. After that, they will be deployed automatically by the system unless they include changes to [protected](/framewiki:protection) parts of the wiki.
 
 ## Guidelines
 ### Comment Guidelines
