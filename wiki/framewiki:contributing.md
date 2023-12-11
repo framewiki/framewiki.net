@@ -38,7 +38,7 @@ The official Framework forums' [community guidelines](https://community.frame.wo
 Comments about Framewiki guidelines or technical aspects should be posted to the talk section on this page. Comments on non-meta pages should be specific to the layout or content on that particular page. 
 
 ### Verifiability
-To ensure all content on Framewiki is verifiable, claims should be backed up with citations to a trusted source whenever possible. Community speculation should never be cited as a source, and such citations should be replaced with a [[citation needed]](/framewiki:citation-needed) tag. See [Framewiki: Technical](/framewiki:technical#citations) for information on adding citations.
+To ensure all content on Framewiki is verifiable, claims should be backed up with citations to a trusted source whenever possible. Community speculation should never be cited as a source, and such citations should be replaced with a [[citation needed]](/framewiki:citation-needed) tag.
 
 ### Creating or Moving Pages
 {% include wip.html %}
