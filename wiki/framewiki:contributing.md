@@ -29,7 +29,7 @@ Then, add the footnote's content at the bottom of the page's "References" sectio
 Footnotes in the markdown itself should be numbered in the order in which they were added, even if that is different from the order in which they appear on the page --- Jekyll will re-number them on the published site.
 
 ### How to publish your changes
-Once you've made your changes and committed them, open a Pull Request into `framewiki/framewiki.net:main`, which is the production branch that Framewiki is automatically built and deployed from. The first time you contribute, an editor, maintainer or admin will need to approve your changes. After that, they will be deployed automatically by the system unless they include changes to [protected](/framewiki:protection) parts of the wiki. 
+Once you've made your changes and committed them, open a Pull Request into `framewiki/framewiki.net:main`, which is the production branch that Framewiki is automatically built and deployed from. The first time you contribute, an editor, maintainer or admin will need to approve your changes. After that, they will be deployed automatically by the system unless they include changes to [protected](/framewiki:protection) parts of the wiki.
 
 ## Guidelines
 ### Comment Guidelines
@@ -38,7 +38,7 @@ The official Framework forums' [community guidelines](https://community.frame.wo
 Comments about Framewiki guidelines or technical aspects should be posted to the talk section on this page. Comments on non-meta pages should be specific to the layout or content on that particular page. 
 
 ### Verifiability
-To ensure all content on Framewiki is verifiable, claims should be backed up with citations to a trusted source whenever possible. Community speculation should never be cited as a source, and such citations should be replaced with a [[citation needed]](/framewiki:citation-needed) tag. See [Framewiki: Technical](/framewiki:technical#citations) for information on adding citations.
+To ensure all content on Framewiki is verifiable, claims should be backed up with citations to a trusted source whenever possible. Community speculation should never be cited as a source, and such citations should be replaced with a [[citation needed]](/framewiki:citation-needed) tag.
 
 ### Creating or Moving Pages
 {% include wip.html %}
