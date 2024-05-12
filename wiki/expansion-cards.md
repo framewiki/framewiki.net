@@ -11,6 +11,7 @@ Framework published electrical and mechanical templates on their GitHub to enabl
 - Snack Drawer V2 by [XenoCow](https://community.frame.work/u/XenoCow). Available [for purchase](https://layers3d.square.site/) as files or completed part. [^3]
 - Snack Drawer Lite by [XenoCow](https://community.frame.work/u/XenoCow). Available [for download](https://drive.protonmail.com/urls/W2XVGGM1R8#evo86FpGID76). [^4]
 - openCom LTE card by [Liberated Embedded Systems](https://liberatedsystems.co.uk). Discontinued [^5] but [open-source](https://git.liberatedsystems.co.uk/jacob.eva/opencom-lte).
+- DongleHider+ by [LeoDJ](https://github.com/LeoDJ). Available on [GitHub](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
 
 # References
 [^1]: <https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636>
