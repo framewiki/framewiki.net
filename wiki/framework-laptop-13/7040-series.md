@@ -8,14 +8,14 @@ Framework Laptop 13 (AMD 7040 Series) was announced on March 23, 2023, at the sa
 ## Specs
 ### CPU
 
-| Processor           | AMD Ryzen 5 7640U | AMD Ryzen 7 7840U |
-| ------------------- | ----------------- | ----------------- |
-| Cores               |                   |                   |
-| Threads             |                   |                   |                        
-| L3 Cache            |                   |                   |
-| Base Clock          |                   |                   |
-| Boost Clock         |                   |                   |
-| Integrated Graphics |                   |                   |
+| Processor           | AMD Ryzen 5 7640U          | AMD Ryzen 7 7840U          |
+| ------------------- | -------------------------- | -------------------------- |
+| Cores               | 6                          | 8                          |
+| Threads             | 12                         | 16                         |                        
+| L3 Cache            | 16 MB                      | 16 MB                      |
+| Base Clock          | 3.5 GHz                    | 3.3 GHz                    |
+| Boost Clock         | 4.9 GHz                    | 5.1 GHz                    |
+| Integrated Graphics | AMD Radeon™ 760M [^7] [^8] | AMD Radeon™ 780M [^7] [^9] |
 
 ### Connectivity
 #### Expansion Cards
@@ -34,3 +34,6 @@ Framework sent AMD 7040 Series review units to media outlets [^3] including Just
 [^4]: <https://www.youtube.com/watch?v=uwr14Q4C9gY>
 [^5]: <https://www.engadget.com/framework-brings-amd-mainboards-to-its-13-inch-laptop-140050567.html>
 [^6]: <https://www.tomshardware.com/news/amd-7040-framework-laptop-mainboard-transfer-performance-test-review>
+[^7]: <https://frame.work/products/laptop-13-gen-amd?tab=specs>
+[^8]: <https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7640u.html>
+[^9]: <https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840u.html>
