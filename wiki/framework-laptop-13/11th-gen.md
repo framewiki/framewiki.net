@@ -11,20 +11,35 @@ It was disconinued after the launch of [Framework Laptop 13 (12th Gen Intel Core
 ## Specs
 ### CPU
 
-| Processor           | Intel Core i5-1135G7 | Intel Core i7-1165G7 | Intel Core i7-1185G7 |
+| Processor           | Intel Core i5-1135G7[^10] | Intel Core i7-1165G7[^11] | Intel Core i7-1185G7[^12] |
 | ------------------- | -------------------- | -------------------- | -------------------- |
-| Cores               |                      |                      |                      |
-| Threads             |                      |                      |                      |                          
-| L3 Cache            |                      |                      |                      |
-| Base Clock          |                      |                      |                      |
-| Boost Clock         |                      |                      |                      |
-| Integrated Graphic  |                      |                      |                      |
+| Cores               | 4 (4x Golden Cove)   | 4 (4x Golden Cove)   | 4 (4x Golden Cove)   |
+| Threads             | 8                    | 8                    | 8                    |                          
+| Cache               | 8 MB (shared)        | 12 MB (shared)       | 12 MB (shared)       |
+| Base Clock          | 2.4 GHz              | 2.8 GHz              | 3.0 GHz              |
+| Boost Clock         | 4.2 GHz              | 4.7 GHz              | 4.8 GHz              |
+| Integrated Graphics | Iris Xe Graphics 80EU when paired with dual channel memory. Otherwise, Intel UHD Graphics. | Iris Xe Graphics 96EU when paired with dual channel memory. Otherwise, Intel UHD Graphics. | Iris Xe Graphics 96EU when paired with dual channel memory.  Otherwise, Intel UHD Graphics. |
 
 ### Connectivity
+#### Expansion Cards
+Framework Laptop 13 (11th gen Intel Core) features two Intel Thunderbolt 4 controllers integrated into the CPU [^13]. All four [expansion card](/expansion-cards) ports support USB-PD charging and USB4. Framework Laptop 13 (11th gen Intel Core) failed to pass Thunderbolt certification. [^14]
+
+#### Wireless
+11th Gen comes with the Intel Wi-Fi 6 AX201 vPro card on pre-built models or the Intel Wi-Fi 6E AX210 Wi-Fi card on DIY edition models.
+
 ## Hardware Compatibility
 ### RAM
+Framework Laptop 13 (11th Gen Intel Core) supports JEDEC DDR4 SO-DIMMS up to 32 GB 3200 MT/s. XMP speeds are not supported. [^15]
+
 ### SSD
+Framework Laptop 13 (11th Gen Intel Core) supports M.2 2280-size NVMe SSDs. M.2 SATA drives are not supported. [^16]
+
 ## Reviews
+
+Reviewers included Lori Grunin from CNET [^17], Gordon Ung from PCWorld [^18], Luke Larson from Digital Trends [^19], and Linus Sebastian from Linus Media Group [^20].
+
+Linus Sebastian stated in his review "now I want to invest" (timestamp 10:46) and subsequently invested $224,998.37 in Framework. [^21]
+
 ## Known Issues
 ### RTC Battery Drain
 On 11th gen Framework laptops, if the laptop is left for an extended period without being connected to external power, the RTC battery could completely discharge, preventing the laptop from booting without first charging it. Sometimes, due to an 11th gen Intel silicon bug in the subsystem that the RTC/CMOS battery powers, the laptop will not boot even when connected to power until the user performs a mainboard reset.[^1]
@@ -44,3 +59,15 @@ Alternatively, users can request an RTC replacement board that goes into the RTC
 [^7]: <https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are>
 [^8]: <https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews>
 [^9]: <https://frame.work/blog/finally-in-stock-with-expedited-and-carbon-offset>
+[^10]: <https://ark.intel.com/content/www/us/en/ark/products/208658/intel-core-i5-1135g7-processor-8m-cache-up-to-4-20-ghz.html>
+[^11]: <https://ark.intel.com/content/www/us/en/ark/products/208921/intel-core-i7-1165g7-processor-12m-cache-up-to-4-70-ghz-with-ipu.html>
+[^12]: <https://ark.intel.com/content/www/us/en/ark/products/208664/intel-core-i7-1185g7-processor-12m-cache-up-to-4-80-ghz-with-ipu.html>
+[^13]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-tgl-u.png>
+[^14]: <https://frame.work/blog/framework-laptops-are-now-thunderbolt-4-certified>
+[^15]: <https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru>
+[^16]: <https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_>
+[^17]: <https://www.cnet.com/tech/computing/framework-laptop-review-a-functional-and-futureproof-13-inches/>
+[^18]: <https://www.youtube.com/watch?v=QmyAUIo79EU>
+[^19]: <https://www.digitaltrends.com/laptop-reviews/framework-laptop-review/>
+[^20]: <https://www.youtube.com/watch?v=0rkTgPt3M4k>
+[^21]: <https://www.youtube.com/watch?v=LSxbc1IN9Gg>
