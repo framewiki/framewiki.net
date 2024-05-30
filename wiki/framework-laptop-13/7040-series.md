@@ -2,7 +2,7 @@
 permalink: /framework-laptop-13/7040-series
 ---
 # Framework Laptop 13 (AMD 7040 Series)
-Framework Laptop 13 (AMD 7040 Series) was announced on March 23, 2023, at the same time as [Framework Laptop 13 (13th Gen Intel Core)](/framework-laptop-13/13th-gen) during the Framework Next Level event. [^1] Batch 1 preorders began shipping October 6, 2023. [^2]
+Framework Laptop 13 (AMD 7040 Series) was announced on March 23, 2023, at the same time as [Framework Laptop 13 (13th Gen Intel Core)](/framework-laptop-13/13th-gen) during the Framework Next Level event. [^1] Batch 1 preorders began shipping October 6, 2023. [^2] Updated configurations with a new display option and 2nd gen webcam module are expected to begin shipping in August 2024. [^16]
 
 ## Specs
 ### CPU
@@ -22,6 +22,15 @@ Framework Laptop 13 (AMD 7040) Series has two USB 4 ports and 2 USB 3.2 ports. A
 
 #### Wireless
 AMD 7040 Series comes with the AMD RZ616 Wi-Fi 6E card [^7].
+
+### Battery
+Framework Laptop 13 (AMD 7040) Series comes with a 55 Wh battery on Ryzen 5 models and a new 61 Wh battery on Ryzen 7 models [^1]. In May 2024 Framework added Ryzen 5 configurations that also use the 61 Wh battery that are expected to ship in August 2024 [^16] [^17].
+
+### Display
+Framework Laptop 13 (AMD 7040) Series originally came with a 2.2K matte display [^1]. In May 2024 Framework added configurations with a 2.8K 120 Hz matte display that are expected to ship in August 2024 [^16].
+
+### Webcam 
+Framework Laptop 13 (AMD 7040) Series originally came with the 1st gen webcam module. In May 2024 Framework added configurations with a 2nd gen webcam module with better low-light performance that are expected to ship in August 2024 [^16].
 
 ## Hardware Compatibility
 ### RAM
@@ -52,3 +61,5 @@ On release Framework Laptop 13 (AMD 7040) Series experienced battery cutoff on c
 [^13]: <https://community.frame.work/t/amd-framework-usb-c-charger-compatibility-issues/39323>
 [^14]: <https://community.frame.work/t/framework-13-amd-ryzen-does-not-charge-on-low-watt-charger/40127>
 [^15]: <https://knowledgebase.frame.work/framework-laptop-bios-and-driver-releases-amd-ryzen-7040-series-r1rXGVL16>
+[^16]: <https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors>
+[^17]: <https://web.archive.org/web/20240530142926/https://frame.work/products/laptop-diy-13-gen-amd/configuration/new>
