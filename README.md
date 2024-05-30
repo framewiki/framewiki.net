@@ -21,6 +21,7 @@ This section should be kept up to date with major tasks to improve Framewiki. Pl
 #### Development
 - [ ] Fix or remove "Last 3 updated" section in sidebar.
 - [ ] Add capabilitiy to add right-aligned sidebar with photo and table, similar to Wikipedia templates, using front-matter.
+- [ ] Fix todo list formatting.
 
 ## Community
 This wiki is maintaned by members of the Framework Community. Join the Official Framework community on [Discord](https://discord.gg/framework), [Reddit](https://reddit.com/r/framework), or [the forums](https://community.frame.work).
