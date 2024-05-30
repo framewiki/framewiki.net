@@ -50,6 +50,9 @@ Batch 1 of AMD 7040 series began mass production in September 2023 after it was 
 
 Devices configured with a Ryzen 7 CPU also include the higher-capacity 61 watt hour battery.
 
+### [Intel Core Ultra Series 1](/framework-laptop-13/core-ultra-1)
+{% include wip.html %}
+
 # References
 [^1]: <https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition>
 [^2]: <https://fedex.com/content/dam/fedex/us-united-states/services/Shipping-Lithium-Batteries-via-FedEx-Ground.pdf>
