@@ -11,7 +11,7 @@ This section should be kept up to date with major tasks to improve Framewiki. Pl
 #### Content
 - [ ] Add specs for [11th Gen](https://framewiki.net/framework-laptop-13/11th-gen)
 - [x] Add specs for [12th Gen](https://framewiki.net/framework-laptop-13/12th-gen)
-- [ ] Add specs for [Core Ultra Series 1](https://framewiki.net/framework-laptop-13/core-ultra-1)
+- [x] Add specs for [Core Ultra Series 1](https://framewiki.net/framework-laptop-13/core-ultra-1)
 - [ ] Merge "Changes by Generation" section with component table on [Framework Laptop 13](https://framewiki.net/framework-laptop-13)
 - [ ] Add pages for various first-party [expansion cards](https://framewiki.net/expansion-cards).
 - [ ] Add pages for various first-party [input modules](https://framewiki.net/input-modules).
