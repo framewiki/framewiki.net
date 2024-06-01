@@ -1,6 +1,5 @@
 ---
 permalink: /framework-laptop-13/11th-gen
-wip: true
 ---
 # Framework Laptop 13 (11th Gen Intel Core)
 
