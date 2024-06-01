@@ -1,6 +1,5 @@
 ---
 permalink: /framework-laptop-13/12th-gen
-wip: true
 ---
 # Framework Laptop 13 (12th Gen Intel Core)
 Framework Laptop 13 (12th Gen Intel Core) was, announced May 19, 2022. [^1] Preorders opened at the same time, with Batch 1 shipping in July of that same year. [^2] It went in-stock on November 16, 2022. [^3]
@@ -38,8 +37,6 @@ Framework Laptop 13 (13th Gen Intel Core) supports M.2 2280-size NVMe SSDs. M.2 
 ## Reviews
 
 Framework "sent systems and Upgrade Kits to journalists across the tech industry."[^2] These upgrade kits contained every module required to go from a 11th Gen Framework Laptop 13 to the latest and greatest configuration. Reviewers included Andrew Freedman from Tom's Hardware [^13], Luke Larsen from Digital Trends [^14], and Brad Linder from Liliputing [^15].
-
-## Known Issues
 
 # References
 [^1]: <https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop>
