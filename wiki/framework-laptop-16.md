@@ -12,7 +12,7 @@ Framework Laptop 16 has six [expansion card](/expansion-cards) slots. Like [Fram
 Framework Laptop 16 features two DDR5 SO-DIMM sockets. Framework offers their own [Framework-branded DDR5-5600](https://frame.work/marketplace/memory-storage?search=DDR5) modules in
 8GB, 16GB and 32GB variants. [^3].
 
-Standard DDR5 JEDEC (non-XMP) timings are supported. ECC support has not been confirmed. [^4]
+Standard DDR5 JEDEC (non-XMP) timings are supported. ECC is not supported. [^4]
 
 # References
 [^1]: <https://frame.work/blog/introducing-the-framework-laptop-16>
