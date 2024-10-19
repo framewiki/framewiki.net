@@ -9,7 +9,7 @@ description: "The unofficial community-driven Framework wiki"
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
-show_wiki_pages: false
+show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 3
 # (boolean) Enable/disable blog feature
