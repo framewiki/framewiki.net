@@ -7,6 +7,8 @@ Content on Framewiki is licensed under the terms of the CC BY-SA 4.0 license, th
 Note that individual contributors to Framewiki retain copyright to materials they contribute. By submitting material, the author agrees to license it to the public for reuse under the aforementioned CC BY-SA 4.0 license. Copyright is never transferred to any entity. Authors remain free to re-publish and re-license their contributions elsewhere in any way they would like. However, they can never retract or alter the aforementioned license for copies of materials that they place here; these copies will remain so licensed until they enter the public domain when the copyright to them expires (currently some decades after an author's death).
 
 ## Attributions
+Images labeled "Courtesy of Framework" are provided by Framework Computer Inc. with limited permission for use on Framewiki only. These images are excluded from Framewiki's blanket CC BY-SA 4.0 license.
+
 The [GigaNirav](/assets/giganirav.png) image is edited by [Its-Nevmo](https://github.com/Its-Nevmo), licensed under CC BY-SA 4.0.
 
 Framewiki's website uses [a fork](https://github.com/framewiki/git-wiki-theme) of the Jekyll theme [git-wiki-theme](https://github.com/Drassil/git-wiki-theme), which is licensed under the MIT license with the following terms:
