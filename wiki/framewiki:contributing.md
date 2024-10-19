@@ -20,13 +20,13 @@ To add a citation, use a numerical footnote using this syntax:
 ```md
 The quick brown fox hopped over the lazy dog. [^1]
 ```
-Then, add the footnote's content at the bottom of the page's "References" section using this syntax:
+Then, add a link to the original source and a copy of it from the Archive.org waybackmachine as a footnote at the bottom of the page's "References" section using this syntax:
 ```md
 # References
-[^1]: <https://example.com>
+[^1]: <https://example.com> [Archived]([link to waybackmachine of page](https://web.archive.org/web/20241010024218/http://www.example.com/))
 ```
 
-Footnotes in the markdown itself should be numbered in the order in which they were added, even if that is different from the order in which they appear on the page --- Jekyll will re-number them on the published site.
+Footnotes in the markdown itself should be numbered in the order in which they were added, even if that is different from the order in which they appear on the page --- Jekyll will re-number them on the published site. Wherever possible, include archived copies of sources in the event the orignal becomes unavailable.
 
 ### How to publish your changes
 Once you've made your changes and committed them, open a Pull Request into `framewiki/framewiki.net:main`, which is the production branch from which Framewiki is automatically built and deployed. Your changes will be deployed automatically by the system when you open a pull request, unless they include changes to [protected](/framewiki:protection) parts of the wiki.
