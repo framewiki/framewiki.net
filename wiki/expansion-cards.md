@@ -5,19 +5,19 @@ Expansion Cards are standard USB-C adapters, so they can be used with any host d
 
 ## Official Expansion Cards
 
-### [USB-C Expansion Card](https://frame.work/products/usb-c-expansion-card)
+### USB-C Expansion Card
 
-The USB-C Expansion Card acts as a simple passthrough of the USB-C port on the mainboard.
+The [USB-C Expansion Card](https://frame.work/products/usb-c-expansion-card) acts as a simple passthrough of the USB-C port on the mainboard.
 
 The USB-C Expansion Card was available only in aluminium initially, however plastic varieties in orange, green, lavender, and red were introduced alongside the [Framework Laptop 13 (Intel Core Ultra Series 1)](/framework-laptop-13/core-ultra-1).
 
-### [USB-A Expansion Card](https://frame.work/products/usb-a-expansion-card)
+### USB-A Expansion Card
 
-The USB-A Expansion Card supports up to USB 3.2 Gen 2 10 Gbit/s speeds.
+The [USB-A Expansion Card](https://frame.work/products/usb-a-expansion-card) supports up to USB 3.2 Gen 2 10 Gbit/s speeds.
 
-### [HDMI Expansion Card](https://frame.work/products/hdmi-expansion-card-3rd-gen)
+### HDMI Expansion Card
 
-The HDMI Expansion Card supports HDMI 2.0b. The HDMI Expansion Card uses a Parade PS186 DisplayPort 1.4a to HDMI 2.0b Protocol Converter internally for converting the DisplayPort Alt Mode signal output by the laptop to the HDMI protocol.
+The [HDMI Expansion Card](https://frame.work/products/hdmi-expansion-card-3rd-gen) supports HDMI 2.0b. The HDMI Expansion Card uses a Parade PS186 DisplayPort 1.4a to HDMI 2.0b Protocol Converter internally for converting the DisplayPort Alt Mode signal output by the laptop to the HDMI protocol.
 
 The BETA HDMI (2nd Gen) Expansion Card includes hardware and software tweaks to address an issue preventing some laptop components from properly entering a low power state when they should. [^7] [^9] The BETA HDMI (2nd Gen) Expansion Card was only available to batch 1 pre-order customers of the [Framework Laptop 13 (13th Gen Intel Core)](/framework-laptop-13/13th-gen).
 
@@ -25,47 +25,41 @@ The HDMI (3rd Gen) Expansion Card includes minor tweaks to improve compatibility
 
 The HDMI (1st Gen) Expansion Card can be converted into a HDMI (3rd Gen) Expansion Card through soldering and firmware updates following the [HDMI Expansion Card power saving rework (Beta)](https://guides.frame.work/Guide/HDMI+Expansion+Card+power+saving+rework+(Beta)/193?lang=en) guide.
 
-### [Ethernet Expansion Card](https://frame.work/products/ethernet-expansion-card)
+### Ethernet Expansion Card
 
-The Ethernet Expansion Card features an RJ45 jack connected through a Realtek RTL8156 controller to allow 2.5Gbit/s speeds.
+The [Ethernet Expansion Card]((https://frame.work/products/ethernet-expansion-card) features an RJ45 jack connected through a Realtek RTL8156 controller to allow 2.5Gbit/s speeds.
 
 The Ethernet Expansion Card is the only official expansion card to not sit flush with the laptop and features clear plastic housing.
 
-### [DisplayPort Expansion Card](https://frame.work/products/displayport-2nd-gen-expansion-card)
+### DisplayPort Expansion Card
 
-Passes through DisplayPort signals from the laptop using USB-C DisplayPort Alt Mode.
+The [DisplayPort Expansion Card](https://frame.work/products/displayport-2nd-gen-expansion-card) Passes through DisplayPort signals from the laptop using USB-C DisplayPort Alt Mode.
 
 The DisplayPort (2nd Gen) Expansion Card ships with optimized firmware to address an issue preventing some laptop components from properly entering a low power state when they should. [^7] [^8]
 
 The DisplayPort (1st Gen) Expansion Card can be updated to the optimized firmware following the [DisplayPort Expansion Card Power Saving Firmware Update](https://guides.frame.work/Guide/DisplayPort+Expansion+Card+Power+Saving+Firmware+Update/194?lang=en) guide.
 
-### [MicroSD Expansion Card](https://frame.work/products/microsd-expansion-card)
+### MicroSD Expansion Card
 
-The MicroSD Expansion Card supports MicroSD UHS-I and UFS cards.
+The [MicroSD Expansion Card](https://frame.work/products/microsd-expansion-card) supports MicroSD UHS-I and UFS cards.
 
-### [SD Expansion Card](https://frame.work/products/sd-expansion-card)
+### SD Expansion Card
 
-The SD Expansion Card supports UHS-I and UHS-II cards.
+The [SD Expansion Card](https://frame.work/products/sd-expansion-card) supports UHS-I and UHS-II cards.
 
-### [Audio Expansion Card](https://frame.work/products/audio-expansion-card)
+### Audio Expansion Card
 
-Features a 3.5mm headphone jack connected to a Conexant CX31993 USB Audio CODEC. [^6]
+The [Audio Expansion Card](https://frame.work/products/audio-expansion-card) Features a 3.5mm headphone jack connected to a Conexant CX31993 USB Audio CODEC. [^6]
 
 Supports both input and output. Allows for a headphone jack on the [Framework Laptop 16](/framework-laptop-16) and offers greater audio quality than the headphone jack on the [Framework Laptop 13](/framework-laptop-13).
 
-### [Storage Expansion Card](https://frame.work/products/storage-expansion-card-2nd-gen)
+### [Storage Expansion Card]
 
-The Storage Expansion Card (1st Gen) uses the Phison U17 Flash controller and Micron N28 NAND. [^10]
+The [Storage Expansion Card (2nd Gen)](https://frame.work/products/storage-expansion-card-2nd-gen) uses the Phison U17 Flash controller and Hynix V6 NAND due to the Micron N28 NAND, which was used by the 1st Gen card, being discontinued. [^10] [^11] 
 
-The Storage Expansion Card (2nd Gen) uses the Phison U17 Flash controller and Hynix V6 NAND due to the Micron N28 NAND being discontinued. [^11]
+The 250GB (2nd Gen) Storage Expansion Card is rated at 1000 MB/s read and 800 MB/s write. The 1TB (2nd Gen) Storage Expansion Card is rated at 1000 MB/s read and 800 MB/s write.
 
-The 1TB (2nd Gen) Storage Expansion Card is rated at 1000 MB/s read and 800 MB/s write.
-
-The 250GB (2nd Gen) Storage Expansion Card is rated at 1000 MB/s read and 800 MB/s write.
-
-The 1TB (1st Gen) Storage Expansion Card is rated at 1000 MB/s read and 1000 MB/s write. [^10]
-
-The 250GB (1st Gen) Storage Expansion Card is rated at 1000 MB/s read and 375 MB/s write. [^10]
+The 250GB (1st Gen) Storage Expansion Card is rated at 1000 MB/s read and 375 MB/s write. [^10] The 1TB (1st Gen) Storage Expansion Card is rated at 1000 MB/s read and 1000 MB/s write. [^10]
 
 Early batches of the 1TB (1st Gen) Storage Expansion Card suffered from thermal throttling issues that could be resolved by installing a thermal pad following the [1TB Expansion Card Throttling](https://guides.frame.work/Guide/1TB+Expansion+Card+Throttling/105) guide.
 
