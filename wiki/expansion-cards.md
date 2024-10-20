@@ -27,7 +27,7 @@ The HDMI (1st Gen) Expansion Card can be converted into a HDMI (3rd Gen) Expansi
 
 ### Ethernet Expansion Card
 
-The [Ethernet Expansion Card]((https://frame.work/products/ethernet-expansion-card) features an RJ45 jack connected through a Realtek RTL8156 controller to allow 2.5Gbit/s speeds.
+The [Ethernet Expansion Card](https://frame.work/products/ethernet-expansion-card) features an RJ45 jack connected through a Realtek RTL8156 controller to allow 2.5Gbit/s speeds.
 
 The Ethernet Expansion Card is the only official expansion card to not sit flush with the laptop and features clear plastic housing.
 
@@ -53,7 +53,7 @@ The [Audio Expansion Card](https://frame.work/products/audio-expansion-card) Fea
 
 Supports both input and output. Allows for a headphone jack on the [Framework Laptop 16](/framework-laptop-16) and offers greater audio quality than the headphone jack on the [Framework Laptop 13](/framework-laptop-13).
 
-### [Storage Expansion Card]
+### Storage Expansion Card
 
 The [Storage Expansion Card (2nd Gen)](https://frame.work/products/storage-expansion-card-2nd-gen) uses the Phison U17 Flash controller and Hynix V6 NAND due to the Micron N28 NAND, which was used by the 1st Gen card, being discontinued. [^10] [^11] 
 
