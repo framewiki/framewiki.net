@@ -1,8 +1,21 @@
 ---
 permalink: /framework-laptop-13/13th-gen
+sidecar:
+    - title: Framework Laptop 13
+      title_sm: 13th Gen Intel Core
+    - table:
+        - label: Announced
+          value: March 23, 2023
+        - label: Pre-Orders Opened
+          value: March 23, 2023
+        - label: Began Shipping
+          value: May 2023
+        - label: Status
+          value: Discontinued
 ---
 # Framework Laptop 13 (13th Gen Intel Core)
-**Framework Laptop 13 (13th Gen Intel Core)** was announced on March 23, 2023, at the same time as [Framework Laptop 13 (AMD 7040 Series)](/framework-laptop-13/7040-series), during the Framework Next Level event. Batch 1 preorders began shipping in May 2023.
+{% include sidecar.html %}
+**Framework Laptop 13 (13th Gen Intel Core)** was announced on March 23, 2023, at the same time as [Framework Laptop 13 (AMD 7040 Series)](/framework-laptop-13/7040-series), during the Framework Next Level event. Preorders opened the same day. [^38] Batch 1 preorders began shipping in May 2023.
 
 ## Specs
 ### CPU
@@ -57,3 +70,4 @@ On some 13th Gen Intel Framework Laptop 13s, `libfprint` does not recognize the 
 [^35]: <https://arstechnica.com/gadgets/2023/05/review-framework-laptops-13th-gen-intel-upgrade-helps-fix-its-battery-problem/>
 [^36]: <https://www.theverge.com/23725039/framework-laptop-13-2023-intel-review>
 [^37]: <https://www.notebookcheck.net/Core-i7-1370P-performance-debut-Framework-Laptop-13-5-13th-Gen-Intel-review.714563.0.html>
+[^38]: <https://frame.work/blog/framework-laptop-13-with-13th-gen-intel-core-and-amd-ryzen-7040-series>

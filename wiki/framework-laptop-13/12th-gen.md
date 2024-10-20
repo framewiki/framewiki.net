@@ -1,7 +1,20 @@
 ---
 permalink: /framework-laptop-13/12th-gen
+sidecar:
+    - title: Framework Laptop 13
+      title_sm: 12th Gen Intel Core
+    - table:
+        - label: Announced
+          value: May 19, 2022
+        - label: Pre-Orders Opened
+          value: May 19, 2022
+        - label: Began Shipping
+          value: July 2022
+        - label: Status
+          value: Discontinued
 ---
 # Framework Laptop 13 (12th Gen Intel Core)
+{% include sidecar.html %}
 **Framework Laptop 13 (12th Gen Intel Core)** was, announced May 19, 2022. [^1] Preorders opened at the same time, with Batch 1 shipping in July of that same year. [^2] It went in-stock on November 16, 2022. [^3]
 
 It was discontinued after the launch of [Framework Laptop 13 (13th Gen Intel Core)](/framework-laptop-13/13th-gen).

@@ -1,9 +1,22 @@
 ---
 permalink: /framework-laptop-13/core-ultra-1
 wip: true
+sidecar:
+    - title: Framework Laptop 13
+      title_sm: Intel Core Ultra Series 1
+    - table:
+        - label: Announced
+          value: May 29, 2024
+        - label: Pre-Orders Opened
+          value: May 29, 2024
+        - label: Began Shipping
+          value: August 2024
+        - label: Status
+          value: In Stock
 ---
 # Framework Laptop 13 (Intel Core Ultra Series 1)
-**Framework Laptop 13 (Intel Core Ultra Series 1)** was announced May 29, 2023, and preorders opened at the same time. [^1] It is expected to begin shipping in August 2024.
+{% include sidecar.html %}
+**Framework Laptop 13 (Intel Core Ultra Series 1)** was announced May 29, 2024. Preorders opened at the same time. [^1] It began shipping in August 2024. [^7] It exited the preorder system and went in-stock beginning October 1, 2024. [^8]
 
 ## Specs
 ### CPU
@@ -46,3 +59,5 @@ Framework Laptop 13 (Intel Core Ultra Series 1) supports M.2 2280-size NVMe SSDs
 [^4]: <https://ark.intel.com/content/www/us/en/ark/products/236851/intel-core-ultra-7-processor-165h-24m-cache-up-to-5-00-ghz.html>
 [^5]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-mtl-h-u.png>
 [^6]: <https://frame.work/products/laptop13-intel-ultra-1?tab=specs>
+[^7]: <https://frame.work/blog/reviews-are-live-of-intel-core-ultra-series-1-and-the-new-2-8k-display>
+[^8]: <https://frame.work/blog/framework-laptop-13-in-stock-and-upcoming-events-and-country-launches>

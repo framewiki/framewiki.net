@@ -1,8 +1,21 @@
 ---
 permalink: /framework-laptop-13/11th-gen
+
+sidecar:
+    - title: Framework Laptop 13
+      title_sm: 11th Gen Intel Core
+    - table:
+        - label: Announced
+          value: February 25, 2021
+        - label: Pre-Orders Opened
+          value: May 13, 2021
+        - label: Began Shipping
+          value: August 2021
+        - label: Status
+          value: Discontinued
 ---
 # Framework Laptop 13 (11th Gen Intel Core)
-
+{% include sidecar.html %}
 **Framework Laptop 13 (11th Gen Intel Core)** is [Framework](/framework-computer-inc)'s first product, announced February 25, 2021. [^6] Preorders opened on May 13, 2021 [^7], with Batch 1 shipping in August of that same year. [^8] It went in-stock on December 3, 2021. [^9]
 
 It was discontinued after the launch of [Framework Laptop 13 (12th Gen Intel Core)](/framework-laptop-13/12th-gen).
