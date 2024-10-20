@@ -20,7 +20,7 @@ This section should be kept up to date with major tasks to improve Framewiki. Pl
 
 #### Development
 - [x] Fix or remove "Last 3 updated" section in sidebar.
-- [ ] Add capabilitiy to add right-aligned sidebar with photo and table, similar to Wikipedia templates, using front-matter.
+- [x] Add capabilitiy to add right-aligned sidebar with photo and table, similar to Wikipedia templates, using front-matter.
 - [x] Fix todo list formatting.
 
 ## Community
