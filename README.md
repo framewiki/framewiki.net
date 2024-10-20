@@ -15,13 +15,13 @@ This section should be kept up to date with major tasks to improve Framewiki. Pl
 - [ ] Merge "Changes by Generation" section with component table on [Framework Laptop 13](https://framewiki.net/framework-laptop-13)
 - [ ] Add pages for various first-party [expansion cards](https://framewiki.net/expansion-cards).
 - [ ] Add pages for various first-party [input modules](https://framewiki.net/input-modules).
-- [ ] Improve menu structure.
+- [x] Improve menu structure.
 - [ ] Take or get appropriately licensed photo for sidebar.
 
 #### Development
 - [x] Fix or remove "Last 3 updated" section in sidebar.
 - [ ] Add capabilitiy to add right-aligned sidebar with photo and table, similar to Wikipedia templates, using front-matter.
-- [ ] Fix todo list formatting.
+- [x] Fix todo list formatting.
 
 ## Community
 This wiki is maintaned by members of the Framework Community. Join the Official Framework community on [Discord](https://discord.gg/framework), [Reddit](https://reddit.com/r/framework), or [the forums](https://community.frame.work).
