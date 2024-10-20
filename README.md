@@ -17,6 +17,7 @@ This section should be kept up to date with major tasks to improve Framewiki. Pl
 - [ ] Add pages for various first-party [input modules](https://framewiki.net/input-modules).
 - [x] Improve menu structure.
 - [ ] Take or get appropriately licensed photo for sidebar.
+- [ ] Add sidecars to each page.
 
 #### Development
 - [x] Fix or remove "Last 3 updated" section in sidebar.
