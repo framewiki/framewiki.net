@@ -1,6 +1,6 @@
 # Framework Laptop 13
 
-Framework Laptop 13 is [Framework](/framework-computer-inc)'s first product. Initially branded simply as Framework Laptop, the company rebranded the product as Framework Laptop 13 in 2023 to distinguish it from the newly-announced [Framework Laptop 16](/framework-laptop-16). 
+**Framework Laptop 13** is [Framework](/framework-computer-inc)'s first product. Initially branded simply as Framework Laptop, the company rebranded the product as Framework Laptop 13 in 2023 to distinguish it from the newly-announced [Framework Laptop 16](/framework-laptop-16). 
 
 The initial version featured 11th Gen Intel Core CPUs, but it has since been updated with 12th and 13th Gen Intel CPUS, as well as AMD 7040 series offerings.
 

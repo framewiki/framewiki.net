@@ -3,7 +3,7 @@ permalink: /framework-laptop-13/core-ultra-1
 wip: true
 ---
 # Framework Laptop 13 (Intel Core Ultra Series 1)
-Framework Laptop 13 (Intel Core Ultra Series 1) was announced May 29, 2023, and preorders opened at the same time. [^1] It is expected to begin shipping in August 2024.
+**Framework Laptop 13 (Intel Core Ultra Series 1)** was announced May 29, 2023, and preorders opened at the same time. [^1] It is expected to begin shipping in August 2024.
 
 ## Specs
 ### CPU

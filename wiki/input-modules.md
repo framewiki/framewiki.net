@@ -1,6 +1,6 @@
 # Input Modules
 
-Input Modules are custom modules that slot into the deck of the [Framework Laptop 16](https://framewiki.net/framework-laptop-16), allowing users to choose how their laptop is configured. Framework said the primary inspiration for this system was market research that showed "almost exactly a 50/50 split between people who love and need numpads and people who hate them." [^1]
+**Input Modules** are custom modules that slot into the deck of the [Framework Laptop 16](https://framewiki.net/framework-laptop-16), allowing users to choose how their laptop is configured. Framework said the primary inspiration for this system was market research that showed "almost exactly a 50/50 split between people who love and need numpads and people who hate them." [^1]
 
 ## Technical Details
 On the Framework Laptop 16, there are 8 input module connectors. Five of them --- three on the left side and two on the right side --- are USB 2.0 compatible. The middle three, populated by the trackpad, are i2c only. Input Module firmware is based on QMK keyboard software running on the Raspberry Pi RP2040 microcontroller within the modules themselves. [^2]

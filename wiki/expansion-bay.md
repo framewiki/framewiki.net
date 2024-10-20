@@ -1,6 +1,6 @@
 # Expansion Bay
 
-The Expansion Bay is a custom slot on the back of [Framework Laptop 16](/framework-laptop-16).
+The **Expansion Bay** is a custom slot on the back of [Framework Laptop 16](/framework-laptop-16).
 
 ## Cooling
 The expansion bay contains the cooling fans for Framework laptop 16. For this reason, an expansion bay module must be installed whenever the laptop is in use. 

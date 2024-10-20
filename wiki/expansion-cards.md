@@ -1,5 +1,5 @@
 # Expansion Cards
-Expansion Cards are custom form factor USB-C adapters that enable customizable and hot-swappable I/O on Framework laptops. The cards lock into Expansion Card Bays on [Framework Laptop 13](/framework-laptop-13) and [Framework Laptop 16](/framework-laptop-16).
+**Expansion Cards** are custom form factor USB-C adapters that enable customizable and hot-swappable I/O on Framework laptops. The cards lock into Expansion Card Bays on [Framework Laptop 13](/framework-laptop-13) and [Framework Laptop 16](/framework-laptop-16).
 
 Expansion Cards are standard USB-C adapters, so they can be used with any host device that supports the applicable parts of the USB-C specification. [^1]
 
