@@ -2,8 +2,8 @@
 sidecar:
     - image: /assets/framework-logo.png
     - title: Framework Computer Inc
-      html: <br />
-    - table: 
+    - gap: true
+      table: 
         - label: Founded
           value: Jan. 2020
         - label: Founder

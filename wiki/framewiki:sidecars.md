@@ -2,11 +2,11 @@
 sidecar:
     - title: This is a Sidecar
       text: Sidecars let you summarize important info.
-    - html: <br/>
-    - image: /assets/giganirav.png
+    - gap: true
+      image: /assets/giganirav.png
       text: Giganirav is a perfect example image.
-    - html: <br/>
-    - title_sm: Example Table
+    - gap: true
+      title_sm: Example Table
       table:
         - label: Framewiki Established
           value: Sept. 13, 2023

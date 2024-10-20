@@ -44,6 +44,9 @@
         <div class="sidecar-text">See <a href="/framewiki:sidecars">Framewiki:Sidecars</a> to learn how to add information here.</div>
     {% endif %}
     {% for i in page.sidecar %}
+        {% if i.gap %}
+            <br />
+        {% endif %}
         {% if i.title %}
             <div class="sidecar-title">{{ i.title }}</div>
         {% endif %}
