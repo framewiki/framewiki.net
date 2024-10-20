@@ -85,10 +85,10 @@ Parts other than the motherboard that were changed between generations
 [^4]: <https://frame.work/blog/solving-for-silicon-shortages>
 [^5]: <https://youtube.com/watch?v=SYc922ntnKM>
 [^6]: <https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634>
-[^7]: <https://frame.work/products/laptop-11-gen-intel?tab=specs>
-[^8]: <https://frame.work/products/laptop-12-gen-intel?tab=specs>
-[^9]: <https://frame.work/products/laptop-13-gen-intel?tab=specs>
-[^10]: <https://frame.work/products/laptop-13-gen-amd?tab=specs>
+[^7]: <https://frame.work/products/laptop-11-gen-intel?tab=specs> [Archived](https://web.archive.org/web/20240313084108/https://frame.work/products/laptop-11-gen-intel?tab=specs)
+[^8]: <https://frame.work/products/laptop-12-gen-intel?tab=specs> [Archived](https://web.archive.org/web/20240313081849/https://frame.work/products/laptop-12-gen-intel?tab=specs)
+[^9]: <https://frame.work/products/laptop-13-gen-intel?tab=specs> [Archived](https://web.archive.org/web/20230717191930/https://frame.work/products/laptop-13-gen-intel?tab=specs)
+[^10]: <https://frame.work/products/laptop-13-gen-amd?tab=specs> [Archived](https://web.archive.org/web/20230615220941/https://frame.work/products/laptop-13-gen-amd?tab=specs)
 [^11]: <https://frame.work/products/laptop13-intel-ultra-1?tab=specs>
 [^12]: <https://discord.com/channels/900151360903868476/945756024579686420/1182563816580595712>
 [^13]: <https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part1>
