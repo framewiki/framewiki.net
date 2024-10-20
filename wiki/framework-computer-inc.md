@@ -1,4 +1,20 @@
+---
+sidecar:
+    - image: /assets/framework-logo.png
+    - title: Framework Computer Inc
+      html: <br />
+    - table: 
+        - label: Founded
+          value: Jan. 2020
+        - label: Founder
+          value: Nirav Patel
+        - label: Funding
+          value: $45.2M
+        - label: Products
+          value: 2 lines, 6 total products/generations
+---
 # Framework Computer Inc
+{% include sidecar.html %}
 **Framework Computer Inc.** is a US-based consumer electronics company creating customizable and repairable laptops. Framework is a proponent of the Right to Repair movement, designing their products to be easily opened and repaired. They also sell replacement parts on their website, including kits that allow users to upgrade an older Framework Laptop to a newer generation.
 
 In November 2021, Time magazine listed the Framework Laptop on their list of the 100 Best Inventions of 2021. [^1] In March 2022, Fast Company listed the Framework Laptop on their list of the Most Innovative Companies of 2022. [^2]
