@@ -1,0 +1,68 @@
+<style>
+    .sidecar {
+        width: 300px;
+        float: right;
+        background-color: #d6d6d6;
+        border: 1px solid black;
+        margin-left: 20px;
+        margin-bottom: 10px;
+        padding: 8px;
+        font-size: 0.9rem;
+    }
+    @media print,
+    screen and (max-width: 550px) {
+        .sidecar{
+            width: 100%;
+        }
+    }
+    .sidecar-title {
+        text-align: center;
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+    .sidecar-title-small {
+        text-align: center;
+        font-weight: bold;
+        font-size: 1rem;
+    }
+    .sidecar-text {
+        text-align: center;
+    }
+    .sidecar tr {
+        border-style : hidden!important;
+    }
+</style>
+
+<div class="sidecar">
+    {% if page.sidecar == nil %}
+        <div class="sidecar-title">This is an empty sidecar</div>
+        <div class="sidecar-text">See <a href="/framewiki:sidecars">Framewiki:Sidecars</a> to learn how to add information here.</div>
+    {% endif %}
+    {% for i in page.sidecar %}
+        {% if i.title %}
+            <div class="sidecar-title">{{ i.title }}</div>
+        {% endif %}
+        {% if i.title_sm %}
+            <div class="sidecar-title-small">{{ i.title_sm }}</div>
+        {% endif %}
+        {% if i.image %}
+            <img src="{{ i.image }}"/>
+        {% endif %}
+        {% if i.text %}
+            <div class="sidecar-text">{{ i.text }}</div>
+        {% endif %}
+        {% if i.html %}
+            {{ i.html }}
+        {% endif %}
+        {% if i.table %}
+            <table>
+            {% for row in i.table %}
+                <tr>
+                    <td style="width: 40%"><b>{{ row.label }}</b></td>
+                    <td>{{ row.value }}</td>
+                </tr>
+            {% endfor %}
+            </table>
+        {% endif %}
+    {% endfor %}
+</div>
