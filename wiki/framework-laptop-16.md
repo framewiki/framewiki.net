@@ -9,7 +9,7 @@ sidecar:
         - label: Began Shipping
           value: February, 2024
         - label: Status
-          value: In Stock
+          value: 🟢 In Stock
 ---
 # Framework Laptop 16
 {% include sidecar.html %}
