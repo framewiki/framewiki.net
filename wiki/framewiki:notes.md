@@ -22,6 +22,7 @@ The following is a list of the available note names:
 - `semiprotected`
 - `wip`
 - `meta`
+- `stub`
 
 ## Custom Notes
 {% include wip.html %}
