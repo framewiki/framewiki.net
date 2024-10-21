@@ -8,8 +8,10 @@ sidecar:
           value: 13.5"
         - label: First Model
           value: <a href="/framework-laptop-13/11th-gen">11th Gen Intel Core</a>
-        - label: Current Model
-          value: <a href="/framework-laptop-13/core-ultra-1">Intel Core Ultra Series 1</a>
+        - label: Current Models
+          value: | 
+            <a href="/framework-laptop-13/core-ultra-1">Intel Core Ultra Series 1</a>
+            <a href="/framework-laptop-13/7040-series">AMD Ryzen 7040 Series</a>
         - label: Dimensions
           value: 15.85mm x 296.63mm x 228.98mm
         - label: Status
