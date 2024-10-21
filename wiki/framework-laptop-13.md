@@ -1,4 +1,22 @@
+---
+sidecar:
+    - title: Framework Laptop 13
+      title_sm: Laptop Form Factor
+    - gap: true
+      table:
+        - label: Display Size
+          value: 13.5"
+        - label: First Model
+          value: <a href="/framework-laptop-13/11th-gen">11th Gen Intel Core</a>
+        - label: Current Model
+          value: <a href="/framework-laptop-13/core-ultra-1">Intel Core Ultra Series 1</a>
+        - label: Dimensions
+          value: 15.85mm x 296.63mm x 228.98mm
+        - label: Status
+          value: 🟢 Supported
+---
 # Framework Laptop 13
+{% include sidecar.html %}
 
 **Framework Laptop 13** is [Framework](/framework-computer-inc)'s first product. Initially branded simply as Framework Laptop, the company rebranded the product as Framework Laptop 13 in 2023 to distinguish it from the newly-announced [Framework Laptop 16](/framework-laptop-16). 
 

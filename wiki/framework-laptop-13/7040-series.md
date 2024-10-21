@@ -11,7 +11,7 @@ sidecar:
         - label: Began Shipping
           value: October 2023
         - label: Status
-          value: In Stock
+          value: 🟢 In Stock
 ---
 # Framework Laptop 13 (AMD 7040 Series)
 {% include sidecar.html %}

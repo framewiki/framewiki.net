@@ -12,7 +12,7 @@ sidecar:
         - label: Began Shipping
           value: August 2021
         - label: Status
-          value: Discontinued
+          value: 🔴 Discontinued
 ---
 # Framework Laptop 13 (11th Gen Intel Core)
 {% include sidecar.html %}

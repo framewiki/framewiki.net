@@ -11,7 +11,7 @@ sidecar:
         - label: Began Shipping
           value: August 2024
         - label: Status
-          value: In Stock
+          value: 🟢 In Stock
 ---
 # Framework Laptop 13 (Intel Core Ultra Series 1)
 {% include sidecar.html %}
