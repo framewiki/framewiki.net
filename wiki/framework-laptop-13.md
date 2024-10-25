@@ -1,5 +1,7 @@
 ---
 sidecar:
+    - image: /assets/framework-laptop-13.png
+      text: Image courtesy of Framework
     - title: Framework Laptop 13
       title_sm: Laptop Form Factor
     - gap: true
