@@ -1,6 +1,8 @@
 ---
 permalink: /framework-laptop-13/13th-gen
 sidecar:
+    - image: /assets/framework-laptop-13-13th-gen.jpg
+      text: Image courtesy of Framework
     - title: Framework Laptop 13
       title_sm: 13th Gen Intel Core
     - table:
@@ -12,6 +14,7 @@ sidecar:
           value: May 2023
         - label: Status
           value: 🔴 Discontinued
+
 ---
 # Framework Laptop 13 (13th Gen Intel Core)
 {% include sidecar.html %}

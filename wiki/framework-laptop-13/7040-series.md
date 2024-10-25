@@ -1,6 +1,8 @@
 ---
 permalink: /framework-laptop-13/7040-series
 sidecar:
+    - image: /assets/framework-laptop-13-amd-7040.png
+      text: Image courtesy of Framework
     - title: Framework Laptop 13
       title_sm: AMD 7040 Series
     - table:
