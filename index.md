@@ -1,9 +1,7 @@
 ---
 ---
 <style>
-    h1,
-    h2,
-    h3  {
+    #welcome-to-framewiki, h2, h3  {
         text-align: center !important;
         border-bottom: none !important;
     }
