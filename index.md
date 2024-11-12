@@ -25,7 +25,7 @@
     }
 </style>
 # Welcome to Framewiki
-<p style="text-align: center;"><I>The unofficial, community-driven Framework Wiki.</i></p>
+<p style="text-align: center;"><I>The unofficial, community-driven Framework wiki</i></p>
 
 <hr />
 
