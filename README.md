@@ -1,8 +1,5 @@
 # Framewiki
-The unofficial community-driven Framework wiki.
-
-## Disclaimer
-This wiki and the resources within it are unofficial and in no way endorsed by Framework. Your use of any guides within this wiki is at your own risk and may void your warranty. For issues with this wiki, reach out to the community maintainers via the talk section on the appropriate page (powered by GitHub Discussions).
+The unofficial, community-driven Framework wiki.
 
 ## Contributing
 For information on contributing to Framewiki, see [Framewiki: Contributing](/framewiki:contributing)
@@ -28,3 +25,6 @@ This section should be kept up to date with major tasks to improve Framewiki. Pl
 
 ## Community
 This wiki is maintaned by members of the Framework Community. Join the Official Framework community on [Discord](https://discord.gg/framework), [Reddit](https://reddit.com/r/framework), or [the forums](https://community.frame.work).
+
+## Disclaimer
+This wiki and the resources within it are unofficial and in no way endorsed by Framework. Information hosted on this site is provided without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose and noninfringement. Reliance on guides hosted on this site is at your own risk and may void your warranty. For issues with this wiki, reach out to the community maintainers via the talk section on the appropriate page (powered by GitHub Discussions), not Framework support.
