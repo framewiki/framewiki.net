@@ -5,7 +5,7 @@ title: "Framewiki"
 # with your folder name, otherwise leave it empty
 baseurl: "/"
 # (string) Description of your wiki
-description: "The unofficial community-driven Framework wiki"
+description: "The unofficial, community-driven Framework wiki"
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
