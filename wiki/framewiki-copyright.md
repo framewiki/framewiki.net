@@ -1,5 +1,6 @@
 ---
 meta: true
+permalink: /framewiki:copyright
 ---
 # Framewiki: Copyright
 Content on Framewiki is licensed under the terms of the CC BY-SA 4.0 license, the full text of which is found at the bottom of this page.

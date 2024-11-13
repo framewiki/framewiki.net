@@ -1,5 +1,6 @@
 ---
 meta: true
+permalink: /framewiki:protection
 ---
 # Framewiki: Protection
 Articles on Framewiki may be protected by an administrator to prevent vandalism. Pull requests that modify protected pages will not be merged automatically until someone with the appropriate access level approves the changes. Protected pages will display one of the following notices at the top of the page:

@@ -1,5 +1,6 @@
 ---
 meta: true
+permalink: /framewiki:contributing
 ---
 # Framewiki: Contributing
 ## Editing Framewiki
