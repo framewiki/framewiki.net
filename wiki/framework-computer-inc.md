@@ -10,12 +10,14 @@ sidecar:
           value: Nirav Patel
         - label: Funding
           value: $45.2M
+        - label: Employees
+          value: 55
         - label: Products
           value: 2 lines, 6 total products/generations
 ---
 # Framework Computer Inc
 {% include sidecar.html %}
-**Framework Computer Inc.** is a US-based consumer electronics company creating customizable and repairable laptops. Framework is a proponent of the Right to Repair movement, designing their products to be easily opened and repaired. They also sell replacement parts on their website, including kits that allow users to upgrade an older Framework Laptop to a newer generation.
+**Framework Computer Inc.** is a US-based consumer electronics company creating customizable and repairable laptops. Framework is a proponent of the Right to Repair movement, designing their products to be easily opened and repaired. They also sell replacement parts on their website, including kits that allow users to upgrade an older Framework Laptop to a newer generation. As of November 2024, the company has 55 employees and two open positions. [^9]
 
 ## Awards
 In November 2021, Time magazine listed the Framework Laptop on their list of the 100 Best Inventions of 2021. [^1] 
@@ -40,3 +42,4 @@ The company announced a Series A-1 round April 23, 2024. The series raised a tot
 [^6]: <https://www.red-dot.org/project/framework-laptop-55668>
 [^7]: <https://ifdesign.com/en/winner-ranking/project/framework-laptop/331893>
 [^8]: <https://www.red-dot.org/project/framework-laptop-16-71092>
+[^9]: <https://frame.work/about>
