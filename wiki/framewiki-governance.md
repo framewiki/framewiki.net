@@ -25,6 +25,7 @@ The administrative board shall have the power to:
 - Accept or reject RFCs seeking to modify Framewiki policies, organization or infrastructure
 - Enforce and update the [Code of Conduct](/framewiki:code-of-conduct)
 - Act as court of last resort when all other dispute resolution methods fail
+- Appoint maintainers and trusted editors
 - Delegate parts of their authority to other subcommittees or processes
 
 The board may not delegate the power to modify this document, or to to appoint and remove members.
