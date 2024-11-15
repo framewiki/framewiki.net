@@ -37,12 +37,11 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 The assigned administrator must give all involved parties 7 days to present argument and evidence before imposing final sanctions. They may grant temporary sanctions while the reply is pending if doing so would be in the community's best interest and the case is likely to succeed on its merits. If the individual administrator is unable to make a decision, they may refer the complaint to the administrative board.
 
-If administrators find wrongdoing, a docket will be posted publicly containing relevant communications and arguments from the parties, as well as any decisions and findings of fact. If no wrongdoing is found, a final report will be sent privately to all involved parties.
+If administrators issue sanctions, a public docket will contain relevant arguments, decisions and findings of fact. If no sanctions are issued, a final report will be sent privately to all involved parties.
 
 The identity of the complainant will not be included in the docket or final report. However, names of involved parties cannot be kept confidential because it is often impossible to redact identities while providing enough detail for accused parties to respond to an allegation. **Harassment of any involved party by any means constitutes separate violation of this Code of Conduct and will result in additional sanctions.**
 
-Decisions of an individual administrator are subject to appeal to the whole administrative board, which acts as Framewiki's court of last resort. The appellant must submit a petition for appeal containing their argument. If the petition is accepted, other involved parties will be given 7 days to respond before the board makes a decision. The board may, by a majority vote, affirm, reverse, affirm in part, or dismiss the appeal as improvidently granted.
-
+Decisions of an individual administrator are subject to appeal to the whole administrative board. The appellant must submit a petition for appeal containing their argument. If the petition is accepted, other involved parties will be given 7 days to respond before the board makes a decision. The board may, by a majority vote, affirm, reverse, affirm in part, or dismiss the appeal as improvidently granted.
 
 ## Enforcement Guidelines
 Community leaders will follow these Community Impact Guidelines in determining the appropriate sanctions for any action they deem in violation of this Code of Conduct:
