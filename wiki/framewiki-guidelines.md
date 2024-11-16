@@ -14,7 +14,7 @@ Do not use Framewiki to publish original reporting, research or testing. It is a
 ## Creating Pages
 Create a new page for new Framework product lines, and for each generation within a given product line. If there is only one generation of a product, do not create separate pages for the generation and the line until a second generation is announced.
 
-Pages for guides or instructions should be listed on the [Guides](/guides) list page. Ensure the guide specifies what products it applies to. If there are different guides that accomplish a similar task but on different products --- for example, mainboard reset instructions that differ by  generation --- put all the guides on the same page, separated by product.
+Pages for guides or instructions should be listed on the [Guides](/guides) list page. Ensure the guide specifies what products it applies to. If there are different guides that accomplish a similar task but on different products --- for example, mainboard reset instructions that differ by  generation --- create a new page for each version of the guide.
 
 Pages may also be created for Framework-adjacent companies, defined as companies that partner with Framework to create intentionally Framework-compatible parts such as mainboards or expansion cards, and their Framework-compatible products. Framewiki is not a general right-to-repair wiki; all pages must be specific to Framework.
 
