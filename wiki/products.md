@@ -7,6 +7,7 @@ This is a **list of [Framework](/framework-computer-inc) products** excluding in
 - [Framework Laptop 13 (12th Gen Intel Core)](/framework-laptop-13/12th-gen)
 - [Framework Laptop 13 (13th Gen Intel Core)](/framework-laptop-13/13th-gen)
 - [Framework Laptop 13 (AMD 7040 Series)](/framework-laptop-13/7040-series)
+- [Framework Laptop Chromebook Edition](/framework-chromebook)
 - [Framework Laptop 13 (Intel Core Ultra Series 1)](/framework-laptop-13/core-ultra-1)
 - [Framework Laptop 16](/framework-laptop-16)
 - [Expansion Bay Shell](/expansion-bay/shell)
