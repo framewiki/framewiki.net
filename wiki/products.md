@@ -12,6 +12,7 @@ This is a **list of [Framework](/framework-computer-inc) products** excluding in
 - [Framework Laptop 16](/framework-laptop-16)
 - [Expansion Bay Shell](/expansion-bay/shell)
 - [AMD Radeon RX 7700S Expansion Bay](/expansion-bay/radeon-rx-7700s)
+- [Dual M.2 Adapter](/expansion-bay/dual-m2)
 - [Cooler Master Mainboard Case](/cooler-master-mainboard-case)
 - [Screwdriver](/screwdriver)
 - [Power Adapter (60W)](/power-adapter-60)
