@@ -17,3 +17,4 @@ This is a **list of [Framework](/framework-computer-inc) products** excluding in
 - [Screwdriver](/screwdriver)
 - [Power Adapter (60W)](/power-adapter-60)
 - [Power Adapter (180W)](/power-adapter-180)
+- [Mystery Box](/mystery-box)
