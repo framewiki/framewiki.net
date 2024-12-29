@@ -59,7 +59,7 @@ Supports WiFi 6E. Specs pages do not include the model of the default WiFi card.
 Framework Laptop Chromebook Edition supports up to 64GB of JEDEC DDR4 SO-DIMMS.[^1]
 
 #### SSD
-Framework Laptop Chromebook Edition supports up to 1TB of M.2 2280-size NVMe SSDs.[^1]
+Framework Laptop Chromebook Edition supports up to 1TB of M.2 2280-size NVMe SSD.[^1]
 
 # References
 [^1]: <https://frame.work/blog/introducing-the-framework-laptop-chromebook-edition> [Archived](https://web.archive.org/web/20241229142943/https://frame.work/blog/introducing-the-framework-laptop-chromebook-edition)
