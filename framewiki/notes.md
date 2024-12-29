@@ -1,6 +1,5 @@
 ---
 meta: true
-permalink: /framewiki:notes
 ---
 # Framewiki: Notes
 ## Adding Notes

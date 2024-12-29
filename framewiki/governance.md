@@ -1,6 +1,5 @@
 ---
 meta: true
-permalink: /framewiki:governance
 ---
 # Framewiki: Governance
 The governance structure of Framewiki establishes a framework for the effective, independent and transparent management of content, policies, user interactions and infrastructure within the wiki. This document defines the responsibilities and powers of the Administrative Board, which oversees all decision-making processes and serves as the ultimate authority for dispute resolution.

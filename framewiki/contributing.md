@@ -1,6 +1,5 @@
 ---
 meta: true
-permalink: /framewiki:contributing
 ---
 # Framewiki: Contributing
 To contribute to Framewiki, you'll need to have a GitHub account. Framewiki is written in Markdown and deployed via GitHub Pages. By contributing, you agree to license your contribution under the CC BY-SA 4.0 license. For more information, see [Framewiki: Copyright](/framewiki:copyright).

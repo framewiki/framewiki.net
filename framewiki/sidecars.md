@@ -1,5 +1,4 @@
 ---
-permalink: /framewiki:sidecars
 sidecar:
     - title: This is a Sidecar
       text: Sidecars let you summarize important info.

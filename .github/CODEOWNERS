@@ -3,8 +3,8 @@ _config.yml @framewiki/admins
 .github/ @framewiki/admins
 
 # Governance - Should be owned by @framewiki/admins
-wiki/framewiki-governance.md @framewiki/admins
-wiki/framewiki-code-of-conduct.md @framewiki/admins
+framewiki/governance.md @framewiki/admins
+framewiki/code-of-conduct.md @framewiki/admins
 
 # Fully-Protected - Should be owned by @framewiki/admins @framewiki/maintainers
 

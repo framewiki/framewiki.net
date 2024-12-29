@@ -1,6 +1,5 @@
 ---
 meta: true
-permalink: /framewiki:guidelines
 ---
 # Framewiki: Guidelines
 ## Code of Conduct

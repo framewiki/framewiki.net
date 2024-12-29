@@ -1,6 +1,5 @@
 ---
 meta: true
-permalink: /framewiki:code-of-conduct
 ---
 # Framewiki: Code of Conduct
 ## Our Pledge
