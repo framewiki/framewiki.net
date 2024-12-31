@@ -1,4 +1,5 @@
 ---
+guide: true
 ---
 # Mainboard Reset Procedures
 ## 11th Gen Intel Core, 12th Gen Intel Core, 13th Gen Intel Core
