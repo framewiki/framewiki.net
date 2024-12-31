@@ -13,9 +13,12 @@ Do not use Framewiki to publish original reporting, research or testing. It is a
 ## Creating Pages
 Create a new page for new Framework product lines, and for each generation within a given product line. If there is only one generation of a product, do not create separate pages for the generation and the line until a second generation is announced.
 
-Pages for guides or instructions should be listed on the [Guides](/guides) list page. Ensure the guide specifies what products it applies to. If there are different guides that accomplish a similar task but on different products --- for example, mainboard reset instructions that differ by  generation --- create a new page for each version of the guide.
-
 Pages may also be created for Framework-adjacent companies, defined as companies that partner with Framework to create intentionally Framework-compatible parts such as mainboards or expansion cards, and their Framework-compatible products. Framewiki is not a general right-to-repair wiki; all pages must be specific to Framework.
+
+## Guides
+Pages for guides or instructions should be included on the [Guides](/guides) list page and include the `guides` note. Ensure the guide specifies what products it applies to. If there are different guides that accomplish a similar task but on different products --- for example, mainboard reset instructions that differ by  generation --- add each guide under its own heading on the same page if appropriate.
+
+Guides are written and maintained by the Framewiki community. Editors should carefully test guides to ensure they are easy to follow and will not cause damage when followed exactly. However, guides on Framewiki are provided as-is and without warranty of any kind, express or implied. Reliance on Framewiki guides is at your own risk and may void your warranty. Official Framework guides can be found at <https://guides.frame.work>.
 
 ## Removing Pages
 If a page has little content and qualifies as a stub, it may be a candidate for deletion if the content could be combined into an existing page. Before deleting a page, consider whether there is other information that could be added to the page to make it longer. Always mark the page as a stub and post in the discussion section before deleting it, to give editors an opportunity to discuss and add additional content.
