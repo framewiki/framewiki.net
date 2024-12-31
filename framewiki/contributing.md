@@ -18,7 +18,7 @@ Being familiar with the other concepts may be helpful, but knowledge of them is 
 ## Getting Involved
 If you are looking for ways to contribute to Framewiki, here are a few ways to start:
 
-- Look for red links, which indicate that an article does not yet exist, and [create them](/framewiki:guidelines#creating-pages) Lists, such as [Guides](/guides) and [products](/products) are a good place to look.
+- Look for red links, which indicate that an article does not yet exist, and [create them](/framewiki:guidelines#creating-pages) Lists, such as [guides](/guides) and [products](/products) are a good place to look.
 - Add [sidecars](/framewiki:sidecars) to non-meta pages that do not already have them.
 - Add a cover image to [sidecars](/framewiki:sidecars) on product pages that do not already have one. Be sure you have the rights to any images you upload.
 - Look for [[citation needed]](/framewiki:citation-needed) tags and try to locate a source to support or refute the claim.
