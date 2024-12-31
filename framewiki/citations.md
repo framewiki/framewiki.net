@@ -1,6 +1,8 @@
 ---
+meta: true
+---
 
-# Citations
+# Framewiki: Citations
 Framewiki's [verifiability guidelines](/framewiki:guidelines#verifiability) require that all claims be backed up with a citation to a trusted source.
 
 Framewiki uses numerical footnotes for citations. Footnotes in the markdown itself should be numbered in the order in which they were added, even if that is different from the order in which they appear on the page; Jekyll, the static site generator that Framewiki uses, will re-number the footnotes on the published site so they appear in the correct order.
