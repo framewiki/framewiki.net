@@ -28,14 +28,14 @@ Framework Laptop 16 also has six [expansion card](/expansion-cards) slots. Like 
 ## Specs
 ### CPU
 
-| Processor           | AMD Ryzen 7 7840HS [^5] [^9]          | AMD Ryzen 9 7940HS [^5] [^10]          |
-| ------------------- | ------------------------------------- | -------------------------------------- |
-| Cores               | 8                                     | 8                                      |
-| Threads             | 16                                    | 16                                     |                        
-| L3 Cache            | 16 MB                                 | 16 MB                                  |
-| Base Clock          | 3.8 GHz                               | 4 GHz                                  |
-| Boost Clock         | 5.1 GHz                               | 5.2 GHz                                |
-| Integrated Graphics | AMD Radeon™ 780M (12 cores, 2700 MHz) | AMD Radeon™ 780M (12 cores, 2800 MHz)  |
+| Processor           | AMD Ryzen 7 7840HS [^5] [^9]                  | AMD Ryzen 9 7940HS [^5] [^10]                  |
+| ------------------- | --------------------------------------------- | ---------------------------------------------- |
+| Cores               | 8                                             | 8                                              |
+| Threads             | 16                                            | 16                                             |                        
+| L3 Cache            | 16 MB                                         | 16 MB                                          |
+| Base Clock          | 3.8 GHz                                       | 4 GHz                                          |
+| Boost Clock         | 5.1 GHz                                       | 5.2 GHz                                        |
+| Integrated Graphics | AMD Radeon™ 780M (12 compute units, 2700 MHz) | AMD Radeon™ 780M (12 compute units, 2800 MHz)  |
 
 ### GPU
 An AMD Radeon RX 7700S, featuring 8GB of GDDR6 VRAM, a 100W TGP, and 2 Cooler Master fans, can be installed via the [expansion bay](/expansion-bay).
