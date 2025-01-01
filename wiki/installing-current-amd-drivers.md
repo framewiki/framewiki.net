@@ -5,15 +5,15 @@ guide: true
 
 | Framework Laptop 13 | Applicable |
 |---------------------|------------|
-| Intel 11th Gen      | ❌          |
-| Intel 12th Gen      | ❌          |
-| Intel 13th Gen      | ❌          |
-| AMD 7040 Series     | ✅          |
-| Intel Core Ultra 1  | ❌          |
+| Intel 11th Gen      | ✗          |
+| Intel 12th Gen      | ✗          |
+| Intel 13th Gen      | ✗          |
+| AMD 7040 Series     | **✓**          |
+| Intel Core Ultra 1  | ✗          |
 
 | Framework Laptop 16 | Applicable |
 |---------------------|------------|
-| AMD 7040 Series     | ✅          |
+| AMD 7040 Series     | **✓**          |
 
 The AMD drivers included with Framework's driver bundles are quite old. Particular the graphics driver which you may want to update for the latest game compatibility or driver features. Here are some recommendations and observations from the community if you would like to install the latest graphics driver bundle from AMD.
 
