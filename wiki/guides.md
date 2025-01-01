@@ -5,3 +5,4 @@ This is a **list of community-maintained guides**. All guides on Framewiki are w
 
 - [Mainboard Reset](/mainboard-reset)
 - [Remapping the Framework Logo Key](/remap-logo-key)
+- [Installing Current AMD Drivers](/installing-current-amd-drivers)
