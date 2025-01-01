@@ -11,7 +11,7 @@ sidecar:
         - label: Pre-Orders Opened
           value: July 18, 2023
         - label: Began Shipping
-          value:
+          value: February, 2024
         - label: Status
           value: 🟢 Supported
     - gap: true
