@@ -25,14 +25,18 @@ sidecar:
           value: 32
         - label: Cores
           value: 2048
-        - label: vRAM
-          value: 8GB GDDR6
         - label: TMU
           value: 128
         - label: ROP
           value: 64
+        - label: vRAM
+          value: 8GB GDDR6
         - label: Bus Width
           value: 128-bit
+        - label: Memory Bandwidth
+          value: 288 GB/s
+        - label: Memory Clock
+          value: 18 Gbps effective (2250 MHz actual)
 ---
 # AMD Radeon RX 7700S Graphics Module
 {% include sidecar.html %}
@@ -43,7 +47,7 @@ Though Framework said that graphics modules were possible using the expansion ba
 Customers who pre-ordered Framework Laptop 16 with the RX 7700S Graphics Module received a Starfield Premium Edition game code as part of an AMD rewards promotion.[^2] [^5]
 
 ## Specs
-The RX7700S uses a Navi 33 GPU die, based on AMD's RDNA 3.0 architecture, featuring 32 compute units, 2048 GPU cores, 128 texture mapping units and 64 raster output units.[^3] The module has a 100W TDP and 8GB of GDDR6 vRAM with a 128-bit bus width.[^1]
+The RX7700S uses a Navi 33 GPU die, based on AMD's RDNA 3.0 architecture, featuring 32 compute units, 2048 GPU cores, 128 texture mapping units and 64 raster output units.[^3] The module has a 100W TDP and 8GB of GDDR6 vRAM with a 128-bit bus width operating at an effective memory clock of 18 Gbps for a total bandwidth of 288 GB/s.[^1]
 
 ## Compatibility
 The AMD Radeon RX7700S Graphics Module is compatible with Framework Laptop 16. It requires the graphics module interposer.
