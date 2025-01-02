@@ -17,7 +17,7 @@ guide: true
 
 The AMD drivers included with Framework's driver bundles are quite old. Particular the graphics driver which you may want to update for the latest game compatibility or driver features. Here are some recommendations and observations from the community if you would like to install the latest graphics driver bundle from AMD.
 
-I recommend that you install AMD driver version 24.7.1 if you would like a stable installation. Version 24.8.1 is also stable but includes an annoying bug where the Radeon control panel will launch randomly when the computer resumes from sleep.
+It is recommend that you install AMD driver version 24.7.1 if you would like a stable installation based on community experience. Version 24.8.1 is also stable but includes an annoying bug where the Radeon control panel will launch randomly when the computer resumes from sleep.
 
 There have been mixed reports of version 24.12.1 working on the latest BIOS version. Users in the Framework Discord server have reported success installing 24.12.1 after updating the BIOS of their Framework Laptop 16. But, others have reported that 24.12.1 is still failing to install. So, if you would like a stable install please use 24.7.1 or 24.8.1.
 
