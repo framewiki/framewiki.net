@@ -15,7 +15,7 @@ guide: true
 |---------------------|------------|
 | AMD 7040 Series     | **✓**      |
 
-The AMD drivers included with Framework's driver bundles are generally updated only when a new BIOS version is released, meaning they can be out of date. It may be useful to update the graphics driver for the latest game compatibility or driver features. However, Framework's official recommendation is that users run the drivers included in the driver bundle for their device.
+The AMD drivers included with Framework's driver bundles are generally updated only when a new BIOS version is released, meaning they can be out of date. It may be useful to update the graphics driver for the latest game compatibility or driver features. However, Framework's official recommendation is that users run the drivers included in the driver bundle for their device.[^2]
 
 Community members have found AMD driver version 24.7.1 to be stable.[^1] Version 24.8.1 is also generally stable but includes a bug where the Radeon control panel will launch randomly when the computer resumes from sleep.
 
@@ -29,9 +29,9 @@ There have been mixed reports of version 24.12.1 working on the latest BIOS vers
 ## Steps
 
 1. Download the latest AMD Driver bundle, stable or risk it with 24.12.1.
-    - 24.7.1: [https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-24.7.1-win10-win11-july19-rdna.exe](https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-24.7.1-win10-win11-july19-rdna.exe)
-    - 24.8.1: [https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-24.8.1-win10-win11-aug-rdna.exe](https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-24.8.1-win10-win11-aug-rdna.exe)
-    - 24.12.1: [https://drivers.amd.com/drivers/installer/24.20/whql/amd-software-adrenalin-edition-24.12.1-minimalsetup-241204_web.exe](https://drivers.amd.com/drivers/installer/24.20/whql/amd-software-adrenalin-edition-24.12.1-minimalsetup-241204_web.exe)
+    - 24.7.1: <https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-24.7.1-win10-win11-july19-rdna.exe>
+    - 24.8.1: <https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-24.8.1-win10-win11-aug-rdna.exe>
+    - 24.12.1: <https://drivers.amd.com/drivers/installer/24.20/whql/amd-software-adrenalin-edition-24.12.1-minimalsetup-241204_web.exe>
 
 2. Run installer.
 3. Reboot computer.
@@ -40,12 +40,11 @@ There have been mixed reports of version 24.12.1 working on the latest BIOS vers
 
 If you find that the driver bundle hangs or that Windows freezes while installing the AMD driver bundle:
 
-1. Download Display Driver Uninstaller and the latest Framework driver bundle.
-    - [https://www.guru3d.com/download/display-driver-uninstaller-download/](https://www.guru3d.com/download/display-driver-uninstaller-download/)
+1. Download Display Driver Uninstaller and the latest Framework driver bundle from <https://www.guru3d.com/download/display-driver-uninstaller-download>
 2. Copy DDU application and driver bundle to USB flash drive or other storage media.
 3. Connect flash drive to Framework Laptop.
 4. Reboot laptop into Safe Boot **without** networking.
-    - Follow method #1 in this article: [https://www.digitalcitizen.life/windows-11-safe-mode/](https://www.digitalcitizen.life/windows-11-safe-mode/)
+    - Follow method #1 in this article: <https://www.digitalcitizen.life/windows-11-safe-mode>
 5. Run DDU picking the options to remove all AMD drivers and reboot when finished.
 6. Log into Windows
 7. Install Framework driver bundle to get laptop drivers installed.
