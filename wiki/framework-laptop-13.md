@@ -1,4 +1,6 @@
 ---
+redirect_from:
+    - /framework-laptop
 sidecar:
     - image: /assets/framework-laptop-13.png
       text: Image courtesy of Framework

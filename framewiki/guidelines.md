@@ -1,5 +1,7 @@
 ---
 meta: true
+redirect_from:
+    - /FW:GL
 ---
 # Framewiki: Guidelines
 ## Code of Conduct
