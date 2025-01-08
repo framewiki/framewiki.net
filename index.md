@@ -4,6 +4,7 @@
     #welcome-to-framewiki, h2, h3  {
         text-align: center !important;
         border-bottom: none !important;
+        font-weight: normal !important;
     }
 
     @media screen and (min-width: 992px) {
