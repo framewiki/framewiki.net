@@ -21,6 +21,8 @@ sidecar:
 {% include sidecar.html %}
 **Framework Laptop 13 (13th Gen Intel Core)** was announced on March 23, 2023, at the same time as [Framework Laptop 13 (AMD 7040 Series)](/framework-laptop-13/7040-series), during the Framework Next Level event. Preorders opened the same day. [^38] Batch 1 preorders began shipping in May 2023.
 
+It was discontinued after the launch of [Framework Laptop 13 (Intel Core Ultra Series 1)](/framework-laptop-13/core-ultra-1)
+
 ## Specs
 ### CPU
 
