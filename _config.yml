@@ -87,6 +87,8 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
 defaults:
   - scope:
       path: "wiki"
@@ -152,7 +154,7 @@ inc_before_head :
 inc_after_head : 
 inc_before_meta : 
 inc_after_meta : 
-inc_before_scripts : 
+inc_before_scripts : "favicon.html"
 inc_after_scripts : 
 inc_before_styles : 
 inc_after_styles : 
