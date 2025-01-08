@@ -1,5 +1,6 @@
 ---
 permalink: /framework-laptop-13/7040-series
+image: /assets/framework-laptop-13-amd-7040.png
 sidecar:
     - image: /assets/framework-laptop-13-amd-7040.png
       text: Image courtesy of Framework

@@ -1,5 +1,6 @@
 ---
 permalink: /framework-laptop-13/13th-gen
+image: /assets/framework-laptop-13-13th-gen.jpg
 sidecar:
     - image: /assets/framework-laptop-13-13th-gen.jpg
       text: Image courtesy of Framework
