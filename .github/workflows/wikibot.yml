@@ -1,0 +1,42 @@
+name: Wikibot
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ] 
+
+jobs:
+  wikibot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Wikibot
+        id: bot
+        uses: "framewiki/wikibot@main"
+        env:
+          ARCHIVE_ACCESS_KEY: "${{ secrets.ARCHIVE_ACCESS_KEY }}"
+          ARCHIVE_SECRET_KEY: "${{ secrets.ARCHIVE_SECRET_KEY }}"
+
+      - name: Check for Changes
+        run: |
+          if [[ $(git diff --stat) != '' ]]; then
+            echo "changes_detected=true" >> $GITHUB_ENV
+          else
+            echo "changes_detected=false" >> $GITHUB_ENV
+          fi
+      
+      - name: Commit and Create Pull Request
+        if: env.changes_detected == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: "${{ secrets.FRAMEWIKI_BOT_TOKEN }}"
+          branch: wikibot
+          base: main
+          commit-message: Automated changes by Wikibot
+          committer: Wikibot <bot@framewiki.net>
+          author: Wikibot <bot@framewiki.net>
+          title: Automated changes by Wikibot
+          body-path: pr.txt
+          labels: bot
