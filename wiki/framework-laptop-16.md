@@ -65,15 +65,15 @@ Framework Laptop 16 supports up to two NVMe SSDs -- one full-size M.2 2280, and 
 On Framework Laptop 16 devices with liquid metal thermal interface material, performance may degrade over time due to the liquid metal pumping out of the CPU.[^11] To address the issue, Framework switched new production laptops to use Honeywell PTM7958 phase-change thermal interface paste. Owners of laptops with liquid metal can request a Honeywell PTM7950 thermal pad from Framework.[^12] Framework says the PTM7958 has "equivalently strong" performance to the original liquid metal.
 
 # References
-[^1]: <https://frame.work/blog/introducing-the-framework-laptop-16>
-[^2]: <https://frame.work/blog/framework-laptop-16-pre-orders-are-now-open>
-[^3]: <https://frame.work/blog/framework-laptop-16-deep-dive---memory-and-storage>
-[^4]: <https://knowledgebase.frame.work/what-dram-memory-is-supported-by-framework-laptop-16-ryS2Xr3ch>
-[^5]: <https://frame.work/products/laptop16-diy-amd-7040?tab=specs>
-[^6]: <https://frame.work/products/amd-rz616-wi-fi-6e>
-[^7]: <https://frame.work/blog/first-framework-laptop-16-shipments-and-a-499-framework>
-[^8]: <https://knowledgebase.frame.work/expansion-card-slot-functionality-on-framework-laptop-16-rkUjGm7cn>
-[^9]: <https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840hs.html>
+[^1]: <https://frame.work/blog/introducing-the-framework-laptop-16> [Archived](https://web.archive.org/web/20250114044406/https://frame.work/blog/introducing-the-framework-laptop-16) 
+[^2]: <https://frame.work/blog/framework-laptop-16-pre-orders-are-now-open> [Archived](https://web.archive.org/web/20250114044848/https://frame.work/blog/framework-laptop-16-pre-orders-are-now-open) 
+[^3]: <https://frame.work/blog/framework-laptop-16-deep-dive---memory-and-storage> [Archived](https://web.archive.org/web/20250114045908/https://frame.work/blog/framework-laptop-16-deep-dive---memory-and-storage) 
+[^4]: <https://knowledgebase.frame.work/what-dram-memory-is-supported-by-framework-laptop-16-ryS2Xr3ch> [Archived](http://web.archive.org/web/20240823003802/https://knowledgebase.frame.work/what-dram-memory-is-supported-by-framework-laptop-16-ryS2Xr3ch) 
+[^5]: <https://frame.work/products/laptop16-diy-amd-7040?tab=specs> [Archived](https://web.archive.org/web/20250114032417/https://frame.work/products/laptop16-diy-amd-7040?tab=specs) 
+[^6]: <https://frame.work/products/amd-rz616-wi-fi-6e> [Archived](https://web.archive.org/web/20250114033534/https://frame.work/products/amd-rz616-wi-fi-6e) 
+[^7]: <https://frame.work/blog/first-framework-laptop-16-shipments-and-a-499-framework> [Archived](http://web.archive.org/web/20250113223238/https://frame.work/blog/first-framework-laptop-16-shipments-and-a-499-framework) 
+[^8]: <https://knowledgebase.frame.work/expansion-card-slot-functionality-on-framework-laptop-16-rkUjGm7cn> [Archived](http://web.archive.org/web/20250114033903/https://knowledgebase.frame.work/expansion-card-slot-functionality-on-framework-laptop-16-rkUjGm7cn) 
+[^9]: <https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840hs.html> [Archived](http://web.archive.org/web/20250114025435/https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840hs.html) 
 [^10]: <https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7940hs.html>
-[^11]: <https://frame.work/blog/framework-laptop-16-deep-dive---liquid-metal> [Archived]()
+[^11]: <https://frame.work/blog/framework-laptop-16-deep-dive---liquid-metal> [Archived]() [Archived](http://web.archive.org/web/20250111222424/https://frame.work/blog/framework-laptop-16-deep-dive---liquid-metal) 
 [^12]: <https://frame.work/blog/our-first-new-framework-laptop-16-expansion-bay-module> [Archived](https://web.archive.org/web/20241216195737/https://frame.work/favicon.ico)

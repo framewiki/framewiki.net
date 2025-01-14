@@ -52,18 +52,18 @@ Framework Laptop 13 (13th Gen Intel Core) supports M.2 2280-size NVMe SSDs. M.2 
 Framework "sent systems and Upgrade Kits to journalists across the tech industry."[^2] These upgrade kits contained every module required to go from a 11th Gen Framework Laptop 13 to the latest and greatest configuration. Reviewers included Andrew Freedman from Tom's Hardware [^13], Luke Larsen from Digital Trends [^14], and Brad Linder from Liliputing [^15].
 
 # References
-[^1]: <https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop>
-[^2]: <https://frame.work/blog/12th-gen-and-upgrade-kit-reviews-are-live>
-[^3]: <https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you>
-[^4]: <https://ark.intel.com/content/www/us/en/ark/products/132221/intel-core-i5-1240p-processor-12m-cache-up-to-4-40-ghz.html>
-[^5]: <https://ark.intel.com/content/www/us/en/ark/products/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz.html>
+[^1]: <https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop> [Archived](https://web.archive.org/web/20250114033451/https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop) 
+[^2]: <https://frame.work/blog/12th-gen-and-upgrade-kit-reviews-are-live> [Archived](http://web.archive.org/web/20250114044854/https://frame.work/blog/12th-gen-and-upgrade-kit-reviews-are-live) 
+[^3]: <https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you> [Archived](http://web.archive.org/web/20250114015720/https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you) 
+[^4]: <https://ark.intel.com/content/www/us/en/ark/products/132221/intel-core-i5-1240p-processor-12m-cache-up-to-4-40-ghz.html> [Archived](http://web.archive.org/web/20240728044230/https://ark.intel.com/content/www/us/en/ark/products/132221/intel-core-i5-1240p-processor-12m-cache-up-to-4-40-ghz.html) 
+[^5]: <https://ark.intel.com/content/www/us/en/ark/products/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz.html> [Archived](http://web.archive.org/web/20240911100144/https://ark.intel.com/content/www/us/en/ark/products/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz.html) 
 [^6]: <https://ark.intel.com/content/www/us/en/ark/products/226253/intel-core-i7-1280p-processor-24m-cache-up-to-4-80-ghz.html>
-[^7]: <https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583>
-[^8]: <https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581>
-[^9]: <https://www.techpowerup.com/cpu-specs/core-i7-1280p.c2579>
-[^10]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-adl.png>
-[^11]: <https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru>
-[^12]: <https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_>
-[^13]: <https://www.tomshardware.com/reviews/framework-laptop-12th-gen-2022>
-[^14]: <https://www.digitaltrends.com/computing/i-upgraded-my-framework-laptop-cpu-in-under-15-minutes/>
-[^15]: <https://liliputing.com/2022/07/framework-laptop-review-modular-repairable-upgradeable-laptop-with-a-12th-gen-intel-core-processor.html>
+[^7]: <https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583> [Archived](https://web.archive.org/web/20250114050253/https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583) 
+[^8]: <https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581> [Archived](https://web.archive.org/web/20250114050618/https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581) 
+[^9]: <https://www.techpowerup.com/cpu-specs/core-i7-1280p.c2579> [Archived](https://web.archive.org/web/20250114051314/https://www.techpowerup.com/cpu-specs/core-i7-1280p.c2579) 
+[^10]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-adl.png> [Archived](http://web.archive.org/web/20240929064313/https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-adl.png) 
+[^11]: <https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru> [Archived](http://web.archive.org/web/20250110070613/https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru) 
+[^12]: <https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_> [Archived](http://web.archive.org/web/20250114025142/https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_) 
+[^13]: <https://www.tomshardware.com/reviews/framework-laptop-12th-gen-2022> [Archived](http://web.archive.org/web/20250110070534/https://www.tomshardware.com/reviews/framework-laptop-12th-gen-2022) 
+[^14]: <https://www.digitaltrends.com/computing/i-upgraded-my-framework-laptop-cpu-in-under-15-minutes/> [Archived](https://web.archive.org/web/20250114051734/https://www.digitaltrends.com/computing/i-upgraded-my-framework-laptop-cpu-in-under-15-minutes/) 
+[^15]: <https://liliputing.com/2022/07/framework-laptop-review-modular-repairable-upgradeable-laptop-with-a-12th-gen-intel-core-processor.html> [Archived](https://web.archive.org/web/20250114052203/https://liliputing.com/2022/07/framework-laptop-review-modular-repairable-upgradeable-laptop-with-a-12th-gen-intel-core-processor.html) 

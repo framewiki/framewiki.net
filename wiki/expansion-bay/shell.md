@@ -9,4 +9,4 @@ The **Expansion Bay Shell** is the default [Expansion Bay](/expansion-bay) Modul
 The Expansion Bay Shell is compatible with Framework Laptop 16. The included fan controller board can be replaced with the [Dual M.2 Adapter](/expansion-bay/dual-m2) to add support for up to two M.2 SSDs.
 
 # References
-[^1]: <https://frame.work/products/laptop16-diy-amd-7040?tab=modules>
+[^1]: <https://frame.work/products/laptop16-diy-amd-7040?tab=modules> [Archived](https://web.archive.org/web/20250114045357/https://frame.work/products/laptop16-diy-amd-7040?tab=modules) 

@@ -111,30 +111,30 @@ Batch 1 of Core Ultra Series 1 began shipping in August 2024 after it was announ
 | Wi-Fi              | [Intel Wi-Fi 6 AX201 vPro](https://frame.work/products/intel-wi-fi-6-ax201-vpro) on pre-built<br>[Intel Wi-Fi 6E AX210 vPro](https://frame.work/products/intel-wi-fi-6e-ax210-vpro) on DIY edition [^18]                                                                                                                                                                                                                                                                                       | [Intel Wi-Fi 6E AX210 vPro](https://frame.work/products/intel-wi-fi-6e-ax210-vpro)<br>Switched to Wi-Fi 6E AX210 on all Intel models [^19]                                                                                                                                                                                                                                                                                                                                                                                            | [Intel Wi-Fi 6E AX210 vPro](https://frame.work/products/intel-wi-fi-6e-ax210-vpro) [^9]                                                                                                                                                                                                                                                                                                                                                                                                                                               | [AMD RZ616 Wi-Fi 6E](https://frame.work/products/amd-rz616-wi-fi-6e)<br>Uses RZ616 following AMD recommendations [^10]                                                                                                                                                                                                   | [Intel Wi-Fi 6E AX210 vPro](https://frame.work/products/intel-wi-fi-6e-ax210-vpro) [^20]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 # References
-[^1]: <https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition>
+[^1]: <https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition> [Archived](https://web.archive.org/web/20250114042515/https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition) 
 [^2]: <https://fedex.com/content/dam/fedex/us-united-states/services/Shipping-Lithium-Batteries-via-FedEx-Ground.pdf>
 [^3]: <https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide>
-[^4]: <https://frame.work/blog/solving-for-silicon-shortages>
-[^5]: <https://youtube.com/watch?v=SYc922ntnKM>
+[^4]: <https://frame.work/blog/solving-for-silicon-shortages> [Archived](http://web.archive.org/web/20250114025010/https://frame.work/blog/solving-for-silicon-shortages) 
+[^5]: <https://youtube.com/watch?v=SYc922ntnKM> [Archived](http://web.archive.org/web/20250114044918/https://www.youtube.com/watch?v=SYc922ntnKM) 
 [^6]: <https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634>
 [^7]: <https://frame.work/products/laptop-11-gen-intel?tab=specs> [Archived](https://web.archive.org/web/20240313084108/https://frame.work/products/laptop-11-gen-intel?tab=specs)
 [^8]: <https://frame.work/products/laptop-12-gen-intel?tab=specs> [Archived](https://web.archive.org/web/20240313081849/https://frame.work/products/laptop-12-gen-intel?tab=specs)
 [^9]: <https://frame.work/products/laptop-13-gen-intel?tab=specs> [Archived](https://web.archive.org/web/20230717191930/https://frame.work/products/laptop-13-gen-intel?tab=specs)
 [^10]: <https://frame.work/products/laptop-13-gen-amd?tab=specs> [Archived](https://web.archive.org/web/20230615220941/https://frame.work/products/laptop-13-gen-amd?tab=specs)
-[^11]: <https://frame.work/products/laptop13-intel-ultra-1?tab=specs>
-[^12]: <https://discord.com/channels/900151360903868476/945756024579686420/1182563816580595712>
-[^13]: <https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part1>
-[^14]: <https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part2>
-[^15]: <https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors>
-[^16]: <https://www.youtube.com/watch?v=vo-okzQOxOU>
-[^17]: <https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop>
-[^18]: <https://community.frame.work/t/intel-no-longer-manufacturing-ax200/3944/4>
-[^19]: <https://knowledgebase.frame.work/en_us/using-ax201-wifi-card-with-windows-11-By1iIcV2q>
-[^20]: <https://frame.work/products/mainboard-ultra-1-intel-core>
-[^21]: <https://www.youtube.com/watch?v=iU_iWa9LL_s&t=13m>
-[^22]: <https://frame.work/blog/framework-laptops-are-now-thunderbolt-4-certified>
-[^23]: <https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part2>
-[^24]: <https://frame.work/products/ram>
-[^25]: <https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen>
-[^26]: <https://github.com/FrameworkComputer/Framework-Laptop-13/blob/main/Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf>
-[^27]: <https://community.frame.work/t/framework-laptop-13-intel-core-ultra-series-1-bios-3-04-release/59579>
+[^11]: <https://frame.work/products/laptop13-intel-ultra-1?tab=specs> [Archived](https://web.archive.org/web/20250114043752/https://frame.work/products/laptop13-intel-ultra-1?tab=specs) 
+[^12]: <https://discord.com/channels/900151360903868476/945756024579686420/1182563816580595712> [Archived](http://web.archive.org/web/20250110172917/https://discord.com/channels/900151360903868476/945756024579686420/1182563816580595712) 
+[^13]: <https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part1> [Archived](http://web.archive.org/web/20240531110507/https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part1) 
+[^14]: <https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part2> [Archived](http://web.archive.org/web/20250110183447/https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part2) [Archived](http://web.archive.org/web/20250110183447/https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part2) 
+[^15]: <https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors> [Archived](http://web.archive.org/web/20250114032925/https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors) 
+[^16]: <https://www.youtube.com/watch?v=vo-okzQOxOU> [Archived](http://web.archive.org/web/20250114025505/https://www.youtube.com/watch?v=vo-okzQOxOU) 
+[^17]: <https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop> [Archived](http://web.archive.org/web/20250114044419/https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop) 
+[^18]: <https://community.frame.work/t/intel-no-longer-manufacturing-ax200/3944/4> [Archived](https://web.archive.org/web/20250114050810/https://community.frame.work/t/intel-no-longer-manufacturing-ax200/3944/4) 
+[^19]: <https://knowledgebase.frame.work/en_us/using-ax201-wifi-card-with-windows-11-By1iIcV2q> [Archived](http://web.archive.org/web/20250110183006/https://knowledgebase.frame.work/en_us/using-ax201-wifi-card-with-windows-11-By1iIcV2q) 
+[^20]: <https://frame.work/products/mainboard-ultra-1-intel-core> [Archived](http://web.archive.org/web/20250114035042/https://frame.work/products/mainboard-ultra-1-intel-core) 
+[^21]: <https://www.youtube.com/watch?v=iU_iWa9LL_s&t=13m> [Archived](http://web.archive.org/web/20241226041015/https://www.youtube.com/watch?v=iU_iWa9LL_s) 
+[^22]: <https://frame.work/blog/framework-laptops-are-now-thunderbolt-4-certified> [Archived](http://web.archive.org/web/20250114043556/https://frame.work/blog/framework-laptops-are-now-thunderbolt-4-certified) 
+[^23]: <https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part2> [Archived](http://web.archive.org/web/20250110183447/https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part2) [Archived](http://web.archive.org/web/20250110183447/https://frame.work/blog/whats-new-in-this-years-framework-laptop-13-part2) 
+[^24]: <https://frame.work/products/ram> [Archived](http://web.archive.org/web/20250114040550/https://frame.work/products/ram) 
+[^25]: <https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen> [Archived](http://web.archive.org/web/20250114040845/https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen) 
+[^26]: <https://github.com/FrameworkComputer/Framework-Laptop-13/blob/main/Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf> [Archived](http://web.archive.org/web/20240925161652/https://github.com/FrameworkComputer/Framework-Laptop-13/blob/main/Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf) 
+[^27]: <https://community.frame.work/t/framework-laptop-13-intel-core-ultra-series-1-bios-3-04-release/59579> [Archived](http://web.archive.org/web/20241127232929/https://community.frame.work/t/framework-laptop-13-intel-core-ultra-series-1-bios-3-04-release/59579) 
