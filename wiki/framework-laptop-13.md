@@ -116,7 +116,7 @@ Batch 1 of Core Ultra Series 1 began shipping in August 2024 after it was announ
 [^3]: <https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide>
 [^4]: <https://frame.work/blog/solving-for-silicon-shortages> [Archived](http://web.archive.org/web/20250114025010/https://frame.work/blog/solving-for-silicon-shortages) 
 [^5]: <https://youtube.com/watch?v=SYc922ntnKM> [Archived](http://web.archive.org/web/20250114044918/https://www.youtube.com/watch?v=SYc922ntnKM) 
-[^6]: <https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634> [Archived](https://web.archive.org/web/20250119000758/https://youtu.be/7nXVJBGowmY?si=MZ5TnfNff_bH2Nl7&t=634) 
+[^6]: <https://www.youtube.com/watch?t=634&v=7nXVJBGowmY> [Archived](https://web.archive.org/web/20250113224312/https://www.youtube.com/watch?v=7nXVJBGowmY&t=634s) 
 [^7]: <https://frame.work/products/laptop-11-gen-intel?tab=specs> [Archived](https://web.archive.org/web/20240313084108/https://frame.work/products/laptop-11-gen-intel?tab=specs)
 [^8]: <https://frame.work/products/laptop-12-gen-intel?tab=specs> [Archived](https://web.archive.org/web/20240313081849/https://frame.work/products/laptop-12-gen-intel?tab=specs)
 [^9]: <https://frame.work/products/laptop-13-gen-intel?tab=specs> [Archived](https://web.archive.org/web/20230717191930/https://frame.work/products/laptop-13-gen-intel?tab=specs)

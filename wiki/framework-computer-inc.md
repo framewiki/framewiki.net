@@ -35,7 +35,7 @@ The company announced a Series A-1 round April 23, 2024. The series raised a tot
 
 # References
 [^1]: <https://time.com/collection/best-inventions-2021/6112625/framework-laptop/> [Archived](https://web.archive.org/web/20250114044405/https://time.com/collection/best-inventions-2021/6112625/framework-laptop/) 
-[^2]: <https://www.fastcompany.com/90722815/framework-innovative-laptop-easy-repair-electronics> [Archived](http://web.archive.org/web/20241231011059/https://www.fastcompany.com/90722815/framework-innovative-laptop-easy-repair-electronics) 
+[^2]: <https://www.fastcompany.com/90722815/framework-innovative-laptop-easy-repair-electronics> [Archived](http://web.archive.org/web/20220308124731/https://www.fastcompany.com/90722815/framework-innovative-laptop-easy-repair-electronics) 
 [^3]: <https://www.youtube.com/watch?v=LSxbc1IN9Gg> [Archived](https://web.archive.org/web/20250114030450/https://www.youtube.com/watch?v=LSxbc1IN9Gg) 
 [^4]: <https://frame.work/blog/frameworks-series-a-1-and-community-participation> [Archived](https://web.archive.org/web/20250114032537/https://frame.work/blog/frameworks-series-a-1-and-community-participation) 
 [^5]: <https://www.sec.gov/education/capitalraising/building-blocks/accredited-investor> [Archived](http://web.archive.org/web/20240624152034/https://www.sec.gov/education/capitalraising/building-blocks/accredited-investor) 
