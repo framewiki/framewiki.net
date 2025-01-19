@@ -59,12 +59,12 @@ Framework sent press review units comprising "a mix of pre-built or DIY Edition 
 On some 13th Gen Intel Framework Laptop 13s, `libfprint` does not recognize the fingerprint sensor on Linux due to a Goodix firmware incompatibility. [^32] A beta fingerprint sensor firmware update is available via LVFS to resolve the issue. [^33]
 
 # References
-[^1]: <https://frame.work/products/laptop-diy-13-gen-intel?tab=specs>
+[^1]: <https://frame.work/products/laptop-diy-13-gen-intel?tab=specs> [Archived](http://web.archive.org/web/20241126222717/https://frame.work/products/laptop-diy-13-gen-intel?tab=specs) 
 [^2]: <https://www.techpowerup.com/cpu-specs/core-i5-1340p.c3061>
 [^9]: <https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru> [Archived](http://web.archive.org/web/20250110070613/https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru) 
 [^10]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-rpl.png> [Archived](http://web.archive.org/web/20250110182433/https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-rpl.png) 
 [^14]: <https://ark.intel.com/content/www/us/en/ark/products/232126/intel-core-i51340p-processor-12m-cache-up-to-4-60-ghz.html> [Archived](http://web.archive.org/web/20231211004451/https://ark.intel.com/content/www/us/en/ark/products/232126/intel-core-i51340p-processor-12m-cache-up-to-4-60-ghz.html) 
-[^16]: <https://www.notebookcheck.net/Intel-Raptor-Lake-P-Review-Debut-for-the-Core-i7-1360P.688425.0.html>
+[^16]: <https://www.notebookcheck.net/Intel-Raptor-Lake-P-Review-Debut-for-the-Core-i7-1360P.688425.0.html> [Archived](http://web.archive.org/web/20240919182856/https://www.notebookcheck.net/Intel-Raptor-Lake-P-Review-Debut-for-the-Core-i7-1360P.688425.0.html) 
 [^17]: <https://www.techpowerup.com/cpu-specs/core-i7-1360p.c3059>
 [^22]: <https://ark.intel.com/content/www/us/en/ark/products/232155/intel-core-i71360p-processor-18m-cache-up-to-5-00-ghz.html> [Archived](http://web.archive.org/web/20231003071614/https://ark.intel.com/content/www/us/en/ark/products/232155/intel-core-i71360p-processor-18m-cache-up-to-5-00-ghz.html) 
 [^25]: <https://www.techpowerup.com/cpu-specs/core-i7-1370p.c3055>
