@@ -62,24 +62,24 @@ Under normal circumstances, performing a mainboard reset and charging the laptop
 Alternatively, users can request an RTC replacement board that goes into the RTC battery holder in place of the battery and connects to the board via one soldered wire, negating the issue. [^3] [^4] They also published instructions for a board-level rework that allows the RTC battery to charge from the main system battery. [^5]
 
 # References
-[^1]: <https://knowledgebase.frame.work/en_us/my-laptop-is-not-powering-on-ryQLXvQkt>
-[^2]: <https://community.frame.work/t/tradeoffs-of-refurbed-11th-gen-vs-new-12th-gen/24027/52?u=morpheus636>
-[^3]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922/170?u=morpheus636>
-[^4]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922/173?u=morpheus636>
-[^5]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922?u=morpheus636>
-[^6]: <https://frame.work/blog/introducing-the-framework-laptop>
-[^7]: <https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are>
-[^8]: <https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews>
-[^9]: <https://frame.work/blog/finally-in-stock-with-expedited-and-carbon-offset>
-[^10]: <https://ark.intel.com/content/www/us/en/ark/products/208658/intel-core-i5-1135g7-processor-8m-cache-up-to-4-20-ghz.html>
-[^11]: <https://ark.intel.com/content/www/us/en/ark/products/208921/intel-core-i7-1165g7-processor-12m-cache-up-to-4-70-ghz-with-ipu.html>
-[^12]: <https://ark.intel.com/content/www/us/en/ark/products/208664/intel-core-i7-1185g7-processor-12m-cache-up-to-4-80-ghz-with-ipu.html>
-[^13]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-tgl-u.png>
-[^14]: <https://frame.work/blog/framework-laptops-are-now-thunderbolt-4-certified>
-[^15]: <https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru>
-[^16]: <https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_>
-[^17]: <https://www.cnet.com/tech/computing/framework-laptop-review-a-functional-and-futureproof-13-inches/>
-[^18]: <https://www.youtube.com/watch?v=QmyAUIo79EU>
-[^19]: <https://www.digitaltrends.com/laptop-reviews/framework-laptop-review/>
-[^20]: <https://www.youtube.com/watch?v=0rkTgPt3M4k>
-[^21]: <https://www.youtube.com/watch?v=LSxbc1IN9Gg>
+[^1]: <https://knowledgebase.frame.work/en_us/my-laptop-is-not-powering-on-ryQLXvQkt> [Archived](https://web.archive.org/web/20250114051142/https://knowledgebase.frame.work/en_us/my-laptop-is-not-powering-on-ryQLXvQkt) 
+[^2]: <https://community.frame.work/t/tradeoffs-of-refurbed-11th-gen-vs-new-12th-gen/24027/52?u=morpheus636> [Archived](https://web.archive.org/web/20250114034350/https://community.frame.work/t/tradeoffs-of-refurbed-11th-gen-vs-new-12th-gen/24027/52?u=morpheus636) 
+[^3]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922/170?u=morpheus636> [Archived](http://web.archive.org/web/20250114015730/https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922/170?u=morpheus636) 
+[^4]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922/173?u=morpheus636> [Archived](http://web.archive.org/web/20250114042524/https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922/173?u=morpheus636) 
+[^5]: <https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922?u=morpheus636> [Archived](http://web.archive.org/web/20250110213342/https://community.frame.work/t/rework-instructions-for-11th-gen-mainboards-to-enable-powering-the-rtc-circuit-from-the-main-battery/26922?u=morpheus636) 
+[^6]: <https://frame.work/blog/introducing-the-framework-laptop> [Archived](http://web.archive.org/web/20250114042935/https://frame.work/blog/introducing-the-framework-laptop) 
+[^7]: <https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are> [Archived](https://web.archive.org/web/20250114035557/https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are) 
+[^8]: <https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews> [Archived](http://web.archive.org/web/20250114035853/https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews) 
+[^9]: <https://frame.work/blog/finally-in-stock-with-expedited-and-carbon-offset> [Archived](http://web.archive.org/web/20250114040042/https://frame.work/blog/finally-in-stock-with-expedited-and-carbon-offset) 
+[^10]: <https://ark.intel.com/content/www/us/en/ark/products/208658/intel-core-i5-1135g7-processor-8m-cache-up-to-4-20-ghz.html> [Archived](http://web.archive.org/web/20241004070042/https://ark.intel.com/content/www/us/en/ark/products/208658/intel-core-i5-1135g7-processor-8m-cache-up-to-4-20-ghz.html) 
+[^11]: <https://ark.intel.com/content/www/us/en/ark/products/208921/intel-core-i7-1165g7-processor-12m-cache-up-to-4-70-ghz-with-ipu.html> [Archived](http://web.archive.org/web/20240927073551/https://ark.intel.com/content/www/us/en/ark/products/208921/intel-core-i7-1165g7-processor-12m-cache-up-to-4-70-ghz-with-ipu.html) 
+[^12]: <https://ark.intel.com/content/www/us/en/ark/products/208664/intel-core-i7-1185g7-processor-12m-cache-up-to-4-80-ghz-with-ipu.html> [Archived](http://web.archive.org/web/20241120003803/https://ark.intel.com/content/www/us/en/ark/products/208664/intel-core-i7-1185g7-processor-12m-cache-up-to-4-80-ghz-with-ipu.html) 
+[^13]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-tgl-u.png> [Archived](https://web.archive.org/web/20250114043546/https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-tgl-u.png) 
+[^14]: <https://frame.work/blog/framework-laptops-are-now-thunderbolt-4-certified> [Archived](http://web.archive.org/web/20250114043556/https://frame.work/blog/framework-laptops-are-now-thunderbolt-4-certified) 
+[^15]: <https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru> [Archived](http://web.archive.org/web/20250110070613/https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru) 
+[^16]: <https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_> [Archived](http://web.archive.org/web/20250114025142/https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_) 
+[^17]: <https://www.cnet.com/tech/computing/framework-laptop-review-a-functional-and-futureproof-13-inches/> [Archived](http://web.archive.org/web/20250110070711/https://www.cnet.com/tech/computing/framework-laptop-review-a-functional-and-futureproof-13-inches/) 
+[^18]: <https://www.youtube.com/watch?v=QmyAUIo79EU> [Archived](http://web.archive.org/web/20250114025149/https://www.youtube.com/watch?v=QmyAUIo79EU) 
+[^19]: <https://www.digitaltrends.com/computing/framework-laptop-review/> [Archived](https://web.archive.org/web/20250114025454/https://www.digitaltrends.com/computing/framework-laptop-review/) 
+[^20]: <https://www.youtube.com/watch?v=0rkTgPt3M4k> [Archived](http://web.archive.org/web/20250114030032/https://www.youtube.com/watch?v=0rkTgPt3M4k) 
+[^21]: <https://www.youtube.com/watch?v=LSxbc1IN9Gg> [Archived](http://web.archive.org/web/20250114044908/https://www.youtube.com/watch?v=LSxbc1IN9Gg) 

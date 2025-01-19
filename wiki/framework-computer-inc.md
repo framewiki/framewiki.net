@@ -34,12 +34,12 @@ In September 2021, YouTuber Linus Sebastian invested $225,000 in Framework to ex
 The company announced a Series A-1 round April 23, 2024. The series raised a total of $17 million from investors including Spark Capital, which led the round, Buckley Ventures, Anzu Partners, Cooler Master and Pathbreaker Ventures. [^4] They also announced a $1 million community round at the same time, which allowed 100 individuals who meet the requirements to be SEC Accredited Investors to invest $10,000 each. Investors can qualify based on income, net worth or financial criteria. [^5]
 
 # References
-[^1]: <https://time.com/collection/best-inventions-2021/6112625/framework-laptop/>
+[^1]: <https://time.com/collection/best-inventions-2021/6112625/framework-laptop/> [Archived](https://web.archive.org/web/20250114044405/https://time.com/collection/best-inventions-2021/6112625/framework-laptop/) 
 [^2]: <https://www.fastcompany.com/90722815/framework-innovative-laptop-easy-repair-electronics>
-[^3]: <https://www.youtube.com/watch?v=LSxbc1IN9Gg>
-[^4]: <https://frame.work/blog/frameworks-series-a-1-and-community-participation>
+[^3]: <https://www.youtube.com/watch?v=LSxbc1IN9Gg> [Archived](https://web.archive.org/web/20250114030450/https://www.youtube.com/watch?v=LSxbc1IN9Gg) 
+[^4]: <https://frame.work/blog/frameworks-series-a-1-and-community-participation> [Archived](https://web.archive.org/web/20250114032537/https://frame.work/blog/frameworks-series-a-1-and-community-participation) 
 [^5]: <https://www.sec.gov/education/capitalraising/building-blocks/accredited-investor>
-[^6]: <https://www.red-dot.org/project/framework-laptop-55668>
-[^7]: <https://ifdesign.com/en/winner-ranking/project/framework-laptop/331893>
-[^8]: <https://www.red-dot.org/project/framework-laptop-16-71092>
-[^9]: <https://frame.work/about>
+[^6]: <https://www.red-dot.org/project/framework-laptop-55668> [Archived](http://web.archive.org/web/20250110050040/https://www.red-dot.org/project/framework-laptop-55668) 
+[^7]: <https://ifdesign.com/en/winner-ranking/project/framework-laptop/331893> [Archived](http://web.archive.org/web/20250114042458/https://ifdesign.com/en/winner-ranking/project/framework-laptop/331893) 
+[^8]: <https://www.red-dot.org/project/framework-laptop-16-71092> [Archived](http://web.archive.org/web/20250114033435/https://www.red-dot.org/project/framework-laptop-16-71092) 
+[^9]: <https://frame.work/about> [Archived](https://web.archive.org/web/20250114042935/https://frame.work/about) 
