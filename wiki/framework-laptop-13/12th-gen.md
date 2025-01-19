@@ -57,10 +57,10 @@ Framework "sent systems and Upgrade Kits to journalists across the tech industry
 [^3]: <https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you> [Archived](http://web.archive.org/web/20250114015720/https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you) 
 [^4]: <https://ark.intel.com/content/www/us/en/ark/products/132221/intel-core-i5-1240p-processor-12m-cache-up-to-4-40-ghz.html> [Archived](http://web.archive.org/web/20240728044230/https://ark.intel.com/content/www/us/en/ark/products/132221/intel-core-i5-1240p-processor-12m-cache-up-to-4-40-ghz.html) 
 [^5]: <https://ark.intel.com/content/www/us/en/ark/products/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz.html> [Archived](http://web.archive.org/web/20240911100144/https://ark.intel.com/content/www/us/en/ark/products/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz.html) 
-[^6]: <https://ark.intel.com/content/www/us/en/ark/products/226253/intel-core-i7-1280p-processor-24m-cache-up-to-4-80-ghz.html>
-[^7]: <https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583> [Archived](https://web.archive.org/web/20250114050253/https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583) 
-[^8]: <https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581> [Archived](https://web.archive.org/web/20250114050618/https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581) 
-[^9]: <https://www.techpowerup.com/cpu-specs/core-i7-1280p.c2579> [Archived](https://web.archive.org/web/20250114051314/https://www.techpowerup.com/cpu-specs/core-i7-1280p.c2579) 
+[^6]: <https://ark.intel.com/content/www/us/en/ark/products/226253/intel-core-i7-1280p-processor-24m-cache-up-to-4-80-ghz.html> [Archived](https://web.archive.org/web/20241105025315/https://ark.intel.com/content/www/us/en/ark/products/226253/intel-core-i7-1280p-processor-24m-cache-up-to-4-80-ghz.html)
+[^7]: <https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583>
+[^8]: <https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581>
+[^9]: <https://www.techpowerup.com/cpu-specs/core-i7-1280p.c2579>
 [^10]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-adl.png> [Archived](http://web.archive.org/web/20240929064313/https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-adl.png) 
 [^11]: <https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru> [Archived](http://web.archive.org/web/20250110070613/https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru) 
 [^12]: <https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_> [Archived](http://web.archive.org/web/20250114025142/https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_) 

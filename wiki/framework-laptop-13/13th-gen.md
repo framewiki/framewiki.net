@@ -60,15 +60,15 @@ On some 13th Gen Intel Framework Laptop 13s, `libfprint` does not recognize the 
 
 # References
 [^1]: <https://frame.work/products/laptop-diy-13-gen-intel?tab=specs>
-[^2]: <https://www.techpowerup.com/cpu-specs/core-i5-1340p.c3061> [Archived](https://web.archive.org/web/20250114050209/https://www.techpowerup.com/cpu-specs/core-i5-1340p.c3061) 
+[^2]: <https://www.techpowerup.com/cpu-specs/core-i5-1340p.c3061>
 [^9]: <https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru> [Archived](http://web.archive.org/web/20250110070613/https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru) 
 [^10]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-rpl.png> [Archived](http://web.archive.org/web/20250110182433/https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-rpl.png) 
 [^14]: <https://ark.intel.com/content/www/us/en/ark/products/232126/intel-core-i51340p-processor-12m-cache-up-to-4-60-ghz.html> [Archived](http://web.archive.org/web/20231211004451/https://ark.intel.com/content/www/us/en/ark/products/232126/intel-core-i51340p-processor-12m-cache-up-to-4-60-ghz.html) 
 [^16]: <https://www.notebookcheck.net/Intel-Raptor-Lake-P-Review-Debut-for-the-Core-i7-1360P.688425.0.html>
-[^17]: <https://www.techpowerup.com/cpu-specs/core-i7-1360p.c3059> [Archived](https://web.archive.org/web/20250114050831/https://www.techpowerup.com/cpu-specs/core-i7-1360p.c3059) 
+[^17]: <https://www.techpowerup.com/cpu-specs/core-i7-1360p.c3059>
 [^22]: <https://ark.intel.com/content/www/us/en/ark/products/232155/intel-core-i71360p-processor-18m-cache-up-to-5-00-ghz.html> [Archived](http://web.archive.org/web/20231003071614/https://ark.intel.com/content/www/us/en/ark/products/232155/intel-core-i71360p-processor-18m-cache-up-to-5-00-ghz.html) 
-[^25]: <https://www.techpowerup.com/cpu-specs/core-i7-1370p.c3055> [Archived](https://web.archive.org/web/20250114051634/https://www.techpowerup.com/cpu-specs/core-i7-1370p.c3055) 
-[^30]: <https://ark.intel.com/content/www/us/en/ark/products/232146/intel-core-i71370p-processor-24m-cache-up-to-5-20-ghz.html>
+[^25]: <https://www.techpowerup.com/cpu-specs/core-i7-1370p.c3055>
+[^30]: <https://ark.intel.com/content/www/us/en/ark/products/232146/intel-core-i71370p-processor-24m-cache-up-to-5-20-ghz.html> [Archived](https://web.archive.org/web/20231201162026/https://ark.intel.com/content/www/us/en/ark/products/232146/intel-core-i71370p-processor-24m-cache-up-to-5-20-ghz.html)
 [^31]: <https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_> [Archived](http://web.archive.org/web/20250114025142/https://knowledgebase.frame.work/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_) 
 [^32]: <https://community.frame.work/t/tracking-fingerprint-reader-failing-to-register-on-13th-gen/34153> [Archived](http://web.archive.org/web/20250110070433/https://community.frame.work/t/tracking-fingerprint-reader-failing-to-register-on-13th-gen/34153) 
 [^33]: <https://community.frame.work/t/beta-lvfs-update-for-framework-laptop-13-13th-gen-intel-core-fingerprint-reader-on-linux/36614> [Archived](http://web.archive.org/web/20231007142343/https://community.frame.work/t/beta-lvfs-update-for-framework-laptop-13-13th-gen-intel-core-fingerprint-reader-on-linux/36614) 
