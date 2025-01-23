@@ -62,7 +62,7 @@ Standard DDR5 JEDEC (non-XMP) timings are supported. ECC is not supported. [^4]
 Framework Laptop 16 supports up to two NVMe SSDs -- one full-size M.2 2280, and another mini M.2 2230-sized drive stacked below the other. [^3] Framework Laptop 16 is the first Framework product to support more than one internal SSD.
 ## Known Issues
 ### Liquid Metal Pump Out
-On Framework Laptop 16 devices with liquid metal thermal interface material, performance may degrade over time due to the liquid metal pumping out of the CPU.[^11] To address the issue, Framework switched new production laptops to use Honeywell PTM7958 phase-change thermal interface paste. Owners of laptops with liquid metal can request a Honeywell PTM7950 thermal pad from Framework.[^12] Framework says the PTM7958 has "equivalently strong" performance to the original liquid metal.
+Framework Laptop 16 devices with a serial number where the 11th, 12th and 13th digits are less than 444, are used liquid metal thermal interface material, and performance may degrade over time due to the liquid metal pumping out of the CPU.[^11] To address the issue, Framework switched new production laptops (with serial numbers where the 11th, 12th and 13th digits are greater than 444) to use Honeywell PTM7958 phase-change thermal interface paste. Owners of laptops with liquid metal can request a Honeywell PTM7950 thermal pad from Framework.[^12] Framework says the PTM7958 has "equivalently strong" performance to the original liquid metal.
 
 # References
 [^1]: <https://frame.work/blog/introducing-the-framework-laptop-16> [Archived](https://web.archive.org/web/20250114044406/https://frame.work/blog/introducing-the-framework-laptop-16) 
