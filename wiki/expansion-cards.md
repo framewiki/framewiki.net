@@ -69,10 +69,11 @@ Framework published electrical and mechanical templates on their GitHub to enabl
 
 - UART card by [Josh Cook](https://community.frame.work/u/josh_cook/). Available on [GitHub](https://github.com/jyancat/UART-Expansion-Card) or [for purchase](https://lectronz.com/products/uart-expansion-card)
 - ESP32-S3 card by [Spacehuhn](https://www.youtube.com/watch?v=IML9c_MsyQU). Available on [GitHub](https://github.com/SpacehuhnTech/framework) or [for purchase](https://spacehuhn.store/products/framework-esp32-s3-expansion-card)
-- Snack Drawer V2 by [XenoCow](https://community.frame.work/u/XenoCow). Available [for purchase](https://layers3d.square.site/) as files or completed part. [^3]
-- Snack Drawer Lite by [XenoCow](https://community.frame.work/u/XenoCow). Available [for download](https://drive.protonmail.com/urls/W2XVGGM1R8#evo86FpGID76). [^4]
-- openCom LTE card by [Liberated Embedded Systems](https://liberatedsystems.co.uk). Discontinued [^5] but [open-source](https://git.liberatedsystems.co.uk/jacob.eva/opencom-lte).
+- Snack Drawer V2 by [XenoCow](https://community.frame.work/u/XenoCow). Available [for purchase](https://layers3d.square.site/) as files or completed part.[^3]
+- Snack Drawer Lite by [XenoCow](https://community.frame.work/u/XenoCow). Available [for download](https://drive.protonmail.com/urls/W2XVGGM1R8#evo86FpGID76).[^4]
+- openCom LTE card by [Liberated Embedded Systems](https://liberatedsystems.co.uk). Discontinued but [open-source](https://git.liberatedsystems.co.uk/jacob.eva/opencom-lte).[^5]
 - DongleHider+ by [LeoDJ](https://github.com/LeoDJ). Available on [GitHub](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
+- EC Card 2 Embedded Controller Closed Case Debugging card by [DHowett](https://github.com/dhowett). Available on his [Gitlab](https://gitlab.howett.net/DHowett/framework-ec-debug-card).[^13]
 
 # References
 [^1]: <https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636> [Archived](http://web.archive.org/web/20250114044406/https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636) 
@@ -87,3 +88,4 @@ Framework published electrical and mechanical templates on their GitHub to enabl
 [^10]: <https://frame.work/blog/storage-expansion-cards> [Archived](http://web.archive.org/web/20250114034719/https://frame.work/blog/storage-expansion-cards) 
 [^11]: <https://twitter.com/FrameworkPuter/status/1778081340564639855>
 [^12]: <https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors> [Archived](http://web.archive.org/web/20250114032925/https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors) 
+[^13]: <https://www.howett.net/posts/2023-04-framework-ec-card/>
