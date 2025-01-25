@@ -88,4 +88,4 @@ Framework published electrical and mechanical templates on their GitHub to enabl
 [^10]: <https://frame.work/blog/storage-expansion-cards> [Archived](http://web.archive.org/web/20250114034719/https://frame.work/blog/storage-expansion-cards) 
 [^11]: <https://twitter.com/FrameworkPuter/status/1778081340564639855>
 [^12]: <https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors> [Archived](http://web.archive.org/web/20250114032925/https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors) 
-[^13]: <https://www.howett.net/posts/2023-04-framework-ec-card/>
+[^13]: <https://www.howett.net/posts/2023-04-framework-ec-card/> [Archived](http://web.archive.org/web/20240910172919/https://www.howett.net/posts/2023-04-framework-ec-card/) 
