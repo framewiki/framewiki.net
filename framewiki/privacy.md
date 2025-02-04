@@ -1,6 +1,8 @@
 ---
 ---
 # Framewiki: Privacy Policy
+
+
 - Framewiki collects aggregated analytics data which is available publicly.
 - Framewiki's analytics server logs your IP address and User-Agent when your browser submits or views analytics data, but does not associate it with analytics data.
 - GitHub, which hosts Framewiki, collects your IP address when you visit the site, but does not expose this information to us.
@@ -22,15 +24,16 @@ Framewiki uses a self-hosted instance of Plausible Analytics to understand traff
 
 The web server that runs Plausible logs the IP address, User-Agent, URL path and timestamp associated with each request for security purposes. This information is not shared with any third party and is deleted when server logs are rotated. The server does not log any other contents of the associated request or associate the logged information with any other data, including analytics data.
 
-## Cookies and Tracking
+## GDPR and CCPA
+### Cookies and Tracking
 Framewiki does not use tracking cookies or track individual users. 
 
 When you sign into GitHub via the discussion section on Framewiki, Giscus will store a server-encrypted API token in your browser. On every subsequent load of Framewiki, the token will be decrypted by the Giscus server to let you create authenticated requests to the GitHub Discussions API.
 
-## GDPR/CCPA Right to Access and Deletion
+### Right to Access and Deletion
 Framewiki does not have any data to provide or delete upon request.
 
-## Contact
+### Contact
 Framewiki is managed by the Framewiki Administrative Board. See [Framewiki: Governance](/framewiki:governance). To contact the administrative board regarding this privacy policy, email [privacy@framewiki.net](mailto:privacy@framewiki.net).
 
 
