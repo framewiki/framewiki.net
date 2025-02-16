@@ -13,4 +13,4 @@ The following is a list of **lists** on Framewiki. A list is a category of artic
   {% endfor %}
 </ul>
 
-*This is a dynamic list. All pages in the lists cateogry will appear automatically.*
+*This is a dynamic list. All pages in the lists cateogory will appear automatically.*
