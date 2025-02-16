@@ -14,7 +14,7 @@ note_name: true
 
 Alternatively, if it is necessary to display a note inline with content, import it using Jekyll liquid like this:
 ```md
-{{"{% include note_name.html "}}%}
+{{"{% include notes/note_name.html "}}%}
 ```
 
 The following is a list of the available note names:
@@ -25,7 +25,7 @@ The following is a list of the available note names:
 - `stub`
 
 ## Custom Notes
-{% include wip.html %}
+{% include notes/wip.html %}
 
 ## Implementation
 Notes at the top of pages are managed by the `notes.html` import, which is hooked into the Jekyll theme via `_config.yml`. Note content and design can be edited by modifying the html file in `_includes` by the same name. 

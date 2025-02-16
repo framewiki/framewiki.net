@@ -51,7 +51,7 @@ Framework Laptop 13 (Intel Core Ultra Series 1) supports DDR5 SO-DIMMs at DDR5-5
 Framework Laptop 13 (Intel Core Ultra Series 1) supports M.2 2280-size NVMe SSDs. M.2 SATA drives are not supported.
 
 ## Reviews
-{% include wip.html %}
+{% include notes/wip.html %}
 
 # References
 [^1]: <https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors> [Archived](http://web.archive.org/web/20250114032925/https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors) 
