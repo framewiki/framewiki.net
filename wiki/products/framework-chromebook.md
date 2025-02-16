@@ -1,4 +1,7 @@
 ---
+permalink: /products/framework-chromebook
+redirect_from:
+    - /framework-chromebook
 sidecar:
     - title: Framework Laptop Chromebook Edition
       title_sm: Variant of Framework Laptop 13

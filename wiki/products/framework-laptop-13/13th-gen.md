@@ -1,5 +1,7 @@
 ---
-permalink: /framework-laptop-13/13th-gen
+permalink: /products/framework-laptop-13/13th-gen
+redirect_from:
+    - /framework-laptop-13/13th-gen
 image: /assets/framework-laptop-13-13th-gen.jpg
 sidecar:
     - image: /assets/framework-laptop-13-13th-gen.jpg

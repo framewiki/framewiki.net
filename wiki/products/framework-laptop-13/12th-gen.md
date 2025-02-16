@@ -1,5 +1,7 @@
 ---
-permalink: /framework-laptop-13/12th-gen
+permalink: /products/framework-laptop-13/12th-gen
+redirect_from:
+    - /framework-laptop-13/12th-gen
 sidecar:
     - title: Framework Laptop 13
       title_sm: 12th Gen Intel Core
