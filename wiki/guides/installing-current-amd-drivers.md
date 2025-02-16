@@ -2,7 +2,6 @@
 permalink: /guides/installing-current-amd-drivers
 redirect_from:
     - /installing-current-amd-drivers
-guide: true
 ---
 # Installing Current AMD Drivers
 
