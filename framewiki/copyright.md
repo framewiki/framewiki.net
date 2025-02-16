@@ -11,6 +11,8 @@ Images labeled "Courtesy of Framework" are provided by Framework Computer Inc. w
 
 The [GigaNirav](/assets/giganirav.png) image is edited by [Its-Nevmo](https://github.com/Its-Nevmo), licensed under CC BY-SA 4.0.
 
+The clock icon found in the current events note was created by Kahniel via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clock_icon.png), licensed under CC BY-SA 4.0
+
 Framewiki's website uses [a fork](https://github.com/framewiki/git-wiki-theme) of the Jekyll theme [git-wiki-theme](https://github.com/Drassil/git-wiki-theme), which is licensed under the MIT license with the following terms:
 
 ```

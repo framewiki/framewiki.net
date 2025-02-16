@@ -21,6 +21,7 @@ The following is a list of the available note names:
 - `protected`
 - `semiprotected`
 - `wip`
+- `current-event`
 - `meta`
 - `stub`
 
