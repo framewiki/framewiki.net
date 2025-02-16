@@ -1,6 +1,12 @@
 ---
+permalink: /products/framework-laptop-16/7040-series
+redirect_from:
+    - /framework-laptop-16/7040-series
 sidecar:
+    - image: /assets/framework-laptop-16.png
+      text: Image courtesy of Framework
     - title: Framework Laptop 16
+      title_sm: AMD 7040 Series
     - table: 
         - label: Announced
           value: March 23, 2023
@@ -11,19 +17,11 @@ sidecar:
         - label: Status
           value: 🟢 In Stock
 ---
-# Framework Laptop 16
+# Framework Laptop 16 (AMD 7040 Series)
 {% include sidecar.html %}
-**Framework Laptop 16** is [Framework](/framework-computer-inc)'s second product, announced March 23, 2023 at the Next Level event. [^1] Pre-orders opened July 18 of the same year. [^2] The first laptops shipped in February, 2024. [^7] 
+**Framework Laptop 16 (AMD 7040 Series)** is the first, and currently only generation of [Framework’s](/framework-computer-inc) second product, [Framework Laptop 16](/products/framework-laptop-16), announced March 23, 2023 at the Next Level event.[^1] Pre-orders opened July 18 of the same year.[^2] The first laptops shipped in February, 2024.[^7]
 
-Framework Laptop 16 is available with AMD Ryzen 7 7840HS and Ryzen 9 7940HS CPUs. Customers can optionally add an [AMD Radeon RX7700S GPU](/expansion-bay/radeon-rx-7700s), which connects via the [expansion bay](/expansion-bay).
-
-## Customization
-Framework Laptop 16's flagship features are the [expansion bay](/expansion-bay) and [input module](/input-modules) systems. Input modules allow users to rearrange the laptop's input deck, allowing them to add a combination of a keyboard, trackpad, number pads, macro pads, and decorative covers in various positions on the laptop's C Cover. The Expansion bay allows users to install functional modules, such as a graphics card or additional M.2 slots, using a custom slot at the back of the laptop.
-
-Framework Laptop 16 also has six [expansion card](/expansion-cards) slots. Like [Framework Laptop 13](/framework-laptop-13), Framework offers multiple bezel color options for visual customization.
-
-## DIY Edition
-{% include wip.html %}
+It is available with AMD Ryzen 7 7840HS and Ryzen 9 7940HS CPUs. Customers can optionally add an [AMD Radeon RX7700S GPU](/expansion-bay/radeon-rx-7700s), which connects via the [expansion bay](/expansion-bay).
 
 ## Specs
 ### CPU
@@ -42,7 +40,7 @@ An AMD Radeon RX 7700S, featuring 8GB of GDDR6 VRAM, a 100W TGP, and 2 Cooler Ma
 
 ### Connectivity
 #### Expansion Cards
-Framework Laptop 16 supports USB 4 on ports 1 and 4, and USB 3.2 on all other ports. Ports 1, 2, 4 and 5 support 240W charging. Ports 1,2 and 4 support DisplayPort Alt Mode Plugging a USB-A expansion card into ports 1 and 4 may result in higher power consumption. [^8]
+Framework Laptop 16 supports USB 4 on ports 1 and 4, and USB 3.2 on all other ports. Ports 1, 2, 4 and 5 support 240W charging. Ports 1,2 and 4 support DisplayPort Alt Mode Plugging a USB-A expansion card into ports 1 and 4 may result in higher power consumption.[^8]
 
 Framework Laptop 16 is not Thunderbolt certified, though many Thunderbolt devices and docks function when connected to a USB-4-compatible port.
 
@@ -50,16 +48,16 @@ Framework Laptop 16 is not Thunderbolt certified, though many Thunderbolt device
 The [expansion bay](/expansion-bay) connector includes power, DisplayPort and PCIe signaling.
 
 #### Wireless
-Framework Laptop 16 comes with the AMD RZ616 Wi-Fi Card, which supports WiFi 6E and Bluetooth 5.2. [^5][^6]
+Framework Laptop 16 comes with the AMD RZ616 Wi-Fi Card, which supports WiFi 6E and Bluetooth 5.2.[^5] [^6]
 
 ## Hardware Compatibility
 ### RAM
-Framework Laptop 16 features two DDR5 SO-DIMM sockets. Framework offers their own [Framework-branded DDR5-5600](https://frame.work/marketplace/memory-storage?search=DDR5) modules in 8GB, 16GB and 32GB variants. [^3]
+Framework Laptop 16 features two DDR5 SO-DIMM sockets. Framework offers their own [Framework-branded DDR5-5600](https://frame.work/marketplace/memory-storage?search=DDR5) modules in 8GB, 16GB and 32GB variants.[^3]
 
-Standard DDR5 JEDEC (non-XMP) timings are supported. ECC is not supported. [^4]
+Standard DDR5 JEDEC (non-XMP) timings are supported. ECC is not supported.[^4]
 
 ### SSD
-Framework Laptop 16 supports up to two NVMe SSDs -- one full-size M.2 2280, and another mini M.2 2230-sized drive stacked below the other. [^3] Framework Laptop 16 is the first Framework product to support more than one internal SSD.
+Framework Laptop 16 supports up to two NVMe SSDs -- one full-size M.2 2280, and another mini M.2 2230-sized drive stacked below the other.[^3] Framework Laptop 16 is the first Framework product to support more than one internal SSD.
 ## Known Issues
 ### Liquid Metal Pump Out
 Early Framework Laptop 16 devices (serial numbers where the 11th, 12th and 13th digits are less than 444) used liquid metal thermal interface material, which may pump out of the CPU over time, degrading performance.[^11] To address the issue, Framework switched new production laptops (serial numbers where the 11th, 12th and 13th digits are greater than 444) to use Honeywell PTM7958 phase-change thermal interface paste. Owners of laptops with liquid metal can request a Honeywell PTM7950 thermal pad from Framework.[^12] Framework says the PTM7958 has "equivalently strong" performance to the original liquid metal.

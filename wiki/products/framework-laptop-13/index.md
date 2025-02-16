@@ -1,6 +1,8 @@
 ---
+permalink: /products/framework-laptop-13
 redirect_from:
     - /framework-laptop
+    - /framework-laptop-13
 image: /assets/framework-laptop-13.png
 sidecar:
     - image: /assets/framework-laptop-13.png

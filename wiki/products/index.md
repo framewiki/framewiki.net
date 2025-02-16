@@ -1,4 +1,5 @@
 ---
+permalink: /products
 ---
 # Products
 This is a **list of [Framework](/framework-computer-inc) products** excluding individual replacement parts (grouped by type):
@@ -10,6 +11,7 @@ This is a **list of [Framework](/framework-computer-inc) products** excluding in
 - [Framework Laptop Chromebook Edition](/framework-chromebook)
 - [Framework Laptop 13 (Intel Core Ultra Series 1)](/framework-laptop-13/core-ultra-1)
 - [Framework Laptop 16](/framework-laptop-16)
+- [Framework Laptop 16 (AMD 7040 Series)](/framework-laptop-16/7040-series)
 - [Expansion Bay Shell](/expansion-bay/shell)
 - [AMD Radeon RX 7700S Expansion Bay](/expansion-bay/radeon-rx-7700s)
 - [Dual M.2 Adapter](/expansion-bay/dual-m2)

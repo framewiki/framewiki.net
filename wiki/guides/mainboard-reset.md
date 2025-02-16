@@ -1,4 +1,7 @@
 ---
+permalink: /guides/mainboard-reset
+redirect_from:
+    - /mainboard-reset
 guide: true
 ---
 # Mainboard Reset Procedures

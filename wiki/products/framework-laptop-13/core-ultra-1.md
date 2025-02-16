@@ -1,5 +1,7 @@
 ---
-permalink: /framework-laptop-13/core-ultra-1
+permalink: /products/framework-laptop-13/core-ultra-1
+redirect_from:
+    - /framework-laptop-13/core-ultra-1
 sidecar:
     - title: Framework Laptop 13
       title_sm: Intel Core Ultra Series 1

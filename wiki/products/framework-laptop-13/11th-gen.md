@@ -1,6 +1,7 @@
 ---
-permalink: /framework-laptop-13/11th-gen
-
+permalink: /products/framework-laptop-13/11th-gen
+redirect_from:
+    - /framework-laptop-13/11th-gen
 sidecar:
     - title: Framework Laptop 13
       title_sm: 11th Gen Intel Core
