@@ -31,7 +31,7 @@ Framework Laptop 16's flagship features are the [expansion bay](/expansion-bay) 
 Framework Laptop 16 also has six [expansion card](/expansion-cards) slots. Like [Framework Laptop 13](/framework-laptop-13), Framework offers multiple bezel color options for visual customization.
 
 ## DIY Edition
-{% include wip.html %}
+{% include notes/wip.html %}
 
 # References
 [^1]: <https://frame.work/blog/introducing-the-framework-laptop-16> [Archived](https://web.archive.org/web/20250114044406/https://frame.work/blog/introducing-the-framework-laptop-16) 

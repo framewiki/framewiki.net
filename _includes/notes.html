@@ -1,23 +1,27 @@
 {% if page.semiprotected %}
-  {% include semiprotected.html %}
+  {% include notes/semiprotected.html %}
 {% endif %}
 
 {% if page.protected %}
-  {% include protected.html %}
+  {% include notes/protected.html %}
 {% endif %}
 
 {% if page.wip %}
-  {% include wip.html %}
+  {% include notes/wip.html %}
 {% endif %}
 
 {% if page.stub %}
-  {% include stub.html %}
+  {% include notes/stub.html %}
 {% endif %}
 
 {% if page.guide %}
-  {% include guide.html %}
+  {% include notes/guide.html %}
 {% endif %}
 
 {% if page.meta %}
-  {% include meta.html %}
+  {% include notes/meta.html %}
+{% endif %}
+
+{% if page.current-event %}
+  {% include notes/current-event.html %}
 {% endif %}

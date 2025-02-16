@@ -1,5 +1,6 @@
 ---
 permalink: /products
+categories: lists
 ---
 # Products
 This is a **list of [Framework](/framework-computer-inc) products** excluding individual replacement parts (grouped by type):

@@ -2,11 +2,10 @@
 permalink: /guides/mainboard-reset
 redirect_from:
     - /mainboard-reset
-guide: true
 ---
 # Mainboard Reset Procedures
 ## 11th Gen Intel Core, 12th Gen Intel Core, 13th Gen Intel Core
-{% include wip.html %}
+{% include notes/wip.html %}
 
 ## AMD 7040 Series, Intel Core Ultra Series 1, Framework Laptop 16
 1. Connect the mainboard to AC power.

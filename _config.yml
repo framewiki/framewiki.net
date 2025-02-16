@@ -95,6 +95,10 @@ defaults:
     values:
       permalink: /:basename
   - scope:
+      path: "wiki/guides"
+    values:
+      guide: true
+  - scope:
       path: "framewiki"
     values:
       permalink: /framewiki::basename
