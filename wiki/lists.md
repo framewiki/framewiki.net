@@ -2,6 +2,7 @@
 redirect_from: 
   - /lits-of-lists
   - /lol
+categories: lists
 ---
 # List of Lists
 The following is a list of **lists** on Framewiki. A list is a category of article containing only links to other articles.
@@ -9,7 +10,7 @@ The following is a list of **lists** on Framewiki. A list is a category of artic
 <ul>
   {% assign articles = site.pages | where_exp:"i", "i.categories contains 'lists'" %}
   {% for article in articles %}
-    <li><a href="{{ article.url | relative_url }}">List of {{ article.title }}</a></li>
+    <li><a href="{{ article.url | relative_url }}">{{ article.title }}</a></li>
   {% endfor %}
 </ul>
 
