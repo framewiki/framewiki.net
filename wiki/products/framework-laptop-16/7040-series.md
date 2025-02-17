@@ -19,7 +19,7 @@ sidecar:
 ---
 # Framework Laptop 16 (AMD 7040 Series)
 {% include sidecar.html %}
-**Framework Laptop 16 (AMD 7040 Series)** is the first, and currently only generation of [Framework’s](/framework-computer-inc) second product, [Framework Laptop 16](/products/framework-laptop-16), announced March 23, 2023 at the Next Level event.[^1] Pre-orders opened July 18 of the same year.[^2] The first laptops shipped in February, 2024.[^7]
+**Framework Laptop 16 (AMD 7040 Series)** is the first, and currently only generation of [Framework’s](/framework-computer-inc) second product, [Framework Laptop 16](/products/framework-laptop-16), announced March 23, 2023 at the [Framework Next Level Event](/events/next-level).[^1] Pre-orders opened July 18 of the same year.[^2] The first laptops shipped in February, 2024.[^7]
 
 It is available with AMD Ryzen 7 7840HS and Ryzen 9 7940HS CPUs. Customers can optionally add an [AMD Radeon RX7700S GPU](/expansion-bay/radeon-rx-7700s), which connects via the [expansion bay](/expansion-bay).
 

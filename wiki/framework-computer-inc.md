@@ -1,19 +1,21 @@
 ---
+redirect_from:
+  - /framework
 sidecar:
-    - image: /assets/framework-logo.png
-    - title: Framework Computer Inc
-    - gap: true
-      table: 
-        - label: Founded
-          value: Jan. 2020
-        - label: Founder
-          value: Nirav Patel
-        - label: Funding
-          value: $45.2M
-        - label: Employees
-          value: 55
-        - label: Products
-          value: 2 lines, 6 total products/generations
+  - image: /assets/framework-logo.png
+  - title: Framework Computer Inc
+  - gap: true
+    table: 
+      - label: Founded
+        value: Jan. 2020
+      - label: Founder
+        value: Nirav Patel
+      - label: Funding
+        value: $45.2M
+      - label: Employees
+        value: 55
+      - label: Products
+        value: 2 lines, 6 total products/generations
 ---
 # Framework Computer Inc
 {% include sidecar.html %}
