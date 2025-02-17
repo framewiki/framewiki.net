@@ -18,11 +18,13 @@ Being familiar with the other concepts may be helpful, but knowledge of them is 
 ## Getting Involved
 If you are looking for ways to contribute to Framewiki, here are a few ways to start:
 
-- Look for red links, which indicate that an article does not yet exist, and [create them](/framewiki:guidelines#creating-pages). Lists, such as [guides](/guides) and [products](/products) are a good place to look.
-- Add [sidecars](/framewiki:sidecars) to non-meta pages that do not already have them.
-- Add a cover image to [sidecars](/framewiki:sidecars) on product pages that do not already have one. Be sure you have the rights to any images you upload.
 - Look for [[citation needed]](/framewiki:citation-needed) tags and try to locate a source to support or refute the claim.
+    - See the [List of Pages Needing Citations](/framewiki:citation-needed#pages-needing-citations)
+- Add [sidecars](/framewiki:sidecars) to non-meta pages that don't already have them.
+    - See the [List of Pages Needing Sidecars](/framewiki:sidecars#pages-needing-sidecars)
+- Add a cover image to [sidecars](/framewiki:sidecars) on product pages that do not already have one. Be sure you have the rights to any images you upload.
 - Add [archive links](/framewiki:citations#archive-links) to any [citations](/framewiki:citations) that lack them. This is especially important where the links are already broken.
+- Look for red links, which indicate that an article does not yet exist, and [create them](/framewiki:guidelines#creating-pages).
 - Expand short articles that have been marked as stubs, or help write articles that are marked work in progress.
 
 If you have major improvements you'd like to make to Framewiki, consider [submitting an RFC](/framewiki:governance#decision-making-process) to get community input.
