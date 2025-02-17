@@ -21,7 +21,7 @@ The AMD drivers included with Framework's driver bundles are generally updated o
 
 Community members have found AMD driver version 24.7.1 to be stable.[^1] Version 24.8.1 is also generally stable but includes a bug where the Radeon control panel will launch randomly when the computer resumes from sleep.
 
-There have been mixed reports of version 24.12.1 working on the latest BIOS version. Users in the Framework Discord server have reported success installing 24.12.1 after updating the BIOS of their Framework Laptop 16. But, others have reported that 24.12.1 is still failing to install. So, if you would like a stable install please use 24.7.1 or 24.8.1. [[citation-needed]](/framewiki:citation-needed)
+There have been mixed reports of version 24.12.1 working on the latest BIOS version. Users in the Framework Discord server have reported success installing 24.12.1 after updating the BIOS of their Framework Laptop 16. But, others have reported that 24.12.1 is still failing to install. So, if you would like a stable install please use 24.7.1 or 24.8.1. [[citation needed]](/framewiki:citation-needed)
 
 ## Requirements
 
