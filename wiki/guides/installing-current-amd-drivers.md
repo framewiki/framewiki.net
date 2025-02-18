@@ -1,21 +1,30 @@
 ---
 permalink: /guides/installing-current-amd-drivers
 redirect_from:
-    - /installing-current-amd-drivers
+  - /installing-current-amd-drivers
+sidecar:
+  - title: Guide Compatibility
+  - title_sm: Framework Laptop 13
+  - table:
+    - label: Intel 11th Gen
+      value: ✗
+    - label: Intel 12th Gen
+      value: ✗
+    - label: Intel 13th Gen
+      value: ✗
+    - label: AMD 7040 Series
+      value: <b>✓</b>
+    - label: Intel Core Ultra 1
+      value: ✗
+  - gap: true
+  - title_sm: Framework Laptop 16
+  - table:
+    - label: AMD 7040 Series
+      value: <b>✓</b>
+
 ---
 # Installing Current AMD Drivers
-
-| Framework Laptop 13 | Applicable |
-|---------------------|------------|
-| Intel 11th Gen      | ✗          |
-| Intel 12th Gen      | ✗          |
-| Intel 13th Gen      | ✗          |
-| AMD 7040 Series     | **✓**      |
-| Intel Core Ultra 1  | ✗          |
-
-| Framework Laptop 16 | Applicable |
-|---------------------|------------|
-| AMD 7040 Series     | **✓**      |
+{% include sidecar.html %}
 
 The AMD drivers included with Framework's driver bundles are generally updated only when a new BIOS version is released, meaning they can be out of date. It may be useful to update the graphics driver for the latest game compatibility or driver features. However, Framework's official recommendation is that users run the drivers included in the driver bundle for their device.[^2]
 
