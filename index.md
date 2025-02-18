@@ -30,6 +30,15 @@
 
 ## Featured Articles
 <div class="column-container">
+    <div class="column" style="flex: 3;">
+        <h3><a href="/events/2nd-gen">Framework [2nd Gen] Event</a></h3>
+        <p>The Framework [2nd Gen] Event is an upcoming launch event that will take place at at 10:30 a.m. PST February 25, 2025 in San Francisco, California. It is Framework’s second ever launch event, after the Framework Next Level Event in 2023. The event page includes a countdown and the following message:</p>
+    </div>
+    <div class="column" style="flex: 2; display: flex; align-items: center;">
+        <img style="border: 1px solid black;" src="/assets/2nd-gen-hint.png" />
+    </div>
+</div>
+<div class="column-container">
     <div class="column">
         <h3><a href="/framework-computer-inc">Framework Computer</a></h3>
         <p>Framework Computer Inc. is a US-based consumer electronics company creating customizable and repairable laptops. Framework is a proponent of the Right to Repair movement, designing their products to be easily opened and repaired. They also sell replacement parts on their website, including kits that allow users to upgrade an older Framework Laptop to a newer generation.</p>
