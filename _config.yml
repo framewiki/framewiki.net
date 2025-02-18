@@ -9,6 +9,7 @@ baseurl: "/"
 
 # (string) Description of your wiki
 description: "The unofficial, community-driven Framework wiki"
+short_description: "The unofficial Framework wiki"
 
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
