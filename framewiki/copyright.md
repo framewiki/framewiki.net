@@ -7,37 +7,10 @@ Content on Framewiki is licensed under the terms of the CC BY-SA 4.0 license, th
 Note that individual contributors to Framewiki retain copyright to materials they contribute. By submitting material, the author agrees to license it to the public for reuse under the aforementioned CC BY-SA 4.0 license. Copyright is never transferred to any entity. Authors remain free to re-publish and re-license their contributions elsewhere in any way they would like. However, they can never retract or alter the aforementioned license for copies of materials that they place here; these copies will remain so licensed until they enter the public domain when the copyright to them expires (currently some decades after an author's death).
 
 ## Attributions
-Images labeled "Courtesy of Framework" are provided by Framework Computer Inc. with limited permission for use on Framewiki only. These images are excluded from Framewiki's blanket CC BY-SA 4.0 license.
-
-The [GigaNirav](/assets/giganirav.png) image is edited by [Its-Nevmo](https://github.com/Its-Nevmo), licensed under CC BY-SA 4.0.
-
-The clock icon found in the current events note was created by Kahniel via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clock_icon.png), licensed under CC BY-SA 4.0
-
-Framewiki's website uses [a fork](https://github.com/framewiki/git-wiki-theme) of the Jekyll theme [git-wiki-theme](https://github.com/Drassil/git-wiki-theme), which is licensed under the MIT license with the following terms:
-
-```
-The MIT License (MIT)
-
-Copyright (c) 2017 Drassil.org
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-```
+- Images labeled "Courtesy of Framework" are provided by Framework Computer Inc. with limited permission for use on Framewiki only. These images are excluded from Framewiki's blanket CC BY-SA 4.0 license.
+- The [GigaNirav](/assets/giganirav.png) image is edited by [Its-Nevmo](https://github.com/Its-Nevmo), licensed under CC BY-SA 4.0.
+- Icons used in [notes](/framewiki:notes) are created by the [OOjs UI Team and other contributors](https://phabricator.wikimedia.org/diffusion/GOJU/browse/master/AUTHORS.txt) via Wikimedia Commons, licensed under [MIT](http://opensource.org/licenses/mit-license.php).
+- Framewiki's website uses [a fork](https://github.com/framewiki/git-wiki-theme) of the Jekyll theme [git-wiki-theme](https://github.com/Drassil/git-wiki-theme) by  Drassil.org, licensed under [MIT](http://opensource.org/licenses/mit-license.php):
 
 ## Creative Commons Attribution-ShareAlike 4.0 International
 

@@ -17,16 +17,26 @@ Alternatively, if it is necessary to display a note inline with content, import 
 {{"{% include notes/note_name.html "}}%}
 ```
 
-The following is a list of the available note names:
-- `protected`
-- `semiprotected`
-- `wip`
-- `current-event`
-- `meta`
-- `stub`
-
-## Custom Notes
+## List of Available Notes
+### `protected`
+{% include notes/protected.html %}
+### `semiprotected`
+{% include notes/semiprotected.html %}
+### `current-event`
+{% include notes/current-event.html %}
+### `wip`
 {% include notes/wip.html %}
+### `stub`
+{% include notes/stub.html %}
+### `verify`
+{% include notes/verify.html %}
+### `unreliable`
+{% include notes/unreliable.html %}
+### `guide`
+{% include notes/guide.html %}
+### `meta`
+{% include notes/meta.html %}
+
 
 ## Implementation
 Notes at the top of pages are managed by the `notes.html` import, which is hooked into the Jekyll theme via `_config.yml`. Note content and design can be edited by modifying the html file in `_includes` by the same name. 
