@@ -18,10 +18,6 @@ Alternatively, if it is necessary to display a note inline with content, import 
 ```
 
 ## List of Available Notes
-### `protected`
-{% include notes/protected.html %}
-### `semiprotected`
-{% include notes/semiprotected.html %}
 ### `current-event`
 {% include notes/current-event.html %}
 ### `wip`

@@ -1,11 +1,10 @@
 ---
 meta: true
+protected: true
+semiprotected: true
 ---
 # Framewiki: Protection
-Articles on Framewiki may be protected by an administrator to prevent vandalism. Pull requests that modify protected pages will not be merged automatically until someone with the appropriate access level approves the changes. Protected pages will display one of the following notices at the top of the page:
-
-{% include notes/protected.html %}
-{% include notes/semiprotected.html %}
+Articles on Framewiki may be protected by an administrator to prevent vandalism. Pull requests that modify protected pages will not be merged automatically until someone with the appropriate access level approves the changes. Protected pages show a lock icon under the search bar at the top of the page. Fully protected pages have a gold lock with an F on top, while semi protected pages have a grey lock with a user icon on top. Both are seen on this page.
 
 The admins are currently working on making it so that users with the appropriate access levels don't need review. At this time, it is a GitHub branch protection restriction that we are working around. 
 

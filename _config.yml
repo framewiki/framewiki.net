@@ -167,7 +167,7 @@ inc_after_header : sidebar.html
 inc_before_tail : 
 inc_after_tail : 
 inc_before_tools : 
-inc_after_tools : 
+inc_after_tools : protection-icons.html
 
 inc_before_page_list :
 inc_after_page_list : 
