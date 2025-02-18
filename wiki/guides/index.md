@@ -5,14 +5,13 @@ redirect_from:
 categories: lists
 guide: false
 ---
-# Guides
+# List of Guides
 This is a **list of community-maintained guides**. All guides on Framewiki are written and maintained by the community. Follow them at your own risk. See [Framewiki: Guidelines](/framewiki:guidelines#guides).
 
 <ul>
-  {% for i_page in site.pages %}
-    {% if i_page.guide %}
-      <li><a href="{{ i_page.url | relative_url }}">{{ i_page.title }}</a></li>
-    {% endif %}
+  {% assign pages = site.pages | where_exp:"i", "i.guide" %}
+  {% for i_page in pages %}
+    <li><a href="{{ i_page.url | relative_url }}">{{ i_page.title }}</a></li>
   {% endfor %}
 </ul>
 

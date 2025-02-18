@@ -2,7 +2,7 @@
 permalink: /events
 categories: lists
 ---
-# Events
+# List of Events
 This is a list of **Framework Official Events.**
 
 <ul>

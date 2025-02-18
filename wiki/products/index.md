@@ -2,7 +2,7 @@
 permalink: /products
 categories: lists
 ---
-# Products
+# List of Products
 This is a **list of [Framework](/framework-computer-inc) products** excluding individual replacement parts (grouped by type):
 - [Framework Laptop 13](/framework-laptop-13)
 - [Framework Laptop 13 (11th Gen Intel Core)](/framework-laptop-13/11th-gen)

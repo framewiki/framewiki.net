@@ -81,3 +81,19 @@ sidecar:
       title-sm: This is a second small title in the same section.
 ---
 ```
+
+## Pages Needing Sidecars
+This is a list of **pages without a sidecar**.
+
+<ul>
+  {% assign pages = site.pages
+  | where_exp:"i", "i.title"
+  %}
+  {% for i_page in pages %}
+    {% unless i_page.title contains "Framewiki:" or i_page.categories contains "list" or i_page.sidecar %}
+      <li><a href="{{ i_page.url | relative_url }}">{{ i_page.title }}</a></li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+
+*This is a dynamic list. All pages without sidecars will be added automatically.*
