@@ -115,7 +115,7 @@ Batch 1 of Core Ultra Series 1 began shipping in August 2024 after it was announ
 # References
 [^1]: <https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition> [Archived](https://web.archive.org/web/20250114042515/https://frame.work/blog/the-evolution-of-the-framework-laptop-diy-edition) 
 [^2]: <https://fedex.com/content/dam/fedex/us-united-states/services/Shipping-Lithium-Batteries-via-FedEx-Ground.pdf> [Archived](http://web.archive.org/web/20250114024603/https://www.fedex.com/content/dam/fedex/us-united-states/services/Shipping-Lithium-Batteries-via-FedEx-Ground.pdf) 
-[^3]: <https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide>
+[^3]: <https://guides.frame.work/Guide/Framework+Laptop+13+(11th+Gen+and+12th+Gen+Intel+Core)+DIY+Edition+Quick+Start+Guide/57#s280>
 [^4]: <https://frame.work/blog/solving-for-silicon-shortages> [Archived](http://web.archive.org/web/20250114025010/https://frame.work/blog/solving-for-silicon-shortages) 
 [^5]: <https://youtube.com/watch?v=SYc922ntnKM> [Archived](http://web.archive.org/web/20250114044918/https://www.youtube.com/watch?v=SYc922ntnKM) 
 [^6]: <https://www.youtube.com/watch?t=634&v=7nXVJBGowmY> [Archived](https://web.archive.org/web/20250113224312/https://www.youtube.com/watch?v=7nXVJBGowmY&t=634s) 
