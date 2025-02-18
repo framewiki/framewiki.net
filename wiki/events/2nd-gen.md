@@ -26,6 +26,6 @@ Framework announced the event via a blog post and a scrolling marquee at the top
 <img style="max-width: min(100%, 550px)" src="/assets/2nd-gen-hint.png" alt="Oh *wave*! We've been working on something *color wheel* *woman doing yoga*, something *lightning bolt emoji*, and something worthy of *gathering with friends* *gamepad* *cheetos*. Find out live on Feb 25th at 10:30am PST at the Framework [2nd Gen] event."/>
 
 # References
-[^1]: <https://frame.work/blog/framework-2nd-gen-event-is-live-on-february-25th>
-[^2]: <https://www.youtube.com/live/-8k7jTF_JCg>
+[^1]: <https://frame.work/blog/framework-2nd-gen-event-is-live-on-february-25th> [Archived](https://web.archive.org/web/20250218030820/https://frame.work/blog/framework-2nd-gen-event-is-live-on-february-25th) 
+[^2]: <https://www.youtube.com/live/-8k7jTF_JCg> [Archived](https://web.archive.org/web/20250218031644/https://www.youtube.com/live/-8k7jTF_JCg) 
 [^3]: <https://frame.work> [Archived](https://web.archive.org/web/20250215175138/https://frame.work/)

@@ -52,10 +52,10 @@ Framework announced plans to expand availability to Belgium, Taiwan, Italy and S
 
 
 # References
-[^1]: <https://www.youtube.com/watch?v=WzLybAh1kps>
-[^2]: <https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13>
-[^3]: <https://frame.work/blog/introducing-the-framework-laptop-16>
-[^4]: <https://www.theverge.com/2016/9/7/12838024/apple-iphone-7-plus-headphone-jack-removal-courage>
-[^5]: <https://youtube.com/watch?v=WzLybAh1kps&t=880> Timestamp 14:40. 
-[^6]: <https://youtube.com/watch?v=xwu6FUr14ww&t=124> Timestamp 2:04. 
-[^7]: <https://github.com/FrameworkComputer/Framework-Laptop-13/tree/main/Battery>
+[^1]: <https://www.youtube.com/watch?v=WzLybAh1kps> [Archived](https://web.archive.org/web/20250218030825/https://www.youtube.com/watch?v=WzLybAh1kps) 
+[^2]: <https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13> [Archived](https://web.archive.org/web/20250218031516/https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13) 
+[^3]: <https://frame.work/blog/introducing-the-framework-laptop-16> [Archived](https://web.archive.org/web/20250218031644/https://frame.work/blog/introducing-the-framework-laptop-16) 
+[^4]: <https://www.theverge.com/2016/9/7/12838024/apple-iphone-7-plus-headphone-jack-removal-courage> [Archived](https://web.archive.org/web/20250218032433/https://www.theverge.com/2016/9/7/12838024/apple-iphone-7-plus-headphone-jack-removal-courage) 
+[^5]: <https://youtube.com/watch?v=WzLybAh1kps&t=880> Timestamp 14:40. [Archived](https://web.archive.org/web/20250218032513/https://youtube.com/watch?v=WzLybAh1kps&t=880) 
+[^6]: <https://youtube.com/watch?v=xwu6FUr14ww&t=124> Timestamp 2:04. [Archived](https://web.archive.org/web/20250218032648/https://youtube.com/watch?v=xwu6FUr14ww&t=124) 
+[^7]: <https://github.com/FrameworkComputer/Framework-Laptop-13/tree/main/Battery> [Archived](https://web.archive.org/web/20250218033220/https://github.com/FrameworkComputer/Framework-Laptop-13/tree/main/Battery) 
