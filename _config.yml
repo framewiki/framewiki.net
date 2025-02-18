@@ -135,7 +135,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
   - jekyll-relative-links
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jemoji
