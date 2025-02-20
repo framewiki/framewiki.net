@@ -150,7 +150,7 @@ plugins:
 
 inc_before_toc :
 inc_after_toc : 
-inc_before_content : "notes.html"
+inc_before_content :
 inc_after_content : "giscus.html"
 inc_before_footer : 
 inc_after_footer : 
