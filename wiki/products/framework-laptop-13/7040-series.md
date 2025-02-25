@@ -16,11 +16,13 @@ sidecar:
         - label: Began Shipping
           value: October 2023
         - label: Status
-          value: 🟢 In Stock
+          value: 🔴 Discontinued
 ---
 # Framework Laptop 13 (AMD 7040 Series)
 {% include sidecar.html %}
 **Framework Laptop 13 (AMD 7040 Series)** was announced on March 23, 2023, at the same time as [Framework Laptop 13 (13th Gen Intel Core)](/framework-laptop-13/13th-gen) during the [Framework Next Level Event](/events/next-level).[^1] Batch 1 preorders began shipping October 6, 2023. [^2] Updated configurations with a new display option and 2nd gen webcam module are expected to begin shipping in August 2024. [^16]
+
+7040 Series was discontinued with the launch of [Framework Laptop 13 (AMD Ryzen AI 300 Series)](/products/framework-laptop-13/ai-300-series) at the [Framework [2nd Gen] Event](/events/2nd-gen) February 25, 2025.
 
 ## Specs
 ### CPU
