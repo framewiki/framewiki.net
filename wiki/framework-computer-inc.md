@@ -15,7 +15,7 @@ sidecar:
       - label: Employees
         value: 55
       - label: Products
-        value: 2 lines, 6 total products/generations
+        value: 4 lines, 10 total products/generations
 ---
 # Framework Computer Inc
 {% include sidecar.html %}
