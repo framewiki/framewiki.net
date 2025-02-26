@@ -2,6 +2,8 @@
 permalink: /products/framework-laptop-13/ai-300-series
 current-event: true
 sidecar:
+    - image: /assets/framework-laptop-13-ryzen-ai-300.png
+      text: Image courtesy of Framework
     - title: Framework Laptop 13
       title_sm: AMD Ryzen AI 300 Series
     - table:

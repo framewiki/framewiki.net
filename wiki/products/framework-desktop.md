@@ -2,6 +2,8 @@
 permalink: /products/framework-desktop
 current-event: true
 sidecar:
+    - image: /assets/framework-desktop.png
+      text: Image courtesy of Framework
     - title: Framework Desktop
       title_sm: SFF Desktop PC
     - table:
