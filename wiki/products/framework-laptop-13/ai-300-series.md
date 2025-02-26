@@ -27,7 +27,7 @@ The laptop is Framework's first to support Wi-Fi 7 using the AMD RZ717 Wi-Fi car
 ## Specs
 ### CPU
 
-| Processor           | Ryzen AI 5 340 [^4]                    | Ryzen AI 7 350 [^5]                    | Ryzen 9 HX 370 [^6]                     |
+| Processor           | Ryzen AI 5 340 [^4]                    | Ryzen AI 7 350 [^5]                    | Ryzen AI 9 HX 370 [^6]                  |
 |---------------------|----------------------------------------|----------------------------------------|-----------------------------------------|
 | Cores               | 6 (3 x Zen 5 cores + 3 x Zen 5c cores) | 8 (4 x Zen 5 cores + 4 x Zen 5c cores) | 12 (4 x Zen 5 cores + 8 x Zen 5c cores) |
 | Threads             | 12                                     | 16                                     | 24                                      |
