@@ -40,16 +40,16 @@
 </div>
 <div class="column-container">
     <div class="column">
-        <h3><a href="/framework-computer-inc">Framework Computer</a></h3>
-        <p>Framework Computer Inc. is a US-based consumer electronics company creating customizable and repairable laptops. Framework is a proponent of the Right to Repair movement, designing their products to be easily opened and repaired. They also sell replacement parts on their website, including kits that allow users to upgrade an older Framework Laptop to a newer generation.</p>
+        <h3><a href="/products/framework-laptop-13/ai-300-series">Framework Laptop 13<br/> (AMD Ryzen AI 300 Series)</a></h3>
+        <p>Framework Laptop 13 (Ryzen AI 300) was announced on February 25, 2025 during the Framework [2nd Gen] event. Preorders opened the same day, immediately following the live event. It includes improvements to the keyboard and cooling system. The first batch of laptops are expected to begin shipping in April 2025.</p>
     </div>
     <div class="column">
-        <h3><a href="/framework-laptop-13">Framework Laptop 13</a></h3>
-        <p>Framework Laptop 13 is Framework’s first product. Initially branded simply as Framework Laptop, the company rebranded the product as Framework Laptop 13 in 2023 to distinguish it from the newly-announced Framework Laptop 16. The initial version featured 11th Gen Intel Core CPUs, but it has since been updated with 12th and 13th Gen Intel CPUS, as well as AMD 7040 series offerings.</p>
+        <h3><a href="/products/framework-desktop">Framework Desktop</a></h3>
+        <p>Framework Desktop is a small-form-factor desktop PC announced on February 25, 2025 during the Framework [2nd Gen] event, making it Framework’s first non-laptop product line. Preorders opened immediately following the live event, with the top-spec Framework Desktop config, featuring 128 GB of RAM, priced at $1999.</p>
     </div>
     <div class="column">
-        <h3><a href="/framework-laptop-16">Framework Laptop 16</a></h3>
-        <p>Framework Laptop 16 is Framework’s second product, announced March 23, 2023 at the Next Level event. Pre-orders opened July 18 of the same year. The first laptops shipped in February, 2024. Framework Laptop 16 is available with AMD Ryzen 7 7840HS and Ryzen 9 7940HS CPUs. Customers can optionally add an AMD Radeon RX7700S GPU, which connects via the expansion bay.</p>
+        <h3><a href="/products/framework-laptop-12">Framework Laptop 12</a></h3>
+        <p>Framework Laptop 12 is a 2-in-one laptop designed by Framework announced at the Framework [2nd Gen] Event. It features a 360-degree hinge and is available in five TPU-overmolded chassis colors including black, gray, green, lavendar and bubblegum. Pricing and detailed specs are not yet available, but preorders are expected to open in April 2025.</p>
     </div>
 </div>
 
