@@ -22,10 +22,16 @@ sidecar:
 
 ## Specs
 ### CPU
-Available with 13th Gen Intel Core i3 and i5 CPUs.[^2]
+Available with 13th Gen Intel Core i3-1315U and i5-1334U CPUs.[^2]
 
 ### Display
-Framework Laptop 12 includes a 12.2" 1920x1200 touchscreen with stylus support.[^2]
+Framework Laptop 12 includes a 12.2" 1920x1200 touchscreen with stylus support and >400 nit brightness.[^2]
+
+### Memory
+The Framework Laptop 12 includes a single DDR5 SODIMM slot supporting up to 5200 MT/s.[^2]
+
+### Storage
+The Framework Laptop 12 includes a single M.2 2230 slot.[^3]
 
 ## Connectivity
 ### Expansion Cards
@@ -34,3 +40,4 @@ Framework Laptop 12 has 4 expansion card ports.[^2]
 # References
 [^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg>
 [^2]: <https://frame.work/blog/introducing-the-framework-laptop-12>
+[^3]: <https://www.youtube.com/watch?v=-lErGZZgUbY>
