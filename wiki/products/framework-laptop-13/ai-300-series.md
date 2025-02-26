@@ -27,14 +27,16 @@ The laptop is Framework's first to support Wi-Fi 7 using the AMD RZ717 Wi-Fi car
 ## Specs
 ### CPU
 
-| Processor           | Ryzen AI 5 340 [^3]        | Ryzen AI 7 350 [^3]        | Ryzen 9 HX 370 [^3]       |
-| ------------------- | -------------------------- | -------------------------- |---------------------------|
-| Cores               | 6                          | 8                          | 12                        |
-| Threads             | 12                         | 16                         | 24                        |                        
-| L3 Cache            |                            |                            |                           |
-| Base Clock          |                            |                            |                           |
-| Boost Clock         |                            |                            |                           |
-| Integrated Graphics | 4-core AMD Radeon 840M     | 8-core AMD Radeon 860M     | 16-core AMD Radeon 890M   |
+| Processor           | Ryzen AI 5 340 [^4]                    | Ryzen AI 7 350 [^5]                    | Ryzen 9 HX 370 [^6]                     |
+|---------------------|----------------------------------------|----------------------------------------|-----------------------------------------|
+| Cores               | 6 (3 x Zen 5 cores + 3 x Zen 5c cores) | 8 (4 x Zen 5 cores + 4 x Zen 5c cores) | 12 (4 x Zen 5 cores + 8 x Zen 5c cores) |
+| Threads             | 12                                     | 16                                     | 24                                      |
+| L3 Cache            | 16 MB                                  | 16 MB                                  | 24 MB                                   |
+| Zen 5 Base Clock    | 2 GHz                                  | 2 GHz                                  | 2 GHz                                   |
+| Zen 5c Base Clock   | 2 Ghz                                  | 2 GHz                                  | 2 GHz                                   |
+| Zen 5 Boost Clock   | 4.8 GHz                                | 5 GHz                                  | 5.1 GHz                                 |
+| Zen 5c Boost Clock  | 3.4 GHz                                | 3.5 GHz                                | 3.3 GHz                                 |
+| Integrated Graphics | 4-core AMD Radeon 840M                 | 8-core AMD Radeon 860M                 | 16-core AMD Radeon 890M                 |
 
 ### Connectivity
 #### Expansion Cards
@@ -63,3 +65,6 @@ Framework Laptop 13 (AMD Ryzen AI 300 Series) supports M.2 2280-size NVMe SSDs.
 [^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg>
 [^2]: <https://frame.work/blog/introducing-the-framework-laptop-13-powered-by-amd-ryzen-ai-300-series>
 [^3]: <https://frame.work/laptop13?tab=specs>
+[^4]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-5-340.html>
+[^5]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-7-350.html>
+[^6]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-hx-370.html>
