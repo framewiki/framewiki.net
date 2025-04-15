@@ -38,6 +38,6 @@ The Framework Laptop 12 includes a single M.2 2230 slot.[^3]
 Framework Laptop 12 has 4 expansion card ports.[^2]
 
 # References
-[^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg>
-[^2]: <https://frame.work/blog/introducing-the-framework-laptop-12>
-[^3]: <https://www.youtube.com/watch?v=-lErGZZgUbY>
+[^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg> [Archived](http://web.archive.org/web/20250402013005/https://www.youtube.com/watch?v=-8k7jTF_JCg) 
+[^2]: <https://frame.work/blog/introducing-the-framework-laptop-12> [Archived](http://web.archive.org/web/20250407150846/https://frame.work/blog/introducing-the-framework-laptop-12) 
+[^3]: <https://www.youtube.com/watch?v=-lErGZZgUbY> [Archived](http://web.archive.org/web/20250411062307/https://www.youtube.com/watch?v=-lErGZZgUbY) 

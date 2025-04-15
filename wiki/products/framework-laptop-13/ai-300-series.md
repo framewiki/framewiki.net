@@ -62,9 +62,9 @@ Framework Laptop 13 (AMD Ryzen AI 300 Series) supports up to 96GB of DDR5 in two
 Framework Laptop 13 (AMD Ryzen AI 300 Series) supports M.2 2280-size NVMe SSDs.
 
 # References
-[^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg>
-[^2]: <https://frame.work/blog/introducing-the-framework-laptop-13-powered-by-amd-ryzen-ai-300-series>
-[^3]: <https://frame.work/laptop13?tab=specs>
-[^4]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-5-340.html>
-[^5]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-7-350.html>
+[^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg> [Archived](http://web.archive.org/web/20250402013005/https://www.youtube.com/watch?v=-8k7jTF_JCg) 
+[^2]: <https://frame.work/blog/introducing-the-framework-laptop-13-powered-by-amd-ryzen-ai-300-series> [Archived](http://web.archive.org/web/20250328102113/https://frame.work/blog/introducing-the-framework-laptop-13-powered-by-amd-ryzen-ai-300-series) 
+[^3]: <https://frame.work/laptop13?tab=specs> [Archived](https://web.archive.org/web/20250415185440/https://frame.work/laptop13?tab=specs) 
+[^4]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-5-340.html> [Archived](http://web.archive.org/web/20250413175207/https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-5-340.html) 
+[^5]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-7-350.html> [Archived](http://web.archive.org/web/20250313085744/https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-7-350.html) 
 [^6]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-hx-370.html>
