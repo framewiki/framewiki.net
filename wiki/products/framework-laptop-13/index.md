@@ -146,5 +146,5 @@ Batch 1 of Core Ultra Series 1 began shipping in August 2024 after it was announ
 [^25]: <https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen> [Archived](http://web.archive.org/web/20250114040845/https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen) 
 [^26]: <https://github.com/FrameworkComputer/Framework-Laptop-13/blob/main/Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf> [Archived](http://web.archive.org/web/20240925161652/https://github.com/FrameworkComputer/Framework-Laptop-13/blob/main/Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf) 
 [^27]: <https://community.frame.work/t/framework-laptop-13-intel-core-ultra-series-1-bios-3-04-release/59579> [Archived](http://web.archive.org/web/20241127232929/https://community.frame.work/t/framework-laptop-13-intel-core-ultra-series-1-bios-3-04-release/59579) 
-[^28]: <https://frame.work/blog/introducing-the-framework-laptop-13-powered-by-amd-ryzen-ai-300-series>
-[^29]: <https://frame.work/laptop13?tab=specs&slug=laptop13-amd-ai300>
+[^28]: <https://frame.work/blog/introducing-the-framework-laptop-13-powered-by-amd-ryzen-ai-300-series> [Archived](https://web.archive.org/web/20250415185537/https://frame.work/blog/introducing-the-framework-laptop-13-powered-by-amd-ryzen-ai-300-series) 
+[^29]: <https://frame.work/laptop13?tab=specs&slug=laptop13-amd-ai300> [Archived](http://web.archive.org/web/20250415185440/https://frame.work/laptop13?tab=specs) 

@@ -66,6 +66,6 @@ Framework Desktop uses soldered LPDDR5x memory rather than SO-DIMMs, "to enable 
 Framework Desktop supports up to two NVMe M.2 2280 SSDs.[^2] The chassis does not have any 2.5” or 3.5” drive bays, and no SATA ports are present on the mainboard.
 
 # References
-[^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg>
-[^2]: <https://frame.work/blog/introducing-the-framework-desktop>
-[^3]: <https://frame.work/desktop?tab=specs>
+[^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg> [Archived](http://web.archive.org/web/20250402013005/https://www.youtube.com/watch?v=-8k7jTF_JCg) 
+[^2]: <https://frame.work/blog/introducing-the-framework-desktop> [Archived](https://web.archive.org/web/20250415185536/https://frame.work/blog/introducing-the-framework-desktop) 
+[^3]: <https://frame.work/desktop?tab=specs> [Archived](http://web.archive.org/web/20250401005454/https://frame.work/desktop?tab=specs) 
