@@ -55,7 +55,9 @@ The DisplayPort (1st Gen) Expansion Card can be updated to the optimized firmwar
 
 ### MicroSD Expansion Card
 
-The [MicroSD Expansion Card](https://frame.work/products/microsd-expansion-card) supports MicroSD UHS-I and UFS cards.
+The [MicroSD \(1st gen\) Expansion Card](https://frame.work/products/microsd-expansion-card) supports MicroSD UHS-I and UFS cards.
+
+The [MicroSD \(2nd gen\) Expansion card ](https://frame.work/products/microsd-2nd-gen-expansion-card) adds support for UHS-II MicroSD cards. Power consumption when no card is inserted has also been improved.
 
 ### SD Expansion Card
 
