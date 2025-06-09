@@ -1,6 +1,5 @@
 ---
 permalink: /products/framework-laptop-13/ai-300-series
-current-event: true
 sidecar:
     - image: /assets/framework-laptop-13-ryzen-ai-300.png
       text: Image courtesy of Framework
@@ -11,14 +10,14 @@ sidecar:
           value: Feb 25, 2025
         - label: Pre-Orders Opened
           value: Feb 25, 2025
-        - label: Shipping
-          value: April 2025
+        - label: Began Shipping
+          value: April 18, 2025
         - label: Status
-          value: 🟢 Preorders Open
+          value: 🟢 Preorders Shipping
 ---
 # Framework Laptop 13 (AMD Ryzen AI 300 Series)
 {% include sidecar.html %}
-**Framework Laptop 13 (Ryzen AI 300)** was announced on February 25, 2025 during the [Framework [2nd Gen] event](/events/2nd-gen).[^1] Preorders opened the same day, immediately following the live event. The first batch of laptops are expected to begin shipping in April 2025.[^2]
+**Framework Laptop 13 (Ryzen AI 300)** was announced on February 25, 2025 during the [Framework [2nd Gen] event](/events/2nd-gen).[^1] Preorders opened the same day, immediately following the live event. The first batch of laptops began shipping April 18, 2025.[^7]
 
 Ryzen AI 300 Series is the first to use Framework's second generation keyboard, which has reduced resonance to prevent rattling when using the built-in speakers at the maximum volume. Pre-built laptops come with the Microsoft Copilot key on the start button, but DIY edition is available with either the Microsoft Copilot key or the Framework logo.[^2]
 
@@ -68,3 +67,4 @@ Framework Laptop 13 (AMD Ryzen AI 300 Series) supports M.2 2280-size NVMe SSDs.
 [^4]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-5-340.html> [Archived](http://web.archive.org/web/20250413175207/https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-5-340.html) 
 [^5]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-7-350.html> [Archived](http://web.archive.org/web/20250313085744/https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-7-350.html) 
 [^6]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-hx-370.html>
+[^7]: <https://frame.work/blog/reviews-on-the-new-framework-laptop-13-are-live>
