@@ -41,7 +41,7 @@ Any standard 120mm fan is compatible with the Framework Desktop cooler. In the c
 | Integrated Graphics | AMD Radeon 8050S           | AMD Radeon 8060S           |
 
 ### Power Supply
-Framework Desktop includes a semi-custom Flex ATX 400W developed with taiwanese power supply manufacturer FSP.[^2]
+Framework Desktop includes a semi-custom Flex ATX 400W developed with taiwanese power supply manufacturer FSP.[^2] The PSU uses a 40mm fan from Delta, which supports 0 RPM operation, meaning it stays off at low load. It is a non-modular power supply with a 24-pin ATX and 8-pin CPU power cables. There are no MOLEX, SATA or PCI-E power connectors to "make the Power Supply visually cleaner."[^4]
 
 ### Connectivity
 
@@ -67,4 +67,5 @@ Framework Desktop supports up to two NVMe M.2 2280 SSDs.[^2] The chassis does no
 # References
 [^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg> [Archived](http://web.archive.org/web/20250402013005/https://www.youtube.com/watch?v=-8k7jTF_JCg) 
 [^2]: <https://frame.work/blog/introducing-the-framework-desktop> [Archived](https://web.archive.org/web/20250415185536/https://frame.work/blog/introducing-the-framework-desktop) 
-[^3]: <https://frame.work/desktop?tab=specs> [Archived](http://web.archive.org/web/20250401005454/https://frame.work/desktop?tab=specs) 
+[^3]: <https://frame.work/desktop?tab=specs> [Archived](http://web.archive.org/web/20250401005454/https://frame.work/desktop?tab=specs)
+[^4]: <https://frame.work/blog/framework-desktop-deep-dive-power-supply>
