@@ -1,6 +1,5 @@
 ---
 permalink: /products/framework-desktop
-current-event: true
 sidecar:
     - image: /assets/framework-desktop.png
       text: Image courtesy of Framework
@@ -53,7 +52,7 @@ The Framework Desktop mainboard includes two USB-A ports, two USB-C ports, one H
 Framework Desktop includes two expansion card slots on the front of the case.[^2]
 
 #### PCIe
-Framework Desktop includes one PCI-E 4.0 x4 slot.[^2]
+Framework Desktop includes one PCI-E 4.0 4x slot.[^2] The slot is 4x physical and electrical, and is closed-back so you cannot insert a physically longer connector.
 
 #### Wireless
 Framework Desktop includes an AMD RZ717 wireless module with support for Wi-Fi 7.[^2]
