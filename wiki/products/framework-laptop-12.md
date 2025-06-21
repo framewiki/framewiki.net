@@ -40,4 +40,4 @@ Framework Laptop 12 has 4 expansion card ports.[^2]
 [^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg> [Archived](http://web.archive.org/web/20250402013005/https://www.youtube.com/watch?v=-8k7jTF_JCg) 
 [^2]: <https://frame.work/blog/introducing-the-framework-laptop-12> [Archived](http://web.archive.org/web/20250407150846/https://frame.work/blog/introducing-the-framework-laptop-12) 
 [^3]: <https://www.youtube.com/watch?v=-lErGZZgUbY> [Archived](http://web.archive.org/web/20250411062307/https://www.youtube.com/watch?v=-lErGZZgUbY) 
-[^4]: <https://frame.work/blog/framework-laptop-12-pre-orders-are-now-open>
+[^4]: <https://frame.work/blog/framework-laptop-12-pre-orders-are-now-open> [Archived](https://web.archive.org/web/20250621022552/https://frame.work/blog/framework-laptop-12-pre-orders-are-now-open) 
