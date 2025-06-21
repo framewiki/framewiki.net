@@ -70,4 +70,4 @@ Framework Laptop 13 (AMD Ryzen AI 300 Series) supports M.2 2280-size NVMe SSDs.
 [^6]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-hx-370.html> [Archived](http://web.archive.org/web/20250520162105/https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-hx-370.html) 
 [^7]: <https://frame.work/blog/reviews-on-the-new-framework-laptop-13-are-live> [Archived](http://web.archive.org/web/20250418124934/https://frame.work/blog/reviews-on-the-new-framework-laptop-13-are-live) 
 [^8]: <https://www.crucial.com/memory/ddr5/CT2K64G56C46S5/CT26301053> [Archived](https://web.archive.org/web/20250611082636/http://web.archive.org/screenshot/https://www.crucial.com/memory/ddr5/CT2K64G56C46S5/CT26301053)
-[^9]: <https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock>
+[^9]: <https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock> [Archived](https://web.archive.org/web/20250621022253/https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock) 
