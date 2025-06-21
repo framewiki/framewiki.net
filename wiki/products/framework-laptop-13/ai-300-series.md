@@ -13,11 +13,11 @@ sidecar:
         - label: Began Shipping
           value: April 18, 2025
         - label: Status
-          value: 🟢 Preorders Shipping
+          value: 🟢 In Stock
 ---
 # Framework Laptop 13 (AMD Ryzen AI 300 Series)
 {% include sidecar.html %}
-**Framework Laptop 13 (Ryzen AI 300)** was announced on February 25, 2025 during the [Framework [2nd Gen] event](/events/2nd-gen).[^1] Preorders opened the same day, immediately following the live event. The first batch of laptops began shipping April 18, 2025.[^7]
+**Framework Laptop 13 (Ryzen AI 300)** was announced on February 25, 2025 during the [Framework [2nd Gen] event](/events/2nd-gen).[^1] Preorders opened the same day, immediately following the live event. The first batch of laptops began shipping April 18, 2025.[^7] As of June 18, 2025, the device is in stock and out of the pre-order phase.[^9]
 
 Ryzen AI 300 Series is the first to use Framework's second generation keyboard, which has reduced resonance to prevent rattling when using the built-in speakers at the maximum volume. Pre-built laptops come with the Microsoft Copilot key on the start button, but DIY edition is available with either the Microsoft Copilot key or the Framework logo.[^2]
 
@@ -70,3 +70,4 @@ Framework Laptop 13 (AMD Ryzen AI 300 Series) supports M.2 2280-size NVMe SSDs.
 [^6]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-hx-370.html> [Archived](http://web.archive.org/web/20250520162105/https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-hx-370.html) 
 [^7]: <https://frame.work/blog/reviews-on-the-new-framework-laptop-13-are-live> [Archived](http://web.archive.org/web/20250418124934/https://frame.work/blog/reviews-on-the-new-framework-laptop-13-are-live) 
 [^8]: <https://www.crucial.com/memory/ddr5/CT2K64G56C46S5/CT26301053> [Archived](https://web.archive.org/web/20250611082636/http://web.archive.org/screenshot/https://www.crucial.com/memory/ddr5/CT2K64G56C46S5/CT26301053)
+[^9]: <https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock>
