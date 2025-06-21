@@ -1,6 +1,5 @@
 ---
 permalink: /products/framework-laptop-12
-current-event: true
 sidecar:
     - image: /assets/framework-laptop-12.png
       text: Image courtesy of Framework
@@ -9,16 +8,16 @@ sidecar:
     - table:
         - label: Announced
           value: Feb 25, 2025
-        - label: Preorders Expected
-          value: April 2025
+        - label: Preorders Opened
+          value: April 9, 2025
         - label: Shipping
           value: Mid-year 2025
         - label: Status
-          value: 🔵 Teaser
+          value: 🟢 Preorders Open
 ---
 # Framework Laptop 12
 {% include sidecar.html %}
-**Framework Laptop 12** is a 2-in-one laptop designed by [Framework](/framework-computer-inc) announced at the [Framework [2nd Gen] Event](/events/2nd-gen).[^1] It features a 360-degree hinge and is available in five TPU-overmolded chassis colors including black, gray, green, lavendar and bubblegum. Pricing and detailed specs are not yet available, but preorders are expected to open in April 2025.
+**Framework Laptop 12** is a 2-in-one laptop designed by [Framework](/framework-computer-inc) announced at the [Framework [2nd Gen] Event](/events/2nd-gen).[^1] It features a 360-degree hinge and is available in five TPU-overmolded chassis colors including black, gray, green, lavendar and bubblegum. Preorders opened April 9, 2025.[^4]
 
 ## Specs
 ### CPU
@@ -41,3 +40,4 @@ Framework Laptop 12 has 4 expansion card ports.[^2]
 [^1]: <https://www.youtube.com/watch?v=-8k7jTF_JCg> [Archived](http://web.archive.org/web/20250402013005/https://www.youtube.com/watch?v=-8k7jTF_JCg) 
 [^2]: <https://frame.work/blog/introducing-the-framework-laptop-12> [Archived](http://web.archive.org/web/20250407150846/https://frame.work/blog/introducing-the-framework-laptop-12) 
 [^3]: <https://www.youtube.com/watch?v=-lErGZZgUbY> [Archived](http://web.archive.org/web/20250411062307/https://www.youtube.com/watch?v=-lErGZZgUbY) 
+[^4]: <https://frame.work/blog/framework-laptop-12-pre-orders-are-now-open>
