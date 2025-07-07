@@ -27,14 +27,14 @@ sidecar:
 ## Specs
 ### CPU
 
-| Processor           | AMD Ryzen 5 7640U          | AMD Ryzen 7 7840U          |
-| ------------------- | -------------------------- | -------------------------- |
-| Cores               | 6                          | 8                          |
-| Threads             | 12                         | 16                         |                        
-| L3 Cache            | 16 MB                      | 16 MB                      |
-| Base Clock          | 3.5 GHz                    | 3.3 GHz                    |
-| Boost Clock         | 4.9 GHz                    | 5.1 GHz                    |
-| Integrated Graphics | AMD Radeon™ 760M [^7] [^8] | AMD Radeon™ 780M [^7] [^9] |
+| Processor           | AMD Ryzen 5 7640U [^8]            | AMD Ryzen 7 7840U [^9]              |
+| ------------------- | --------------------------------- | ----------------------------------- |
+| Cores               | 6                                 | 8                                   |
+| Threads             | 12                                | 16                                  |
+| L3 Cache            | 16 MB                             | 16 MB                               |
+| Base Clock          | 3.5 GHz                           | 3.3 GHz                             |
+| Boost Clock         | 4.9 GHz                           | 5.1 GHz                             |
+| Integrated Graphics | 8-core AMD Radeon™ 760M, 2600 MHz | 12-core AMD Radeon™ 780M, 2700 Mhz  |
 
 ### Connectivity
 #### Expansion Cards
