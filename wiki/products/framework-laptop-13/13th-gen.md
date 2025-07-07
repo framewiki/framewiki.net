@@ -28,7 +28,7 @@ It was discontinued after the launch of [Framework Laptop 13 (Intel Core Ultra S
 ## Specs
 ### CPU
 
-| Processor            | Intel Core i5-1340P | Intel Core i7 -1360P | Intel Core i7-1370P |
+| Processor            | Intel Core i5-1340P | Intel Core i7-1360P | Intel Core i7-1370P |
 | -------------------- | ------------------- | -------------------- | ------------------- |
 | Cores                | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^2] | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores")[^16] [^17] | 14 (6x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^25] |
 | Threads              | 16 | 16 | 20 |                            

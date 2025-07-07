@@ -31,14 +31,14 @@ Any standard 120mm fan is compatible with the Framework Desktop cooler. In the c
 ## Specs
 ### CPU
 
-| Processor           | AMD Ryzen AI Max 385       | AMD Ryzen AI Max 395+      |
-| ------------------- | -------------------------- | -------------------------- |
-| Cores               | 8                          | 16                         |
-| Threads             |                            |                            |                        
-| L3 Cache            |                            |                            |
-| Base Clock          |                            |                            |
-| Boost Clock         |                            |                            |
-| Integrated Graphics | AMD Radeon 8050S           | AMD Radeon 8060S           |
+| Processor           | AMD Ryzen AI Max 385 [^5]           | AMD Ryzen AI Max 395+ [^6]          |
+| ------------------- | ----------------------------------- | ----------------------------------- |
+| Cores               | 8                                   | 16                                  |
+| Threads             | 16                                  | 32                                  |
+| L3 Cache            | 32 MB                               | 64 MB                               |
+| Base Clock          | 3.6 GHz                             | 3 Ghz                               |
+| Boost Clock         | 5 Ghz                               | 5.1 Ghz                             |
+| Integrated Graphics | 32-core AMD Radeon™ 8050S, 2800 MHz | 40-core AMD Radeon™ 8050S, 2900 MHz |
 
 ### Power Supply
 Framework Desktop includes a semi-custom Flex ATX 400W developed with taiwanese power supply manufacturer FSP.[^2] The PSU uses a 40mm fan from Delta, which supports 0 RPM operation, meaning it stays off at low load. It is a non-modular power supply with a 24-pin ATX and 8-pin CPU power cables. There are no MOLEX, SATA or PCI-E power connectors to "make the Power Supply visually cleaner."[^4]
@@ -69,3 +69,5 @@ Framework Desktop supports up to two NVMe M.2 2280 SSDs.[^2] The chassis does no
 [^2]: <https://frame.work/blog/introducing-the-framework-desktop> [Archived](https://web.archive.org/web/20250415185536/https://frame.work/blog/introducing-the-framework-desktop) 
 [^3]: <https://frame.work/desktop?tab=specs> [Archived](http://web.archive.org/web/20250401005454/https://frame.work/desktop?tab=specs)
 [^4]: <https://frame.work/blog/framework-desktop-deep-dive-power-supply> [Archived](http://web.archive.org/web/20250527125330/https://frame.work/blog/framework-desktop-deep-dive-power-supply) 
+[^5]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-385.html> [Archived](https://web.archive.org/web/20250707171322/https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-385.html)
+[^6]: <https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html> [Archived](https://web.archive.org/web/20250707171322/https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html) 
