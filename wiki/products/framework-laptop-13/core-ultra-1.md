@@ -23,16 +23,16 @@ sidecar:
 ### CPU
 
 | Processor            | Ultra 5 125H[^2] | Ultra 7 155H[^3] | Ultra 7 165H[^4] |
-| -------------------- | -------------- | -------------- | -------------- |
+| -------------------- | -------------- | -------------- | ---------------------|
 | Cores                | 14 (4x Redwood Cove “P Cores” + 8x Crestmont “E Cores” + 2x Crestmont “LP E Cores”) | 16 (6x Redwood Cove “P Cores” + 8x Crestmont “E Cores” + 2x Crestmont “LP E Cores”) | 16 (6x Redwood Cove “P Cores” + 8x Crestmont “E Cores” + 2x Crestmont “LP E Cores”) |
-| Threads              | 18             | 22             | 22             |         
-| L3 Cache             | 18 MB (shared) | 24 MB (shared) | 24 MB (shared) |
-| Base Clock: P Cores  | 1.2 GHz        | 1.4 GHz        | 1.4 GHz        |
-| Base Clock: E Cores  | 0.7 GHz        | 0.9 GHz        | 0.9 GHz        |
-| Base Clock: LP E Cores  | 0.7 GHz     | 0.7 GHz        | 0.7 GHz        |
-| Boost Clock: P Cores | 4.5 GHz        | 4.8 GHz        | 5.0 GHz        |
-| Boost Clock: E Cores | 3.6 GHz        | 3.8 GHz        | 3.8 GHz        |
-| Boost Clock: LP E Cores | 2.5 GHz     | 2.5 GHz        | 2.5 GHz        |
+| Threads              | 18             | 22             | 22                   |         
+| L3 Cache             | 18 MB (shared) | 24 MB (shared) | 24 MB (shared)       |
+| Base Clock: P Cores  | 1.2 GHz        | 1.4 GHz        | 1.4 GHz              |
+| Base Clock: E Cores  | 0.7 GHz        | 0.9 GHz        | 0.9 GHz              |
+| Base Clock: LP E Cores  | 0.7 GHz     | 0.7 GHz        | 0.7 GHz              |
+| Boost Clock: P Cores | 4.5 GHz        | 4.8 GHz        | 5.0 GHz              |
+| Boost Clock: E Cores | 3.6 GHz        | 3.8 GHz        | 3.8 GHz              |
+| Boost Clock: LP E Cores | 2.5 GHz     | 2.5 GHz        | 2.5 GHz              |
 | Integrated Graphics  | Intel Arc Graphics 7 Xe-cores when paired with dual channel memory. Otherwise, Intel UHD Graphics. | Intel Arc Graphics 8 Xe-cores when paired with dual channel memory. Otherwise, Intel UHD Graphics. | Intel Arc Graphics 8 Xe-cores when paired with dual channel memory. Otherwise, Intel UHD Graphics. |
 
 

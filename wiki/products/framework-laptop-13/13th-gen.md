@@ -29,14 +29,14 @@ It was discontinued after the launch of [Framework Laptop 13 (Intel Core Ultra S
 ### CPU
 
 | Processor            | Intel Core i5-1340P | Intel Core i7-1360P | Intel Core i7-1370P |
-| -------------------- | ------------------- | -------------------- | ------------------- |
+| -------------------- | ------------------- | --------------------| ------------------- |
 | Cores                | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^2] | 12 (4x Raptor Cove "P Cores" + 8x Gracemont "E Cores")[^16] [^17] | 14 (6x Raptor Cove "P Cores" + 8x Gracemont "E Cores") [^25] |
-| Threads              | 16 | 16 | 20 |                            
-| L3 Cache             | 12 MB L3 (shared). | 18 MB (shared) | 24 MB (shared) |
-| Base Clock: P Cores  | 1.90 GHz | 2.20 GHz | 1.90 GHz |
-| Base Clock: E Cores  | 1.90 GHz | 1.60 GHz | 1.40 GHz |
-| Boost Clock: P Cores | 4.60 GHz | 5.00 GHz | 5.20 GHz
-| Boost Clock: E Cores | 3.40 GHz | 3.70 GHz | 3.90 GHz
+| Threads              | 16                  | 16                  | 20                  |
+| L3 Cache             | 12 MB L3 (shared)   | 18 MB (shared)      | 24 MB (shared)      |
+| Base Clock: P Cores  | 1.90 GHz            | 2.20 GHz            | 1.90 GHz            |
+| Base Clock: E Cores  | 1.90 GHz            | 1.60 GHz            | 1.40 GHz            |
+| Boost Clock: P Cores | 4.60 GHz            | 5.00 GHz            | 5.20 GHz            |
+| Boost Clock: E Cores | 3.40 GHz            | 3.70 GHz            | 3.90 GHz            |
 | Integrated Graphics  | Iris Xe Graphics 80EU when paired with dual channel memory. Otherwise, Intel UHD Graphics. [^1] [^14] | Iris Xe Graphics 96EU when paired with dual channel memory. Otherwise, Intel UHD Graphics. [^1] [^22] | Iris Xe Graphics 96EU when paired with dual channel memory.  Otherwise, Intel UHD Graphics. [^1] [^30]
 
 ### Connectivity
