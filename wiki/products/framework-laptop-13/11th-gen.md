@@ -25,12 +25,12 @@ It was discontinued after the launch of [Framework Laptop 13 (12th Gen Intel Cor
 ### CPU
 
 | Processor           | Intel Core i5-1135G7[^10] | Intel Core i7-1165G7[^11] | Intel Core i7-1185G7[^12] |
-| ------------------- | -------------------- | -------------------- | -------------------- |
-| Cores               | 4 (4x Golden Cove)   | 4 (4x Golden Cove)   | 4 (4x Golden Cove)   |
-| Threads             | 8                    | 8                    | 8                    |                          
-| Cache               | 8 MB (shared)        | 12 MB (shared)       | 12 MB (shared)       |
-| Base Clock          | 2.4 GHz              | 2.8 GHz              | 3.0 GHz              |
-| Boost Clock         | 4.2 GHz              | 4.7 GHz              | 4.8 GHz              |
+| ------------------- | -------------------- | -------------------- | ----------------------------------- |
+| Cores               | 4 (4x Golden Cove)   | 4 (4x Golden Cove)   | 4 (4x Golden Cove)                  |
+| Threads             | 8                    | 8                    | 8                                   |
+| Cache               | 8 MB (shared)        | 12 MB (shared)       | 12 MB (shared)                      |
+| Base Clock          | 2.4 GHz              | 2.8 GHz              | 3.0 GHz                             |
+| Boost Clock         | 4.2 GHz              | 4.7 GHz              | 4.8 GHz                             |
 | Integrated Graphics | Iris Xe Graphics 80EU when paired with dual channel memory. Otherwise, Intel UHD Graphics. | Iris Xe Graphics 96EU when paired with dual channel memory. Otherwise, Intel UHD Graphics. | Iris Xe Graphics 96EU when paired with dual channel memory.  Otherwise, Intel UHD Graphics. |
 
 ### Connectivity
