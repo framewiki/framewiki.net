@@ -26,16 +26,16 @@ The laptop is Framework's first to support Wi-Fi 7 using the AMD RZ717 Wi-Fi car
 ## Specs
 ### CPU
 
-| Processor           | Ryzen AI 5 340 [^4]                    | Ryzen AI 7 350 [^5]                    | Ryzen AI 9 HX 370 [^6]                  |
-|---------------------|----------------------------------------|----------------------------------------|-----------------------------------------|
-| Cores               | 6 (3 x Zen 5 cores + 3 x Zen 5c cores) | 8 (4 x Zen 5 cores + 4 x Zen 5c cores) | 12 (4 x Zen 5 cores + 8 x Zen 5c cores) |
-| Threads             | 12                                     | 16                                     | 24                                      |
-| L3 Cache            | 16 MB                                  | 16 MB                                  | 24 MB                                   |
-| Zen 5 Base Clock    | 2 GHz                                  | 2 GHz                                  | 2 GHz                                   |
-| Zen 5c Base Clock   | 2 Ghz                                  | 2 GHz                                  | 2 GHz                                   |
-| Zen 5 Boost Clock   | 4.8 GHz                                | 5 GHz                                  | 5.1 GHz                                 |
-| Zen 5c Boost Clock  | 3.4 GHz                                | 3.5 GHz                                | 3.3 GHz                                 |
-| Integrated Graphics | 4-core AMD Radeon 840M                 | 8-core AMD Radeon 860M                 | 16-core AMD Radeon 890M                 |
+| Processor                     | Ryzen AI 5 340 [^4]                    | Ryzen AI 7 350 [^5]                    | Ryzen AI 9 HX 370 [^6]                  |
+|-------------------------------|----------------------------------------|----------------------------------------|-----------------------------------------|
+| Cores                         | 6 (3 x Zen 5 cores + 3 x Zen 5c cores) | 8 (4 x Zen 5 cores + 4 x Zen 5c cores) | 12 (4 x Zen 5 cores + 8 x Zen 5c cores) |
+| Threads                       | 12                                     | 16                                     | 24                                      |
+| L3 Cache                      | 16 MB                                  | 16 MB                                  | 24 MB                                   |
+| Zen 5 Base Clock              | 2 GHz                                  | 2 GHz                                  | 2 GHz                                   |
+| Zen 5c Base Clock             | 2 Ghz                                  | 2 GHz                                  | 2 GHz                                   |
+| Zen 5 Boost Clock             | 4.8 GHz                                | 5 GHz                                  | 5.1 GHz                                 |
+| Zen 5c Boost Clock            | 3.4 GHz                                | 3.5 GHz                                | 3.3 GHz                                 |
+| Integrated Graphics           | 4-core AMD Radeon 840M, 2900 Mhz       | 8-core AMD Ramdeon 860M, 3000 Mhz      | 16-core AMD Radeon 890M, 2900 Mhz       |
 
 ### Connectivity
 #### Expansion Cards
