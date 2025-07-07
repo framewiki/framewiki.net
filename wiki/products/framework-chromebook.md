@@ -39,15 +39,15 @@ The device uses a different input cover with a ChromeOS-specific keyboard layout
 ## Specs
 ### CPU
 
-| Processor            | Intel Core i5-1240P[^8] [^9] |
-| -------------------- | ---------------------------- | 
-| Cores                | 12 (4x Golden Cove "P Cores" + 8x Gracemont "E Cores") | 
-| Threads              | 16                  |                  
-| L3 Cache             | 12 MB (shared)      |
-| Base Clock: P Cores  | 1.7 GHz             |
-| Base Clock: E Cores  | 1.2 GHz             |
-| Boost Clock: P Cores | 4.4 GHz             |
-| Boost Clock: E Cores | 3.3 GHz             |
+| Processor            | Intel Core i5-1240P[^8] [^9]                                      |
+| -------------------- | ----------------------------                                      | 
+| Cores                | 12 (4x Golden Cove "P Cores" + 8x Gracemont "E Cores")            | 
+| Threads              | 16                                                                |
+| L3 Cache             | 12 MB (shared)                                                    |
+| Base Clock: P Cores  | 1.7 GHz                                                           |
+| Base Clock: E Cores  | 1.2 GHz                                                           |
+| Boost Clock: P Cores | 4.4 GHz                                                           |
+| Boost Clock: E Cores | 3.3 GHz                                                           |
 | Integrated Graphics  | Intel UHD Graphics (Iris Xe when paired with dual-channel memory) |
 
 ### Connectivity
