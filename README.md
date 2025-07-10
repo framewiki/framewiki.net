@@ -2,7 +2,7 @@
 The unofficial, community-driven Framework wiki.
 
 ## Contributing
-For information on contributing to Framewiki, see [Framewiki: Contributing](/framewiki:contributing)
+For information on contributing to Framewiki, see [Framewiki: Contributing](https://framewiki.net/framewiki:contributing)
 ### Framewiki To Do
 This section should be kept up to date with major tasks to improve Framewiki. Please mark items as complete as they are completed.
 #### Content
