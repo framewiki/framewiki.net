@@ -13,13 +13,13 @@ sidecar:
       - label: Funding
         value: $45.2M
       - label: Employees
-        value: 55
+        value: 63
       - label: Products
         value: 4 lines, 10 total products/generations
 ---
 # Framework Computer Inc
 {% include sidecar.html %}
-**Framework Computer Inc.** is a US-based consumer electronics company creating customizable and repairable laptops. Framework is a proponent of the Right to Repair movement, designing their products to be easily opened and repaired. They also sell replacement parts on their website, including kits that allow users to upgrade an older Framework Laptop to a newer generation. As of November 2024, the company has 55 employees and two open positions. [^9]
+**Framework Computer Inc.** is a US-based consumer electronics company creating customizable and repairable laptops. Framework is a proponent of the Right to Repair movement, designing their products to be easily opened and repaired. They also sell replacement parts on their website, including kits that allow users to upgrade an older Framework Laptop to a newer generation. As of August 2025, the company has 63 employees and 3 open positions. [^9]
 
 ## Awards
 In November 2021, Time magazine listed the Framework Laptop on their list of the 100 Best Inventions of 2021. [^1] 
