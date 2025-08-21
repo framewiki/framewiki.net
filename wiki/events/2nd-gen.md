@@ -33,4 +33,4 @@ Framework announced the event via a blog post and a scrolling marquee at the top
 [^1]: <https://frame.work/blog/framework-2nd-gen-event-is-live-on-february-25th> [Archived](https://web.archive.org/web/20250218030820/https://frame.work/blog/framework-2nd-gen-event-is-live-on-february-25th) 
 [^2]: <https://www.youtube.com/live/-8k7jTF_JCg> [Archived](https://web.archive.org/web/20250218031644/https://www.youtube.com/live/-8k7jTF_JCg) 
 [^3]: <https://frame.work> [Archived](https://web.archive.org/web/20250215175138/https://frame.work/)
-[^4]: <https://frame.work/blog/highlights-from-the-framework-2nd-gen-event>
+[^4]: <https://frame.work/blog/highlights-from-the-framework-2nd-gen-event> [Archived](http://web.archive.org/web/20250708010520/https://frame.work/blog/highlights-from-the-framework-2nd-gen-event) 
