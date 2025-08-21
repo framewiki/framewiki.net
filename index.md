@@ -32,7 +32,7 @@
 <div class="column-container">
     <div class="column" style="flex: 3;">
         <h3><a href="/events/2nd-gen">Framework [2nd Gen] Event</a></h3>
-        <p>The Framework [2nd Gen] Event is an upcoming launch event that will take place at at 10:30 a.m. PST February 25, 2025 in San Francisco, California. It is Framework’s second ever launch event, after the Framework Next Level Event in 2023. The event page includes a countdown and the following message:</p>
+        <p>was a launch event held February 25, 2025 in San Francisco, California, during which Framework announced the Framework Desktop, Framework Laptop 12 and Framework Laptop 13 (AMD Ryzen AI 300 Series).</p>
     </div>
     <div class="column" style="flex: 2; display: flex; align-items: center;">
         <img style="border: 1px solid black;" src="/assets/2nd-gen-hint.png" />
