@@ -90,6 +90,7 @@ Framework published electrical and mechanical templates on their GitHub to enabl
 - openCom LTE card by [Liberated Embedded Systems](https://liberatedsystems.co.uk). Discontinued but [open-source](https://git.liberatedsystems.co.uk/jacob.eva/opencom-lte).[^5]
 - DongleHider+ by [LeoDJ](https://github.com/LeoDJ). Available on [GitHub](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
 - EC Card 2 Embedded Controller Closed Case Debugging card by [DHowett](https://github.com/dhowett). Available on his [Gitlab](https://gitlab.howett.net/DHowett/framework-ec-debug-card).[^13]
+- RP2350 GPIO Expansion Card by [SemiTO-V Student Team](https://semitov.github.io/). Available on [GitHub](https://github.com/semitov/rp2350-gpio-card).
 
 # References
 [^1]: <https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636> [Archived](http://web.archive.org/web/20250114044406/https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636) 
