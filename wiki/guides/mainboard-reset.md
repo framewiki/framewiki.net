@@ -43,4 +43,5 @@ sidecar:
 
 ## 13th Gen Intel Core i3-1315U, Framework Laptop 12
 same procedure as Framwork 16, switch is located between m.2 slot and power daugterboard (labeled sw3)
--# this should also apply to the i5-1334U model but has not been tested
+this should also apply to the i5-1334U model but has not been tested
+
