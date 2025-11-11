@@ -41,7 +41,7 @@ show_downloads: true
 git_branch: "main"
 
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: "/assets/giganirav.png"
+logo_url: "/assets/framewiki.png"
 
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
