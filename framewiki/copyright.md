@@ -8,7 +8,6 @@ Note that individual contributors to Framewiki retain copyright to materials the
 
 ## Attributions
 - Images labeled "Courtesy of Framework" are provided by Framework Computer Inc. with limited permission for use on Framewiki only. These images are excluded from Framewiki's blanket CC BY-SA 4.0 license.
-- The [GigaNirav](/assets/giganirav.png) image is edited by [Its-Nevmo](https://github.com/Its-Nevmo), licensed under CC BY-SA 4.0.
 - Icons used in [notes](/framewiki:notes) are created by the [OOjs UI Team and other contributors](https://phabricator.wikimedia.org/diffusion/GOJU/browse/master/AUTHORS.txt) via Wikimedia Commons, licensed under [MIT](http://opensource.org/licenses/mit-license.php).
 - Framewiki's website uses [a fork](https://github.com/framewiki/git-wiki-theme) of the Jekyll theme [git-wiki-theme](https://github.com/Drassil/git-wiki-theme) by  Drassil.org, licensed under [MIT](http://opensource.org/licenses/mit-license.php):
 
