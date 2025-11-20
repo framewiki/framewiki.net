@@ -61,6 +61,6 @@
     </div>
     <div class="column">
         <h3><a href="https://community.frame.work/">Join the Framework Community</a></h3>
-        <p>Framewiki is created by the community, for the community. Though this site is unofficial, we recommend joining Framework's official communities on the <a href="https://community.frame.work/">forums</a>, <a href="https://discord.gg/framework">Discord</a> and <a href="https://reddit.com/r/framework">Reddit</a> to chat with fellow enthusiasts and other Framewiki contributors.</p>
+        <p>Framewiki is created unofficially by the community, for the community. Join Framework's official communities on the <a href="https://community.frame.work/">forums</a> and <a href="https://reddit.com/r/framework">Reddit</a> to chat with fellow Framework users and Framework staff.</p>
     </div>
 </div>
