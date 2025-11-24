@@ -1,6 +1,9 @@
 # Technical Files - Should be owned by @framewiki/admins
 _config.yml @framewiki/admins
 .github/ @framewiki/admins
+Gemfile @framewiki/admins
+Gemfile.lock @framewiki/admins
+LICENSE @framewiki/admins
 
 # Governance - Should be owned by @framewiki/admins
 framewiki/governance.md @framewiki/admins
