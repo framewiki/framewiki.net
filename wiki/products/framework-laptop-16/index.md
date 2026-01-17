@@ -23,9 +23,9 @@ sidecar:
 {% include sidecar.html %}
 **Framework Laptop 16** is [Framework’s](/framework-computer-inc) second product, announced March 23, 2023 at the [Framework Next Level Event](/events/next-level).[^1] Pre-orders opened July 18 of the same year.[^2] The first laptops shipped in February, 2024.[^7]
 
-The current generation is available with AMD Ryzen AI 300 series CPUs. Both [AMD Radeon RX7700S GPU](/expansion-bay/radeon-rx-7700s) and [NVIDIA GeForce RTX 5070 GPU](/expansion-bay/geforce-rtx-5070) are available to connects to the [expansion bay](/expansion-bay).
+The current generation is available with AMD Ryzen AI 300 series CPUs. Both [AMD Radeon RX7700S GPU](/expansion-bay/radeon-rx-7700s) and [NVIDIA GeForce RTX 5070 GPU](/expansion-bay/geforce-rtx-5070) are available to connect to the [expansion bay](/expansion-bay).
 
-The first generation is available with AMD Ryzen 7 7840HS and Ryzen 9 7940HS CPUs. Customers can optionally add an [AMD Radeon RX7700S GPU](/expansion-bay/radeon-rx-7700s).
+The first generation is available with AMD Ryzen 7 7840HS and Ryzen 9 7940HS CPUs.
 
 
 ## Customization
