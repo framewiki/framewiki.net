@@ -4,18 +4,13 @@ date: 2026-04-21
 wip: true
 sidecar:
     - title: Framework [Next Gen] Event
-      title_sm: 2025 Launch Event
+      title_sm: 2026 Launch Event
     - gap: true
     - table:
         - label: Announced
           value: April 9, 2026
         - label: Held
           value: April 21, 2026 at 10:30 a.m. PST
-        - label: Major Announcements
-          value: | 
-            • <a href="/products/framework-laptop-13-pro">Framework Laptop 13 Pro</a><br />
-            • <a href="/products/framework-desktop">Framework Desktop</a><br />
-            • <a href="/products/framework-laptop-12">Framework Laptop 12</a>
 ---
 # Framework [Next Gen] Event
 {% include sidecar.html %}
