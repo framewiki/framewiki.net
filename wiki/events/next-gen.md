@@ -22,5 +22,5 @@ Members of the media and [Framework partners](/partners) received invitations to
 
 # References
 [^1]: <https://frame.work/blog/framework-next-gen-event-is-live-on-april-21>
-[^2]: <https://www.youtube.com/watch?v=rgZlzCd0DUU>
+[^2]: <https://www.youtube.com/watch?v=rgZlzCd0DUU> [Archived](https://web.archive.org/web/20260512164025/https://www.youtube.com/watch?v=rgZlzCd0DUU) 
 [^3]: <https://frame.work/nextgen>
